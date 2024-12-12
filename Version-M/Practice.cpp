@@ -26,9 +26,22 @@ int main() {
 		}
 		cout<<"\n";
 	}
+//bool decide;
+//do{
+//	int decideloginorsign;
+//	cout<<"Enter 1 for sign up and 2 for login\n";
+//	cin>>decideloginorsign;
+//	decide=true;
+//}
+//while(!decide)
 	// Predefined login information stored as a 2D array
-	string logininformation[1000][4]={{"u2024286","2005/12/15","3330108521889","Mazhar Guftar"}};
-      // Input prompt for login details
+	string logininformation[1000][4]={{"u2024286","2003/12/15","3333338521881","Mazhar Guftar"}
+									  ,{"u2024287","2004/12/15","3333338521882","Talal Iqbal"}
+									  ,{"u2024288","2004/12/15","3333338521883","Atta Rahman"}};
+bool login; // variable for used for again input
+do{
+	
+	  // Input prompt for login details
 	cout << "Enter username: ";
     getline(cin, username); // Read the username
     cout << "Enter password: ";
@@ -39,10 +52,17 @@ int main() {
 		// Check the entered credentials against the stored login information
         if (logininformation[i][0] == username && 
             logininformation[i][1] == password && 
-            logininformation[i][2] == cnic_no)
-            cout << "Login successful! Welcome, " << logininformation[i][3] << "!" << endl;  // Successful login message
-        else
-			cout << "Login Filled! , ";  //  login Filled message   
-			} 
+            logininformation[i][2] == cnic_no){
+            cout << "Login successful! Welcome " << logininformation[i][3] << "!" << endl;  // Successful login message
+        	login=true;
+			break;
+			}
+		}	
+	if(!login)
+		cout << "Login Failed!\n"; //  login Filled message  
+}
+while(!login);
+	
     return 0;
 }
+
