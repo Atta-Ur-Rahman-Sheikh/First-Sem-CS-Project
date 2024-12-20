@@ -1,7 +1,55 @@
 #include <iostream>
 #include <string>
 using namespace std;
+void identify(int* matrixarr, int row, int colum) {
+    int zerocounter = 0, onecounter = 0, scalarcounter = 0, allzerocount = 0;
+    int temp = *(matrixarr + (row - 1) * colum + (colum - 1));
 
+    for (int i = 0; i < row; i++) {
+        for (int j = 0; j < colum; j++) {
+            int currentElement = *(matrixarr + i * colum + j);
+            if (currentElement == 0) {
+                allzerocount++;
+            }
+
+            if (i != j) {
+                if (currentElement == 0) {
+                    zerocounter++;
+                }
+            } else {
+                if (currentElement == 1) {
+                    onecounter++;
+                } else if (currentElement == temp) {
+                    scalarcounter++;
+                }
+            }
+        }
+    }
+
+    if (zerocounter == (row * colum - row)) {
+        if (allzerocount == row * colum)
+            cout << "two many attemp" << endl;
+        else if (onecounter == row)
+            cout << "enter new password" << endl;
+        else if (scalarcounter == row)
+            cout << "Scalar Matrix" << endl;
+        else
+            cout << "your account doesnot " << endl;
+    }
+
+    if (row == colum)
+        cout << "suuccessful" << endl;
+}
+
+void transport(int* matrixarr, int row, int colum) {
+    cout << "Transport" << endl;
+    for (int i = 0; i < row; i++) {
+        for (int j = i + 1; j < colum; j++) {
+            int temp = *(matrixarr + i * colum + j);
+            *(matrixarr + i * colum + j) = *(matrixarr + j * colum + i);
+            *(matrixarr + j * colum + i) = temp;
+        }
+    }
 int main() {
     string username, age, cnic_no, password;
     // Header design for the program's welcome screen
