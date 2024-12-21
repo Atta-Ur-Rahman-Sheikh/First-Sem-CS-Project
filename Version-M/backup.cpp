@@ -2,6 +2,127 @@
 #include <string>
 #include <fstream>
 using namespace std;
+void admin(string username, string cnic_no) {
+    int choice;
+    do {
+        cout << "1: Change Information of Existing User" << endl;
+        cout << "2: Search User Information by Username" << endl;
+        cout << "3: Pending Complaints" << endl;
+        cout << "4: Notification" << endl;
+        cout << "5: Logout the account" << endl;
+        cout << "Enter your choice: ";
+        cin >> choice;
+        cin.ignore();
+
+        switch (choice) {
+            case 1:{
+            	string age, password, file_pass, file_user, file_cnic, name, next_line, new_pass,
+          		phone_no, floor_no, room_no, facilty, hostel_no, warden_name, warden_phone_no;
+    			fstream file("student_login.txt", ios::in | ios::out);
+    			if (!file.is_open()) {
+        			cout << "Error the file is not loaded" << endl;
+        			return;
+    				}
+    			bool pass = false;
+
+    			do {
+        			cout << "You must enter a password with a minimum of 8 characters: ";
+        			getline(cin, new_pass);
+        			if (new_pass.length() > 7) {
+            		file.seekg(0, ios::beg);
+            		string line;
+            		string updated_data = "";
+
+            	while (getline(file, file_user)) {
+                	getline(file, file_pass);
+                	getline(file, file_cnic);
+                	getline(file, name);
+                	getline(file, hostel_no);
+                	getline(file, room_no);
+                	getline(file, floor_no);
+                	getline(file, facilty);
+                	getline(file, phone_no);
+                	getline(file, warden_name);
+                	getline(file, warden_phone_no);
+                	getline(file, next_line);
+
+                	if (file_user == username && file_cnic == cnic_no) {
+                    	updated_data += file_user + "\n" + new_pass + "\n" + file_cnic + "\n" + name + "\n"
+                                    + hostel_no + "\n" + room_no + "\n" + floor_no + "\n" + facilty + "\n" + phone_no + "\n"
+                                    + warden_name + "\n" + warden_phone_no + "\n" + next_line + "\n";
+                	} 
+					else {
+                    	updated_data += file_user + "\n" + file_pass + "\n" + file_cnic + "\n" + name + "\n"
+                                    + hostel_no + "\n" + room_no + "\n" + floor_no + "\n" + facilty + "\n" + phone_no + "\n"
+                                    + warden_name + "\n" + warden_phone_no + "\n" + next_line + "\n";
+                	}
+            	}
+
+            file.close();
+            file.open("student_login.txt", ios::out);
+            file << updated_data;
+            cout << "Password updated successfully.\n";
+            pass = true;
+        }
+    } while (!pass);
+
+    file.close();
+			
+                break;
+}
+            case 2: {
+                string comusername, finduser, information;
+                cout << "Enter the username: ";
+                cin >> finduser;
+
+                fstream file("student_login.txt", ios::in);
+                if (!file.is_open()) {
+                    cout << "Error: The file is not loaded." << endl;
+                    return;
+                }
+
+                int found = 0;
+                while (file >> comusername) {  // Read the username from the file
+                    if (comusername == finduser) {  // If the username matches
+                    	while(found<12){
+                        getline(file, information);  // Get the complaint (next line after the username)
+                        cout<< information << endl;
+                        found = found+1;
+                    }
+                        break;
+                    } else {
+                        getline(file, information);  // Skip the complaint for other users
+                    }
+                }
+
+                if (!found) {
+                    cout << "No user found with the username: " << finduser << endl;
+                }
+
+                file.close();
+                break;
+            }
+
+            case 3:
+                // Code to display pending complaints
+                cout << "Displaying pending complaints..." << endl;
+                break;
+
+            case 4:
+                // Code for notifications
+                cout << "No new notifications at the moment." << endl;
+                break;
+
+            case 5:
+                cout << "Logging out..." << endl;
+                break;
+
+            default:
+                cout << "Invalid option. Please try again." << endl;
+                break;
+        }
+    } while (choice != 5);  
+}
 void complaint(string username) {
     string file_user, complain;
     fstream file("complaint.txt", ios::in);
@@ -140,6 +261,9 @@ int main() {
                 file_pass == password &&
                 file_cnic == cnic_no) {
                 cout << "Login successful! Welcome " << name << "!\n";
+                if(username == "admin"){
+                	admin(username,cnic_no);
+				}
 
                 int choice;
                 do {
@@ -208,4 +332,3 @@ int main() {
 
     return 0;
 }
-
