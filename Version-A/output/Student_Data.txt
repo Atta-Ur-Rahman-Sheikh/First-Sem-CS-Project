@@ -208,7 +208,7 @@ Room Number:
 ---
 Name: MAH NOOR FATIMA
 Reg: 2024266
-Gender: M
+Gender: F
 Age: 22
 CNIC: 55450-5600164-1
 Program: BME
@@ -702,7 +702,7 @@ Room Number:
 ---
 Name: UROOSA AQEEL
 Reg: 2024649
-Gender: M
+Gender: F
 Age: 18
 CNIC: 97237-6071223-9
 Program: BME
@@ -936,7 +936,7 @@ Room Number:
 ---
 Name: EMAAN BUTT
 Reg: 2024153
-Gender: M
+Gender: F
 Age: 18
 CNIC: 48461-4259479-0
 Program: CVE
@@ -949,7 +949,7 @@ Room Number:
 ---
 Name: EMAN KHAN
 Reg: 2024157
-Gender: M
+Gender: F
 Age: 17
 CNIC: 54124-1391094-4
 Program: CVE
@@ -1469,7 +1469,7 @@ Room Number:
 ---
 Name: MALAIKA IJAZ KHAN
 Reg: 2024698
-Gender: M
+Gender: F
 Age: 21
 CNIC: 39603-1180941-8
 Program: CVE
@@ -1495,7 +1495,7 @@ Room Number:
 ---
 Name: AMMARA
 Reg: 2024099
-Gender: M
+Gender: F
 Age: 22
 CNIC: 17862-4950391-6
 Program: CME
@@ -1508,7 +1508,7 @@ Room Number:
 ---
 Name: AMNA SADIA
 Reg: 2024103
-Gender: M
+Gender: F
 Age: 20
 CNIC: 99609-1183026-6
 Program: CME
@@ -1521,7 +1521,7 @@ Room Number:
 ---
 Name: AMNA SHAHZAD
 Reg: 2024104
-Gender: M
+Gender: F
 Age: 16
 CNIC: 52416-4218133-1
 Program: CME
@@ -1534,7 +1534,7 @@ Room Number:
 ---
 Name: AREEBA KHAN
 Reg: 2024111
-Gender: M
+Gender: F
 Age: 21
 CNIC: 53903-1736494-8
 Program: CME
@@ -1547,7 +1547,7 @@ Room Number:
 ---
 Name: DUA JADOON
 Reg: 2024151
-Gender: M
+Gender: F
 Age: 21
 CNIC: 60178-8227469-6
 Program: CME
@@ -1768,7 +1768,7 @@ Room Number:
 ---
 Name: SABA AFRIDI
 Reg: 2024551
-Gender: M
+Gender: F
 Age: 16
 CNIC: 58130-6212052-7
 Program: CME
@@ -1781,7 +1781,7 @@ Room Number:
 ---
 Name: SABA JAVED
 Reg: 2024552
-Gender: M
+Gender: F
 Age: 21
 CNIC: 65809-3013278-3
 Program: CME
@@ -1857,7 +1857,7 @@ Emergency Contact: +923160741172
 Hostel: 
 Room Number: 
 ---
-Name: Khisal Akram
+Name: KHISAL AKRAM
 Reg: 2024706
 Gender: M
 Age: 16
@@ -1950,7 +1950,7 @@ Room Number:
 ---
 Name: AYESHA KHAN
 Reg: 2024128
-Gender: M
+Gender: F
 Age: 16
 CNIC: 52683-8162689-8
 Program: MSE
@@ -1989,7 +1989,7 @@ Room Number:
 ---
 Name: FAIZA ALI
 Reg: 2024165
-Gender: M
+Gender: F
 Age: 19
 CNIC: 84808-6062421-6
 Program: MSE
@@ -2548,7 +2548,7 @@ Room Number:
 ---
 Name: EMAN SHAFQAT
 Reg: 2024158
-Gender: M
+Gender: F
 Age: 17
 CNIC: 39663-5325718-3
 Program: BEE
@@ -3224,7 +3224,7 @@ Room Number:
 ---
 Name: NOOR FATIMA
 Reg: 2024520
-Gender: M
+Gender: F
 Age: 20
 CNIC: 99009-1016179-5
 Program: BEE
@@ -3237,7 +3237,7 @@ Room Number:
 ---
 Name: RAHMA NOOR MALIK
 Reg: 2024530
-Gender: M
+Gender: F
 Age: 19
 CNIC: 63408-7326563-9
 Program: BEE
@@ -3289,7 +3289,7 @@ Room Number:
 ---
 Name: SAFIA MALIK
 Reg: 2024555
-Gender: M
+Gender: F
 Age: 22
 CNIC: 81028-8299638-9
 Program: BEE
@@ -3393,7 +3393,7 @@ Room Number:
 ---
 Name: UMAMA ALI
 Reg: 2024643
-Gender: M
+Gender: F
 Age: 18
 CNIC: 80787-8803308-4
 Program: BEE
@@ -3536,7 +3536,7 @@ Room Number:
 ---
 Name: ALIZEH DAYO
 Reg: 2024094
-Gender: M
+Gender: F
 Age: 19
 CNIC: 36528-9368811-4
 Program: MGS
@@ -3549,7 +3549,7 @@ Room Number:
 ---
 Name: AYESHA ASIF
 Reg: 2024125
-Gender: M
+Gender: F
 Age: 18
 CNIC: 45433-9498342-1
 Program: MGS
@@ -3562,7 +3562,7 @@ Room Number:
 ---
 Name: AYESHA IMRAN
 Reg: 2024126
-Gender: M
+Gender: F
 Age: 19
 CNIC: 58293-9865576-3
 Program: MGS
@@ -3575,7 +3575,7 @@ Room Number:
 ---
 Name: AYESHA MUATTER
 Reg: 2024129
-Gender: M
+Gender: F
 Age: 18
 CNIC: 61256-5963939-7
 Program: MGS
@@ -3614,7 +3614,7 @@ Room Number:
 ---
 Name: EMAAN HASSAN
 Reg: 2024155
-Gender: M
+Gender: F
 Age: 19
 CNIC: 52878-4659841-1
 Program: MGS
@@ -3692,7 +3692,7 @@ Room Number:
 ---
 Name: HAMNA RASHEED
 Reg: 2024199
-Gender: M
+Gender: F
 Age: 19
 CNIC: 76585-8274631-3
 Program: MGS
@@ -3796,7 +3796,7 @@ Room Number:
 ---
 Name: MANAHIL DAWOOD SHAMSI
 Reg: 2024278
-Gender: M
+Gender: F
 Age: 18
 CNIC: 93423-3886113-1
 Program: MGS
@@ -3965,7 +3965,7 @@ Room Number:
 ---
 Name: RIDA FATIMA
 Reg: 2024539
-Gender: M
+Gender: F
 Age: 16
 CNIC: 98586-4916255-9
 Program: MGS
@@ -4056,7 +4056,7 @@ Room Number:
 ---
 Name: SOBIA
 Reg: 2024594
-Gender: M
+Gender: F
 Age: 19
 CNIC: 38072-3055884-2
 Program: MGS
@@ -4160,7 +4160,7 @@ Room Number:
 ---
 Name: SHARIAH NOOR AZHAR
 Reg: 2024581
-Gender: M
+Gender: F
 Age: 16
 CNIC: 32393-4614917-1
 Program: MGS
@@ -4257,7 +4257,7 @@ CNIC: 66556-9503558-7
 Program: BAI
 Section: F
 Account Password: 1122
-Contact: +923107006617
+Contact: +923010089595
 Emergency Contact: +923257011547
 Hostel: 
 Room Number: 
@@ -4277,7 +4277,7 @@ Room Number:
 ---
 Name: BATOOL BINTE FAZAL
 Reg: 2024140
-Gender: M
+Gender: F
 Age: 17
 CNIC: 14501-5082370-5
 Program: BAI
@@ -4290,7 +4290,7 @@ Room Number:
 ---
 Name: EMAAN FATIMA
 Reg: 2024154
-Gender: M
+Gender: F
 Age: 21
 CNIC: 81736-5561361-9
 Program: BAI
@@ -4303,7 +4303,7 @@ Room Number:
 ---
 Name: EMAAN TAHIR SWATI
 Reg: 2024156
-Gender: M
+Gender: F
 Age: 17
 CNIC: 75475-9539356-9
 Program: BAI
@@ -4342,7 +4342,7 @@ Room Number:
 ---
 Name: GHANIA MUKHTAR
 Reg: 2024184
-Gender: M
+Gender: F
 Age: 17
 CNIC: 47260-7621977-5
 Program: BAI
@@ -4407,7 +4407,7 @@ Room Number:
 ---
 Name: LABIBA AHMAD
 Reg: 2024260
-Gender: M
+Gender: F
 Age: 20
 CNIC: 45471-2119409-9
 Program: BAI
@@ -4420,7 +4420,7 @@ Room Number:
 ---
 Name: MAIMOONA SABOOR
 Reg: 2024270
-Gender: M
+Gender: F
 Age: 20
 CNIC: 81370-6862614-5
 Program: BAI
@@ -4667,7 +4667,7 @@ Room Number:
 ---
 Name: QURAT ULAIN AHMED
 Reg: 2024526
-Gender: M
+Gender: F
 Age: 18
 CNIC: 38737-4537043-4
 Program: BAI
@@ -4680,7 +4680,7 @@ Room Number:
 ---
 Name: RABIA ASHRAF
 Reg: 2024527
-Gender: M
+Gender: F
 Age: 21
 CNIC: 32947-6126912-6
 Program: BAI
@@ -4693,7 +4693,7 @@ Room Number:
 ---
 Name: RABIA YASIN
 Reg: 2024528
-Gender: M
+Gender: F
 Age: 19
 CNIC: 34627-7820346-3
 Program: BAI
@@ -4706,7 +4706,7 @@ Room Number:
 ---
 Name: RIDA SYED
 Reg: 2024540
-Gender: M
+Gender: F
 Age: 22
 CNIC: 51873-9183973-6
 Program: BAI
@@ -4745,7 +4745,7 @@ Room Number:
 ---
 Name: SEHLA KHAN
 Reg: 2024568
-Gender: M
+Gender: F
 Age: 20
 CNIC: 21982-9647469-2
 Program: BAI
@@ -4784,7 +4784,7 @@ Room Number:
 ---
 Name: SYEDA KHADIJA HASSAN
 Reg: 2024626
-Gender: M
+Gender: F
 Age: 17
 CNIC: 52348-6443297-6
 Program: BAI
@@ -4797,7 +4797,7 @@ Room Number:
 ---
 Name: UROOSH MARYAM
 Reg: 2024650
-Gender: M
+Gender: F
 Age: 18
 CNIC: 36125-2264693-0
 Program: BAI
@@ -4810,7 +4810,7 @@ Room Number:
 ---
 Name: ZARA GUL SAMOO
 Reg: 2024679
-Gender: M
+Gender: F
 Age: 19
 CNIC: 44431-6638493-8
 Program: BAI
@@ -5005,7 +5005,7 @@ Room Number:
 ---
 Name: IRAB ZARA
 Reg: 2024244
-Gender: M
+Gender: F
 Age: 18
 CNIC: 87473-7617730-4
 Program: BCYS
@@ -5317,7 +5317,7 @@ Room Number:
 ---
 Name: SYEDA MAHEEN KAZMI
 Reg: 2024627
-Gender: M
+Gender: F
 Age: 16
 CNIC: 17782-7006858-4
 Program: BCYS
@@ -5369,7 +5369,7 @@ Room Number:
 ---
 Name: WARDA GUL
 Reg: 2024663
-Gender: M
+Gender: F
 Age: 17
 CNIC: 29876-6986157-8
 Program: BCYS
@@ -5395,7 +5395,7 @@ Room Number:
 ---
 Name: ZAINAB HASHMI
 Reg: 2024674
-Gender: M
+Gender: F
 Age: 22
 CNIC: 60550-1366094-7
 Program: BCYS
@@ -5486,7 +5486,7 @@ Room Number:
 ---
 Name: AIZA HUMAYUN
 Reg: 2024076
-Gender: M
+Gender: F
 Age: 20
 CNIC: 26270-3803473-7
 Program: CSW
@@ -5499,7 +5499,7 @@ Room Number:
 ---
 Name: ALEENA JAMIL
 Reg: 2024081
-Gender: M
+Gender: F
 Age: 22
 CNIC: 84227-3485481-8
 Program: CSW
@@ -5538,7 +5538,7 @@ Room Number:
 ---
 Name: AREEJ ARIF
 Reg: 2024113
-Gender: M
+Gender: J
 Age: 17
 CNIC: 74487-1905270-9
 Program: CSW
@@ -5577,7 +5577,7 @@ Room Number:
 ---
 Name: AYESHA KHALID
 Reg: 2024127
-Gender: M
+Gender: F
 Age: 18
 CNIC: 24151-2840887-6
 Program: CSW
@@ -5681,7 +5681,7 @@ Room Number:
 ---
 Name: MAIDA FATIMA
 Reg: 2024269
-Gender: M
+Gender: F
 Age: 17
 CNIC: 36839-5380555-5
 Program: CSW
@@ -5902,7 +5902,7 @@ Room Number:
 ---
 Name: SEHRISH NOOR
 Reg: 2024569
-Gender: M
+Gender: F
 Age: 17
 CNIC: 75664-8746484-2
 Program: CSW
@@ -5993,7 +5993,7 @@ Room Number:
 ---
 Name: TOOBA HUSSAIN
 Reg: 2024639
-Gender: M
+Gender: F
 Age: 22
 CNIC: 57400-6247041-0
 Program: CSW
@@ -6175,7 +6175,7 @@ Room Number:
 ---
 Name: AISHA NOOR
 Reg: 2024075
-Gender: M
+Gender: F
 Age: 17
 CNIC: 62038-5209734-7
 Program: BCS
@@ -6266,7 +6266,7 @@ Room Number:
 ---
 Name: HAMNA QAMAR
 Reg: 2024198
-Gender: M
+Gender: F
 Age: 20
 CNIC: 40021-5081275-0
 Program: BCS
@@ -6344,7 +6344,7 @@ Room Number:
 ---
 Name: HOORIA MUBASHAR DAR
 Reg: 2024232
-Gender: M
+Gender: F
 Age: 19
 CNIC: 34064-6328363-1
 Program: BCS
@@ -6760,7 +6760,7 @@ Room Number:
 ---
 Name: SYEDA FATIMA TU ZAHRA
 Reg: 2024625
-Gender: M
+Gender: F
 Age: 16
 CNIC: 46361-8068070-4
 Program: BCS
@@ -6955,7 +6955,7 @@ Room Number:
 ---
 Name: AMNA NADEEM KHAN
 Reg: 2024102
-Gender: M
+Gender: F
 Age: 16
 CNIC: 48793-8357941-5
 Program: MGS
@@ -7046,7 +7046,7 @@ Room Number:
 ---
 Name: HANNAH SARAH
 Reg: 2024216
-Gender: M
+Gender: F
 Age: 18
 CNIC: 25344-7624312-0
 Program: MGS
@@ -7174,9 +7174,9 @@ Emergency Contact: +923911909602
 Hostel: 
 Room Number: 
 ---
-Name: Noor Ul Ain
+Name: Noor UL AIN
 Reg: 2024713
-Gender: M
+Gender: F
 Age: 17
 CNIC: 28448-6278968-3
 Program: MGS
@@ -7319,7 +7319,7 @@ Room Number:
 ---
 Name: SARA KHAN
 Reg: 2024565
-Gender: M
+Gender: F
 Age: 21
 CNIC: 13928-4577178-4
 Program: MGS
@@ -7384,7 +7384,7 @@ Room Number:
 ---
 Name: ZAINAB NAVEED
 Reg: 2024676
-Gender: M
+Gender: F
 Age: 21
 CNIC: 81601-2417478-0
 Program: MGS
@@ -7436,7 +7436,7 @@ Room Number:
 ---
 Name: Syeda Urshia Baharat Aziz
 Reg: 2024714
-Gender: M
+Gender: F
 Age: 16
 CNIC: 29737-5804173-0
 Program: MGS
@@ -7553,7 +7553,7 @@ Room Number:
 ---
 Name: ALEENA RIZWAN
 Reg: 2024082
-Gender: M
+Gender: F
 Age: 21
 CNIC: 57958-3292405-8
 Program: BDS
@@ -7696,7 +7696,7 @@ Room Number:
 ---
 Name: HAMNAH FAHAD
 Reg: 2024200
-Gender: M
+Gender: F
 Age: 18
 CNIC: 60052-3712813-0
 Program: BDS
@@ -7956,7 +7956,7 @@ Room Number:
 ---
 Name: SARA FAYSAL
 Reg: 2024564
-Gender: M
+Gender: F
 Age: 17
 CNIC: 89260-5528243-8
 Program: BDS
@@ -8034,7 +8034,7 @@ Room Number:
 ---
 Name: SYEDA DANIA ALI NAQVI
 Reg: 2024624
-Gender: M
+Gender: F
 Age: 22
 CNIC: 13888-4816307-7
 Program: BDS
@@ -8138,7 +8138,7 @@ Room Number:
 ---
 Name: ZAINAB AWAIS
 Reg: 2024672
-Gender: M
+Gender: F
 Age: 20
 CNIC: 55743-3964307-7
 Program: BDS
@@ -8151,7 +8151,7 @@ Room Number:
 ---
 Name: ZAINAB BINT E NAEEM
 Reg: 2024673
-Gender: M
+Gender: F
 Age: 18
 CNIC: 47635-9244940-8
 Program: BDS
@@ -8164,7 +8164,7 @@ Room Number:
 ---
 Name: ZAINAB ZAHID
 Reg: 2024677
-Gender: M
+Gender: F
 Age: 17
 CNIC: 51655-2436387-6
 Program: BDS
@@ -8242,7 +8242,7 @@ Room Number:
 ---
 Name: AIZAZ RAFIQUE
 Reg: 2024079
-Gender: M
+Gender: F
 Age: 17
 CNIC: 83612-2235621-8
 Program: BCE
@@ -8268,7 +8268,7 @@ Room Number:
 ---
 Name: AMNA MALIK
 Reg: 2024101
-Gender: M
+Gender: F
 Age: 20
 CNIC: 11212-1344075-7
 Program: BCE
@@ -8307,7 +8307,7 @@ Room Number:
 ---
 Name: FARZEEN FATIMA
 Reg: 2024171
-Gender: M
+Gender: F
 Age: 22
 CNIC: 70771-4981571-2
 Program: BCE
@@ -8658,7 +8658,7 @@ Room Number:
 ---
 Name: WARDA
 Reg: 2024662
-Gender: M
+Gender: F
 Age: 17
 CNIC: 62138-3146598-2
 Program: BCE
@@ -8671,7 +8671,7 @@ Room Number:
 ---
 Name: ZAHRA ALIABBAS MARIWALA
 Reg: 2024668
-Gender: M
+Gender: F
 Age: 16
 CNIC: 18907-5775738-2
 Program: BCE
@@ -8736,7 +8736,7 @@ Room Number:
 ---
 Name: AMNA ATIF
 Reg: 2024100
-Gender: M
+Gender: F
 Age: 20
 CNIC: 64230-2211021-0
 Program: BES
@@ -8762,7 +8762,7 @@ Room Number:
 ---
 Name: ANUM SHAHZADI
 Reg: 2024107
-Gender: M
+Gender: F
 Age: 18
 CNIC: 50812-7646613-2
 Program: BES
@@ -8775,7 +8775,7 @@ Room Number:
 ---
 Name: DAANYA QASIM KHAN
 Reg: 2024145
-Gender: M
+Gender: F
 Age: 19
 CNIC: 28561-3171615-4
 Program: BES
@@ -8788,7 +8788,7 @@ Room Number:
 ---
 Name: ESHAAL BINT SHAHAB
 Reg: 2024160
-Gender: M
+Gender: F
 Age: 19
 CNIC: 73144-5575236-1
 Program: BES
@@ -8812,9 +8812,9 @@ Emergency Contact: +923855322796
 Hostel: 
 Room Number: 
 ---
-Name: Khadeeja Sultan
+Name: KHADEEJA SULTAN
 Reg: 2023273
-Gender: M
+Gender: F
 Age: 18
 CNIC: 13120-4131414-6
 Program: BES
@@ -9009,7 +9009,7 @@ Room Number:
 ---
 Name: SYEDA MARIA BUKHARI
 Reg: 2024628
-Gender: M
+Gender: F
 Age: 21
 CNIC: 83193-8203911-2
 Program: BES
@@ -9035,7 +9035,7 @@ Room Number:
 ---
 Name: ZAINAB HASSAN
 Reg: 2024675
-Gender: M
+Gender: F
 Age: 22
 CNIC: 69689-6035940-2
 Program: BES
