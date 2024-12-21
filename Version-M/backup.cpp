@@ -94,13 +94,6 @@ void complaintbox(string username) {
     file << username << " " << complain << "\n";
     file.close();
 }
-
-#include <iostream>
-#include <fstream>
-#include <string>
-
-using namespace std;
-
 int main() {
     int chose;
     string username, age, cnic_no, password, file_pass, file_user, file_cnic, name, next_line, new_pass,
