@@ -1,0 +1,9061 @@
+Name: ABDUL WAHAB
+Reg: 2024032
+Gender: M
+Age: 20
+CNIC: 42767-2613675-0
+Program: BME
+Section: A
+Account Password: 1032
+Contact: +923378461998
+Emergency Contact: +923291286657
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH BIN ZUBAIR
+Reg: 2024036
+Gender: M
+Age: 17
+CNIC: 43117-9680119-9
+Program: BME
+Section: A
+Account Password: 1036
+Contact: +923505954682
+Emergency Contact: +923925635684
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH TAHIR
+Reg: 2024044
+Gender: M
+Age: 20
+CNIC: 22719-2988141-2
+Program: BME
+Section: A
+Account Password: 1044
+Contact: +923820248947
+Emergency Contact: +923669284629
+Hostel: 
+Room Number: 
+---
+Name: AMMAD ALI
+Reg: 2024098
+Gender: M
+Age: 20
+CNIC: 12563-1045450-1
+Program: BME
+Section: A
+Account Password: 1098
+Contact: +923737611650
+Emergency Contact: +923238815612
+Hostel: 
+Room Number: 
+---
+Name: AQIB IRFAN
+Reg: 2024110
+Gender: M
+Age: 18
+CNIC: 32198-4350724-0
+Program: BME
+Section: A
+Account Password: 1110
+Contact: +923190015234
+Emergency Contact: +923955565129
+Hostel: 
+Room Number: 
+---
+Name: ASAD ULLAH KHAN
+Reg: 2024118
+Gender: M
+Age: 20
+CNIC: 62840-7937767-0
+Program: BME
+Section: A
+Account Password: 1118
+Contact: +923548871737
+Emergency Contact: +923559044450
+Hostel: 
+Room Number: 
+---
+Name: AUN MUHAMMAD SHAHID
+Reg: 2024123
+Gender: M
+Age: 17
+CNIC: 29260-6899967-2
+Program: BME
+Section: A
+Account Password: 1123
+Contact: +923582784618
+Emergency Contact: +923389705119
+Hostel: 
+Room Number: 
+---
+Name: BILAL ALI
+Reg: 2024141
+Gender: M
+Age: 17
+CNIC: 74356-1371466-6
+Program: BME
+Section: A
+Account Password: 1141
+Contact: +923141901461
+Emergency Contact: +923338544878
+Hostel: 
+Room Number: 
+---
+Name: DANYAL YASIR
+Reg: 2024148
+Gender: M
+Age: 21
+CNIC: 38531-1080128-8
+Program: BME
+Section: A
+Account Password: 1148
+Contact: +923815579445
+Emergency Contact: +923440305538
+Hostel: 
+Room Number: 
+---
+Name: HAMZA ABDUL JABBAR
+Reg: 2024201
+Gender: M
+Age: 19
+CNIC: 66398-4517486-9
+Program: BME
+Section: A
+Account Password: 1201
+Contact: +923387290765
+Emergency Contact: +923418838657
+Hostel: 
+Room Number: 
+---
+Name: HANI
+Reg: 2024214
+Gender: M
+Age: 18
+CNIC: 23630-6633044-4
+Program: BME
+Section: A
+Account Password: 1214
+Contact: +923131759266
+Emergency Contact: +923337264517
+Hostel: 
+Room Number: 
+---
+Name: HASSAN INAYAT
+Reg: 2024228
+Gender: M
+Age: 16
+CNIC: 44307-2063254-5
+Program: BME
+Section: A
+Account Password: 1228
+Contact: +923389390121
+Emergency Contact: +923721790853
+Hostel: 
+Room Number: 
+---
+Name: JAMAL AHMAD
+Reg: 2024248
+Gender: M
+Age: 22
+CNIC: 21279-2187271-6
+Program: BME
+Section: A
+Account Password: 1248
+Contact: +923435519988
+Emergency Contact: +923663498785
+Hostel: 
+Room Number: 
+---
+Name: JIHAD ANAS QAZI
+Reg: 2024252
+Gender: M
+Age: 21
+CNIC: 47252-7346423-9
+Program: BME
+Section: A
+Account Password: 1252
+Contact: +923251061342
+Emergency Contact: +923970320030
+Hostel: 
+Room Number: 
+---
+Name: KASHAN MUHAMMAD KHAN
+Reg: 2024253
+Gender: M
+Age: 16
+CNIC: 18506-6647750-0
+Program: BME
+Section: A
+Account Password: 1253
+Contact: +923281413654
+Emergency Contact: +923327570282
+Hostel: 
+Room Number: 
+---
+Name: KHIZER AHMED KHAN
+Reg: 2024257
+Gender: M
+Age: 17
+CNIC: 37162-7862048-7
+Program: BME
+Section: A
+Account Password: 1257
+Contact: +923853803970
+Emergency Contact: +923235720895
+Hostel: 
+Room Number: 
+---
+Name: MAH NOOR FATIMA
+Reg: 2024266
+Gender: F
+Age: 22
+CNIC: 55450-5600164-1
+Program: BME
+Section: A
+Account Password: 1266
+Contact: +923756661801
+Emergency Contact: +923645415878
+Hostel: 
+Room Number: 
+---
+Name: MARYAM NAJEEB
+Reg: 2024283
+Gender: F
+Age: 19
+CNIC: 71007-4330422-5
+Program: BME
+Section: A
+Account Password: 1283
+Contact: +923391775950
+Emergency Contact: +923114330749
+Hostel: 
+Room Number: 
+---
+Name: MEKAAL JAVAID
+Reg: 2024287
+Gender: M
+Age: 19
+CNIC: 94054-1761606-5
+Program: BME
+Section: A
+Account Password: 1287
+Contact: +923848893668
+Emergency Contact: +923981773643
+Hostel: 
+Room Number: 
+---
+Name: MOAZ HASSAN
+Reg: 2024298
+Gender: M
+Age: 18
+CNIC: 57899-1134827-3
+Program: BME
+Section: A
+Account Password: 1298
+Contact: +923152020786
+Emergency Contact: +923807452437
+Hostel: 
+Room Number: 
+---
+Name: MUBEEN AHMED
+Reg: 2024310
+Gender: M
+Age: 16
+CNIC: 10755-2989629-9
+Program: BME
+Section: A
+Account Password: 1310
+Contact: +923740949797
+Emergency Contact: +923592094474
+Hostel: 
+Room Number: 
+---
+Name: MUDASSAR ALI
+Reg: 2024312
+Gender: M
+Age: 22
+CNIC: 38550-6763010-6
+Program: BME
+Section: A
+Account Password: 1312
+Contact: +923192544525
+Emergency Contact: +923560553385
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDULLAH BAIG
+Reg: 2024325
+Gender: M
+Age: 16
+CNIC: 16695-1924457-6
+Program: BME
+Section: A
+Account Password: 1325
+Contact: +923793346561
+Emergency Contact: +923508142522
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDULLAH YOUSAF FAROOQUI
+Reg: 2024330
+Gender: M
+Age: 17
+CNIC: 31543-8475993-7
+Program: BME
+Section: A
+Account Password: 1330
+Contact: +923746021572
+Emergency Contact: +923517613317
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ALI TAHIR
+Reg: 2024346
+Gender: M
+Age: 17
+CNIC: 23662-9418844-8
+Program: BME
+Section: A
+Account Password: 1346
+Contact: +923360560433
+Emergency Contact: +923167511869
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AZLAN KHAN
+Reg: 2024363
+Gender: M
+Age: 16
+CNIC: 98186-5063147-5
+Program: BME
+Section: A
+Account Password: 1363
+Contact: +923852539111
+Emergency Contact: +923528092923
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD BIN ASIM
+Reg: 2024368
+Gender: M
+Age: 17
+CNIC: 91556-5773309-3
+Program: BME
+Section: A
+Account Password: 1368
+Contact: +923884967319
+Emergency Contact: +923187298067
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD BIN ZAHID
+Reg: 2024369
+Gender: M
+Age: 16
+CNIC: 40094-9953550-5
+Program: BME
+Section: A
+Account Password: 1369
+Contact: +923246819039
+Emergency Contact: +923493472975
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD EMMAD
+Reg: 2024376
+Gender: M
+Age: 19
+CNIC: 14584-7984564-6
+Program: BME
+Section: A
+Account Password: 1376
+Contact: +923380544122
+Emergency Contact: +923697962288
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD FAIZAN
+Reg: 2024378
+Gender: M
+Age: 22
+CNIC: 45463-7484876-1
+Program: BME
+Section: A
+Account Password: 1378
+Contact: +923441476444
+Emergency Contact: +923299409261
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HASHIM
+Reg: 2024397
+Gender: M
+Age: 22
+CNIC: 14369-7841160-4
+Program: BME
+Section: A
+Account Password: 1397
+Contact: +923125761688
+Emergency Contact: +923312157646
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HASSAN IBRAHIM
+Reg: 2024400
+Gender: M
+Age: 18
+CNIC: 57353-4893692-9
+Program: BME
+Section: A
+Account Password: 1400
+Contact: +923925896356
+Emergency Contact: +923715240687
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD IBRAHIM
+Reg: 2024408
+Gender: M
+Age: 16
+CNIC: 51365-7177590-8
+Program: BME
+Section: A
+Account Password: 1408
+Contact: +923729340952
+Emergency Contact: +923489398002
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD MOIZ MIRZA
+Reg: 2024424
+Gender: M
+Age: 22
+CNIC: 31445-6106651-4
+Program: BME
+Section: A
+Account Password: 1424
+Contact: +923698327442
+Emergency Contact: +923330883028
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD MUSTAFA PANHWAR
+Reg: 2024431
+Gender: M
+Age: 20
+CNIC: 46370-3936337-3
+Program: BME
+Section: A
+Account Password: 1431
+Contact: +923413619277
+Emergency Contact: +923654287147
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SUDAIS
+Reg: 2024470
+Gender: M
+Age: 20
+CNIC: 39628-8115706-6
+Program: BME
+Section: A
+Account Password: 1470
+Contact: +923494858698
+Emergency Contact: +923725274920
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SWAID ASWAN
+Reg: 2024473
+Gender: M
+Age: 20
+CNIC: 57195-2819322-2
+Program: BME
+Section: A
+Account Password: 1473
+Contact: +923944731175
+Emergency Contact: +923941176912
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD TALHA AMJAD
+Reg: 2024478
+Gender: M
+Age: 22
+CNIC: 60664-3064223-1
+Program: BME
+Section: A
+Account Password: 1478
+Contact: +923678076355
+Emergency Contact: +923464992620
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD UMER KHAN
+Reg: 2024483
+Gender: M
+Age: 21
+CNIC: 52600-2293253-6
+Program: BME
+Section: A
+Account Password: 1483
+Contact: +923349405506
+Emergency Contact: +923652603719
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD UZAIR MURTAZA
+Reg: 2024486
+Gender: M
+Age: 20
+CNIC: 17170-4763539-9
+Program: BME
+Section: A
+Account Password: 1486
+Contact: +923298559873
+Emergency Contact: +923608205070
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ZOHAIB ULLAH KHAN
+Reg: 2024497
+Gender: M
+Age: 16
+CNIC: 57804-4671297-2
+Program: BME
+Section: A
+Account Password: 1497
+Contact: +923733611114
+Emergency Contact: +923751593957
+Hostel: 
+Room Number: 
+---
+Name: MUSTAFA AHMAD KHAN
+Reg: 2024509
+Gender: M
+Age: 21
+CNIC: 22564-7905026-2
+Program: BME
+Section: A
+Account Password: 1509
+Contact: +923357774096
+Emergency Contact: +923573765415
+Hostel: 
+Room Number: 
+---
+Name: MUSTANSIR KHUZEMA
+Reg: 2024511
+Gender: M
+Age: 22
+CNIC: 81261-2609222-4
+Program: BME
+Section: A
+Account Password: 1511
+Contact: +923377310671
+Emergency Contact: +923884747334
+Hostel: 
+Room Number: 
+---
+Name: NAYL
+Reg: 2024516
+Gender: M
+Age: 22
+CNIC: 48420-9710987-6
+Program: BME
+Section: A
+Account Password: 1516
+Contact: +923712645059
+Emergency Contact: +923440746739
+Hostel: 
+Room Number: 
+---
+Name: NIZAM UD DIN
+Reg: 2024518
+Gender: M
+Age: 18
+CNIC: 20642-9930924-3
+Program: BME
+Section: A
+Account Password: 1518
+Contact: +923890124592
+Emergency Contact: +923920375309
+Hostel: 
+Room Number: 
+---
+Name: RAWAHA TALHA RANA
+Reg: 2024535
+Gender: M
+Age: 19
+CNIC: 16869-6332093-9
+Program: BME
+Section: A
+Account Password: 1535
+Contact: +923832701545
+Emergency Contact: +923320560057
+Hostel: 
+Room Number: 
+---
+Name: SAADAT ALI
+Reg: 2024549
+Gender: M
+Age: 21
+CNIC: 27764-5812853-8
+Program: BME
+Section: A
+Account Password: 1549
+Contact: +923411074868
+Emergency Contact: +923527639017
+Hostel: 
+Room Number: 
+---
+Name: SANIA RAFI
+Reg: 2024562
+Gender: F
+Age: 20
+CNIC: 73362-2129959-5
+Program: BME
+Section: A
+Account Password: 1562
+Contact: +923594965421
+Emergency Contact: +923125478152
+Hostel: 
+Room Number: 
+---
+Name: SHAHEER AKHTAR
+Reg: 2024573
+Gender: M
+Age: 21
+CNIC: 67416-3071698-8
+Program: BME
+Section: A
+Account Password: 1573
+Contact: +923454085998
+Emergency Contact: +923366184630
+Hostel: 
+Room Number: 
+---
+Name: SYED ALI FATEH
+Reg: 2024605
+Gender: M
+Age: 16
+CNIC: 60656-8977555-1
+Program: BME
+Section: A
+Account Password: 1605
+Contact: +923876265959
+Emergency Contact: +923456663939
+Hostel: 
+Room Number: 
+---
+Name: SYED MOHSIN HASAN
+Reg: 2024611
+Gender: M
+Age: 21
+CNIC: 72516-4053201-0
+Program: BME
+Section: A
+Account Password: 1611
+Contact: +923615199815
+Emergency Contact: +923737880393
+Hostel: 
+Room Number: 
+---
+Name: SYED MUHAMMAD IRTIZA ABBAS ABIDI
+Reg: 2024619
+Gender: M
+Age: 22
+CNIC: 90167-1514096-6
+Program: BME
+Section: A
+Account Password: 1619
+Contact: +923701167485
+Emergency Contact: +923774376304
+Hostel: 
+Room Number: 
+---
+Name: TALHA FAISAL
+Reg: 2024634
+Gender: M
+Age: 19
+CNIC: 94721-8976859-1
+Program: BME
+Section: A
+Account Password: 1634
+Contact: +923156865224
+Emergency Contact: +923917773751
+Hostel: 
+Room Number: 
+---
+Name: TASHFEEN ZAKRIA
+Reg: 2024635
+Gender: M
+Age: 21
+CNIC: 53581-4012846-1
+Program: BME
+Section: A
+Account Password: 1635
+Contact: +923699966817
+Emergency Contact: +923670151687
+Hostel: 
+Room Number: 
+---
+Name: UROOSA AQEEL
+Reg: 2024649
+Gender: F
+Age: 18
+CNIC: 97237-6071223-9
+Program: BME
+Section: A
+Account Password: 1649
+Contact: +923499251546
+Emergency Contact: +923181775749
+Hostel: 
+Room Number: 
+---
+Name: ZARRAR AHMED BOZDAR
+Reg: 2024683
+Gender: M
+Age: 19
+CNIC: 49734-1748143-9
+Program: BME
+Section: A
+Account Password: 1683
+Contact: +923779523062
+Emergency Contact: +923605495896
+Hostel: 
+Room Number: 
+---
+Name: ZUHAYR SHAKIR
+Reg: 2024693
+Gender: M
+Age: 19
+CNIC: 98298-6700627-2
+Program: BME
+Section: A
+Account Password: 1693
+Contact: +923714451417
+Emergency Contact: +923422099154
+Hostel: 
+Room Number: 
+---
+Name: ATIF WAHEED
+Reg: 2024700
+Gender: M
+Age: 20
+CNIC: 21958-7578773-2
+Program: BME
+Section: A
+Account Password: 1700
+Contact: +923144279225
+Emergency Contact: +923289870090
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ISMAIL
+Reg: 2024702
+Gender: M
+Age: 19
+CNIC: 91296-6811056-9
+Program: BME
+Section: A
+Account Password: 1702
+Contact: +923371133035
+Emergency Contact: +923284513588
+Hostel: 
+Room Number: 
+---
+Name: ABDUL MAJEED
+Reg: 2024008
+Gender: M
+Age: 18
+CNIC: 48120-2891037-5
+Program: CVE
+Section: B
+Account Password: 1008
+Contact: +923775499283
+Emergency Contact: +923867800862
+Hostel: 
+Room Number: 
+---
+Name: ABDUL SUBHAN TARIQ
+Reg: 2024031
+Gender: M
+Age: 20
+CNIC: 14743-8681855-4
+Program: CVE
+Section: B
+Account Password: 1031
+Contact: +923518568392
+Emergency Contact: +923314617268
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH HASEEB
+Reg: 2024039
+Gender: M
+Age: 18
+CNIC: 83013-3616531-8
+Program: CVE
+Section: B
+Account Password: 1039
+Contact: +923269297358
+Emergency Contact: +923798195752
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH TAHIR
+Reg: 2024045
+Gender: M
+Age: 20
+CNIC: 36523-3701138-6
+Program: CVE
+Section: B
+Account Password: 1045
+Contact: +923240780721
+Emergency Contact: +923266808206
+Hostel: 
+Room Number: 
+---
+Name: ABDULREHMAN BIN YOUSAF
+Reg: 2024048
+Gender: M
+Age: 21
+CNIC: 14616-5633594-4
+Program: CVE
+Section: B
+Account Password: 1048
+Contact: +923718910928
+Emergency Contact: +923615964360
+Hostel: 
+Room Number: 
+---
+Name: ABDUR RAHMAN
+Reg: 2024050
+Gender: M
+Age: 22
+CNIC: 13942-4592743-4
+Program: CVE
+Section: B
+Account Password: 1050
+Contact: +923792314641
+Emergency Contact: +923717477712
+Hostel: 
+Room Number: 
+---
+Name: ABDUR REHMAN
+Reg: 2024051
+Gender: M
+Age: 16
+CNIC: 12004-7953773-8
+Program: CVE
+Section: B
+Account Password: 1051
+Contact: +923611780524
+Emergency Contact: +923548043252
+Hostel: 
+Room Number: 
+---
+Name: ALI ABDULLAH ASFI
+Reg: 2024084
+Gender: M
+Age: 21
+CNIC: 45260-6359843-3
+Program: CVE
+Section: B
+Account Password: 1084
+Contact: +923132722086
+Emergency Contact: +923672263371
+Hostel: 
+Room Number: 
+---
+Name: ARSLAN AHMED
+Reg: 2024114
+Gender: M
+Age: 16
+CNIC: 32557-8150037-9
+Program: CVE
+Section: B
+Account Password: 1114
+Contact: +923649975769
+Emergency Contact: +923981133702
+Hostel: 
+Room Number: 
+---
+Name: ATHAR ALI
+Reg: 2024121
+Gender: M
+Age: 16
+CNIC: 76484-3720681-4
+Program: CVE
+Section: B
+Account Password: 1121
+Contact: +923910347351
+Emergency Contact: +923265425207
+Hostel: 
+Room Number: 
+---
+Name: AZAN KHURRAM KHAN
+Reg: 2024134
+Gender: M
+Age: 19
+CNIC: 73993-6284171-0
+Program: CVE
+Section: B
+Account Password: 1134
+Contact: +923745721245
+Emergency Contact: +923417379543
+Hostel: 
+Room Number: 
+---
+Name: BILAL HASSAN
+Reg: 2024142
+Gender: M
+Age: 21
+CNIC: 33104-5201637-1
+Program: CVE
+Section: B
+Account Password: 1142
+Contact: +923260028735
+Emergency Contact: +923231291438
+Hostel: 
+Room Number: 
+---
+Name: BILAL SHAHID DAUDPOTA
+Reg: 2024143
+Gender: M
+Age: 17
+CNIC: 33111-6090787-0
+Program: CVE
+Section: B
+Account Password: 1143
+Contact: +923699284012
+Emergency Contact: +923666636674
+Hostel: 
+Room Number: 
+---
+Name: EMAAN BUTT
+Reg: 2024153
+Gender: F
+Age: 18
+CNIC: 48461-4259479-0
+Program: CVE
+Section: B
+Account Password: 1153
+Contact: +923265889649
+Emergency Contact: +923746597749
+Hostel: 
+Room Number: 
+---
+Name: EMAN KHAN
+Reg: 2024157
+Gender: F
+Age: 17
+CNIC: 54124-1391094-4
+Program: CVE
+Section: B
+Account Password: 1157
+Contact: +923871411213
+Emergency Contact: +923708297073
+Hostel: 
+Room Number: 
+---
+Name: HADEED HAIDER
+Reg: 2024189
+Gender: M
+Age: 16
+CNIC: 25433-2947565-9
+Program: CVE
+Section: B
+Account Password: 1189
+Contact: +923528943068
+Emergency Contact: +923145680880
+Hostel: 
+Room Number: 
+---
+Name: HAMAD SAID
+Reg: 2024195
+Gender: M
+Age: 17
+CNIC: 61691-2580814-8
+Program: CVE
+Section: B
+Account Password: 1195
+Contact: +923150581214
+Emergency Contact: +923579372692
+Hostel: 
+Room Number: 
+---
+Name: KHALID MAHMOOD
+Reg: 2024255
+Gender: M
+Age: 18
+CNIC: 65629-6333069-3
+Program: CVE
+Section: B
+Account Password: 1255
+Contact: +923904978840
+Emergency Contact: +923436121326
+Hostel: 
+Room Number: 
+---
+Name: MOHAMMAD MUSA SHINWARI
+Reg: 2024304
+Gender: M
+Age: 20
+CNIC: 70867-6710577-7
+Program: CVE
+Section: B
+Account Password: 1304
+Contact: +923581123904
+Emergency Contact: +923126601635
+Hostel: 
+Room Number: 
+---
+Name: MUHAMAD ALI HASSAN ALI HASSAN
+Reg: 2024313
+Gender: M
+Age: 18
+CNIC: 58101-4583885-6
+Program: CVE
+Section: B
+Account Password: 1313
+Contact: +923600087541
+Emergency Contact: +923210255354
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDULLAH
+Reg: 2024319
+Gender: M
+Age: 19
+CNIC: 13434-1746969-2
+Program: CVE
+Section: B
+Account Password: 1319
+Contact: +923454370837
+Emergency Contact: +923942010886
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDURRAHMAN
+Reg: 2024331
+Gender: M
+Age: 17
+CNIC: 90142-7456364-2
+Program: CVE
+Section: B
+Account Password: 1331
+Contact: +923457611554
+Emergency Contact: +923769638381
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ALI ASIF
+Reg: 2024344
+Gender: M
+Age: 16
+CNIC: 90858-6986759-9
+Program: CVE
+Section: B
+Account Password: 1344
+Contact: +923970247106
+Emergency Contact: +923658479996
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ALI KHAN
+Reg: 2024345
+Gender: M
+Age: 16
+CNIC: 36802-8379916-1
+Program: CVE
+Section: B
+Account Password: 1345
+Contact: +923910655232
+Emergency Contact: +923506900366
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ARMAGHAN ASIF
+Reg: 2024353
+Gender: M
+Age: 16
+CNIC: 43500-1768642-6
+Program: CVE
+Section: B
+Account Password: 1353
+Contact: +923101949950
+Emergency Contact: +923996885726
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AYYAN
+Reg: 2024361
+Gender: M
+Age: 19
+CNIC: 17783-2917699-1
+Program: CVE
+Section: B
+Account Password: 1361
+Contact: +923833075007
+Emergency Contact: +923580616506
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD BAHAUDDIN LAKHA
+Reg: 2024364
+Gender: M
+Age: 20
+CNIC: 85678-1266342-9
+Program: CVE
+Section: B
+Account Password: 1364
+Contact: +923594315749
+Emergency Contact: +923865265571
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HAMZA FUAD
+Reg: 2024391
+Gender: M
+Age: 20
+CNIC: 38150-7097473-3
+Program: CVE
+Section: B
+Account Password: 1391
+Contact: +923660644097
+Emergency Contact: +923329051268
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HASSNAIN
+Reg: 2024402
+Gender: M
+Age: 16
+CNIC: 39482-8278499-1
+Program: CVE
+Section: B
+Account Password: 1402
+Contact: +923638166788
+Emergency Contact: +923812353926
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD IHTISHAM RAFIQUE
+Reg: 2024414
+Gender: M
+Age: 18
+CNIC: 59379-2638422-3
+Program: CVE
+Section: B
+Account Password: 1414
+Contact: +923392851725
+Emergency Contact: +923943024283
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD IJLAL KHAN
+Reg: 2024415
+Gender: M
+Age: 22
+CNIC: 12468-2277325-7
+Program: CVE
+Section: B
+Account Password: 1415
+Contact: +923505233835
+Emergency Contact: +923818106967
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD KAMAL
+Reg: 2024419
+Gender: M
+Age: 18
+CNIC: 94707-9843243-8
+Program: CVE
+Section: B
+Account Password: 1419
+Contact: +923529918162
+Emergency Contact: +923840985738
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD KHAN
+Reg: 2024420
+Gender: M
+Age: 17
+CNIC: 73351-5875496-3
+Program: CVE
+Section: B
+Account Password: 1420
+Contact: +923801866685
+Emergency Contact: +923445952467
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD LAYES IMTIAZ
+Reg: 2024422
+Gender: M
+Age: 16
+CNIC: 62823-2382117-5
+Program: CVE
+Section: B
+Account Password: 1422
+Contact: +923908059058
+Emergency Contact: +923556768509
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD NOUMAN FAIZ
+Reg: 2024434
+Gender: M
+Age: 16
+CNIC: 16134-7648565-4
+Program: CVE
+Section: B
+Account Password: 1434
+Contact: +923345033260
+Emergency Contact: +923706883764
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD REHMAN
+Reg: 2024440
+Gender: M
+Age: 16
+CNIC: 81575-5314783-4
+Program: CVE
+Section: B
+Account Password: 1440
+Contact: +923678375968
+Emergency Contact: +923866332581
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SANAN
+Reg: 2024456
+Gender: M
+Age: 16
+CNIC: 77533-6594714-8
+Program: CVE
+Section: B
+Account Password: 1456
+Contact: +923471828508
+Emergency Contact: +923957134397
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD UMER FAROOQ KIANI
+Reg: 2024482
+Gender: M
+Age: 18
+CNIC: 24363-7207742-4
+Program: CVE
+Section: B
+Account Password: 1482
+Contact: +923181650847
+Emergency Contact: +923864178779
+Hostel: 
+Room Number: 
+---
+Name: OMER REHMAN MUJEEB
+Reg: 2024524
+Gender: M
+Age: 17
+CNIC: 98228-4787079-1
+Program: CVE
+Section: B
+Account Password: 1524
+Contact: +923611952434
+Emergency Contact: +923286148160
+Hostel: 
+Room Number: 
+---
+Name: RIZWAN AHMAD
+Reg: 2024543
+Gender: M
+Age: 18
+CNIC: 45200-1595837-7
+Program: CVE
+Section: B
+Account Password: 1543
+Contact: +923540087614
+Emergency Contact: +923751010030
+Hostel: 
+Room Number: 
+---
+Name: SAAD SYED
+Reg: 2024547
+Gender: M
+Age: 20
+CNIC: 87845-7105930-2
+Program: CVE
+Section: B
+Account Password: 1547
+Contact: +923904458175
+Emergency Contact: +923292942373
+Hostel: 
+Room Number: 
+---
+Name: SAAD ULLAH KHAN
+Reg: 2024548
+Gender: M
+Age: 18
+CNIC: 32114-6286001-2
+Program: CVE
+Section: B
+Account Password: 1548
+Contact: +923336247399
+Emergency Contact: +923226960956
+Hostel: 
+Room Number: 
+---
+Name: SAFIULLAH KHAN
+Reg: 2024556
+Gender: M
+Age: 19
+CNIC: 45659-1699128-2
+Program: CVE
+Section: B
+Account Password: 1556
+Contact: +923598645623
+Emergency Contact: +923660461447
+Hostel: 
+Room Number: 
+---
+Name: SAIFUR RAHMAN
+Reg: 2024558
+Gender: M
+Age: 20
+CNIC: 27658-1422040-5
+Program: CVE
+Section: B
+Account Password: 1558
+Contact: +923331067054
+Emergency Contact: +923623410156
+Hostel: 
+Room Number: 
+---
+Name: SAMI SAJJAD
+Reg: 2024561
+Gender: M
+Age: 17
+CNIC: 30069-1657941-6
+Program: CVE
+Section: B
+Account Password: 1561
+Contact: +923886299935
+Emergency Contact: +923539403252
+Hostel: 
+Room Number: 
+---
+Name: SHAHKAR KHAN
+Reg: 2024575
+Gender: M
+Age: 21
+CNIC: 14170-9178567-9
+Program: CVE
+Section: B
+Account Password: 1575
+Contact: +923492992895
+Emergency Contact: +923386322258
+Hostel: 
+Room Number: 
+---
+Name: SHEHREYAR AHMAD
+Reg: 2024587
+Gender: M
+Age: 17
+CNIC: 19607-1903338-7
+Program: CVE
+Section: B
+Account Password: 1587
+Contact: +923451551557
+Emergency Contact: +923563004637
+Hostel: 
+Room Number: 
+---
+Name: SYED HASSAN ABBAS RIZVI
+Reg: 2024608
+Gender: M
+Age: 16
+CNIC: 17354-6281055-1
+Program: CVE
+Section: B
+Account Password: 1608
+Contact: +923870738795
+Emergency Contact: +923289402180
+Hostel: 
+Room Number: 
+---
+Name: UMAR GOHAR ALI
+Reg: 2024645
+Gender: M
+Age: 18
+CNIC: 82628-4531999-5
+Program: CVE
+Section: B
+Account Password: 1645
+Contact: +923773094701
+Emergency Contact: +923350659670
+Hostel: 
+Room Number: 
+---
+Name: USAIM MAHMOOD ZAFAR
+Reg: 2024651
+Gender: M
+Age: 18
+CNIC: 21079-8855201-1
+Program: CVE
+Section: B
+Account Password: 1651
+Contact: +923768234553
+Emergency Contact: +923960425400
+Hostel: 
+Room Number: 
+---
+Name: WAHAJ SUBHANI
+Reg: 2024658
+Gender: M
+Age: 20
+CNIC: 66696-1708800-3
+Program: CVE
+Section: B
+Account Password: 1658
+Contact: +923449625517
+Emergency Contact: +923205103379
+Hostel: 
+Room Number: 
+---
+Name: ZAIN UL ABEDIN
+Reg: 2024670
+Gender: M
+Age: 16
+CNIC: 80764-4469505-4
+Program: CVE
+Section: B
+Account Password: 1670
+Contact: +923750929451
+Emergency Contact: +923242355857
+Hostel: 
+Room Number: 
+---
+Name: ZARAR KHAN
+Reg: 2024680
+Gender: M
+Age: 20
+CNIC: 93724-7565745-5
+Program: CVE
+Section: B
+Account Password: 1680
+Contact: +923187697867
+Emergency Contact: +923962419934
+Hostel: 
+Room Number: 
+---
+Name: ZARAR WAZIR
+Reg: 2024681
+Gender: M
+Age: 21
+CNIC: 11917-8191377-3
+Program: CVE
+Section: B
+Account Password: 1681
+Contact: +923220935133
+Emergency Contact: +923231293820
+Hostel: 
+Room Number: 
+---
+Name: MALAIKA IJAZ KHAN
+Reg: 2024698
+Gender: F
+Age: 21
+CNIC: 39603-1180941-8
+Program: CVE
+Section: B
+Account Password: 1698
+Contact: +923379068995
+Emergency Contact: +923136032632
+Hostel: 
+Room Number: 
+---
+Name: ABDULREHMAN SHAKOOR
+Reg: 2024049
+Gender: M
+Age: 19
+CNIC: 79666-6031007-5
+Program: CME
+Section: C
+Account Password: 1049
+Contact: +923158303428
+Emergency Contact: +923345081885
+Hostel: 
+Room Number: 
+---
+Name: AMMARA
+Reg: 2024099
+Gender: F
+Age: 22
+CNIC: 17862-4950391-6
+Program: CME
+Section: C
+Account Password: 1099
+Contact: +923403533283
+Emergency Contact: +923810891858
+Hostel: 
+Room Number: 
+---
+Name: AMNA SADIA
+Reg: 2024103
+Gender: F
+Age: 20
+CNIC: 99609-1183026-6
+Program: CME
+Section: C
+Account Password: 1103
+Contact: +923507153198
+Emergency Contact: +923211301793
+Hostel: 
+Room Number: 
+---
+Name: AMNA SHAHZAD
+Reg: 2024104
+Gender: F
+Age: 16
+CNIC: 52416-4218133-1
+Program: CME
+Section: C
+Account Password: 1104
+Contact: +923604514487
+Emergency Contact: +923282033269
+Hostel: 
+Room Number: 
+---
+Name: AREEBA KHAN
+Reg: 2024111
+Gender: F
+Age: 21
+CNIC: 53903-1736494-8
+Program: CME
+Section: C
+Account Password: 1111
+Contact: +923563435566
+Emergency Contact: +923782686318
+Hostel: 
+Room Number: 
+---
+Name: DUA JADOON
+Reg: 2024151
+Gender: F
+Age: 21
+CNIC: 60178-8227469-6
+Program: CME
+Section: C
+Account Password: 1151
+Contact: +923876709517
+Emergency Contact: +923114751325
+Hostel: 
+Room Number: 
+---
+Name: GHULAM MOHIUDDIN
+Reg: 2024185
+Gender: M
+Age: 17
+CNIC: 18855-9244298-2
+Program: CME
+Section: C
+Account Password: 1185
+Contact: +923572802667
+Emergency Contact: +923535856389
+Hostel: 
+Room Number: 
+---
+Name: GOHAR SAMEEN
+Reg: 2024187
+Gender: M
+Age: 18
+CNIC: 43385-8715142-5
+Program: CME
+Section: C
+Account Password: 1187
+Contact: +923625890278
+Emergency Contact: +923710829050
+Hostel: 
+Room Number: 
+---
+Name: HASSAN
+Reg: 2024225
+Gender: M
+Age: 16
+CNIC: 42321-2390686-1
+Program: CME
+Section: C
+Account Password: 1225
+Contact: +923462906718
+Emergency Contact: +923720435252
+Hostel: 
+Room Number: 
+---
+Name: MAHNOOR GULZAR
+Reg: 2024268
+Gender: F
+Age: 18
+CNIC: 48265-6262817-3
+Program: CME
+Section: C
+Account Password: 1268
+Contact: +923416575097
+Emergency Contact: +923624103848
+Hostel: 
+Room Number: 
+---
+Name: MALIK HAMEED NAWAZ KHAN
+Reg: 2024276
+Gender: M
+Age: 17
+CNIC: 11381-4115998-6
+Program: CME
+Section: C
+Account Password: 1276
+Contact: +923154502042
+Emergency Contact: +923719125346
+Hostel: 
+Room Number: 
+---
+Name: MARYAM NADEEM
+Reg: 2024282
+Gender: F
+Age: 18
+CNIC: 85812-2065469-5
+Program: CME
+Section: C
+Account Password: 1282
+Contact: +923545448100
+Emergency Contact: +923754296146
+Hostel: 
+Room Number: 
+---
+Name: MIR YASIR ALI
+Reg: 2024293
+Gender: M
+Age: 17
+CNIC: 13923-5947232-5
+Program: CME
+Section: C
+Account Password: 1293
+Contact: +923115118623
+Emergency Contact: +923815646847
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD DANISH
+Reg: 2024371
+Gender: M
+Age: 16
+CNIC: 62068-2090566-9
+Program: CME
+Section: C
+Account Password: 1371
+Contact: +923657409871
+Emergency Contact: +923751655697
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SAFFYULLAH KHAN TAREEN
+Reg: 2024449
+Gender: M
+Age: 16
+CNIC: 49837-6565315-8
+Program: CME
+Section: C
+Account Password: 1449
+Contact: +923805913617
+Emergency Contact: +923256909140
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD YAHYA
+Reg: 2024488
+Gender: M
+Age: 20
+CNIC: 63436-3908116-0
+Program: CME
+Section: C
+Account Password: 1488
+Contact: +923446516476
+Emergency Contact: +923762926231
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD YAHYA KHAN
+Reg: 2024489
+Gender: M
+Age: 21
+CNIC: 66399-7176049-4
+Program: CME
+Section: C
+Account Password: 1489
+Contact: +923517409356
+Emergency Contact: +923843548011
+Hostel: 
+Room Number: 
+---
+Name: MUJTABA RASHID HAKEEM
+Reg: 2024500
+Gender: M
+Age: 22
+CNIC: 23327-7675748-0
+Program: CME
+Section: C
+Account Password: 1500
+Contact: +923686001345
+Emergency Contact: +923224981805
+Hostel: 
+Room Number: 
+---
+Name: MUSAB WASEEM
+Reg: 2024507
+Gender: M
+Age: 18
+CNIC: 60266-4050123-0
+Program: CME
+Section: C
+Account Password: 1507
+Contact: +923988373888
+Emergency Contact: +923946171170
+Hostel: 
+Room Number: 
+---
+Name: MUSKAN ATIQ
+Reg: 2024508
+Gender: M
+Age: 19
+CNIC: 93253-9958892-8
+Program: CME
+Section: C
+Account Password: 1508
+Contact: +923829665797
+Emergency Contact: +923723653164
+Hostel: 
+Room Number: 
+---
+Name: MUTAAL WAJAHAT QURESHI
+Reg: 2024512
+Gender: M
+Age: 17
+CNIC: 96146-9732354-8
+Program: CME
+Section: C
+Account Password: 1512
+Contact: +923865416226
+Emergency Contact: +923129261474
+Hostel: 
+Room Number: 
+---
+Name: ORAIS KHAN
+Reg: 2024525
+Gender: M
+Age: 19
+CNIC: 45772-8798415-1
+Program: CME
+Section: C
+Account Password: 1525
+Contact: +923646257669
+Emergency Contact: +923337059041
+Hostel: 
+Room Number: 
+---
+Name: SABA AFRIDI
+Reg: 2024551
+Gender: F
+Age: 16
+CNIC: 58130-6212052-7
+Program: CME
+Section: C
+Account Password: 1551
+Contact: +923588299542
+Emergency Contact: +923580142211
+Hostel: 
+Room Number: 
+---
+Name: SABA JAVED
+Reg: 2024552
+Gender: F
+Age: 21
+CNIC: 65809-3013278-3
+Program: CME
+Section: C
+Account Password: 1552
+Contact: +923867844676
+Emergency Contact: +923532624368
+Hostel: 
+Room Number: 
+---
+Name: SALEH KARIM KHAN
+Reg: 2024559
+Gender: M
+Age: 17
+CNIC: 22464-6181216-5
+Program: CME
+Section: C
+Account Password: 1559
+Contact: +923396339280
+Emergency Contact: +923286890731
+Hostel: 
+Room Number: 
+---
+Name: SEYYAB AZHAR
+Reg: 2024570
+Gender: M
+Age: 18
+CNIC: 36310-7248545-7
+Program: CME
+Section: C
+Account Password: 1570
+Contact: +923183433265
+Emergency Contact: +923171109987
+Hostel: 
+Room Number: 
+---
+Name: SYED QASIM HAIDER BUKHARI
+Reg: 2024620
+Gender: M
+Age: 20
+CNIC: 83663-6919774-8
+Program: CME
+Section: C
+Account Password: 1620
+Contact: +923664716922
+Emergency Contact: +923352525060
+Hostel: 
+Room Number: 
+---
+Name: SYED ZAIGHAM ABBAS SHERAZI
+Reg: 2024622
+Gender: M
+Age: 17
+CNIC: 68705-7841306-5
+Program: CME
+Section: C
+Account Password: 1622
+Contact: +923616966845
+Emergency Contact: +923519093686
+Hostel: 
+Room Number: 
+---
+Name: USMAN MUNIR
+Reg: 2024654
+Gender: M
+Age: 16
+CNIC: 18343-7704361-5
+Program: CME
+Section: C
+Account Password: 1654
+Contact: +923463965900
+Emergency Contact: +923160741172
+Hostel: 
+Room Number: 
+---
+Name: KHISAL AKRAM
+Reg: 2024706
+Gender: M
+Age: 16
+CNIC: 34566-1514665-5
+Program: CME
+Section: C
+Account Password: 1706
+Contact: +923127939744
+Emergency Contact: +923840974393
+Hostel: 
+Room Number: 
+---
+Name: ZOYA
+Reg: 2024689
+Gender: F
+Age: 22
+CNIC: 65950-9363303-8
+Program: CME
+Section: C
+Account Password: 1689
+Contact: +923652000094
+Emergency Contact: +923820350044
+Hostel: 
+Room Number: 
+---
+Name: AAYAN AHMED DODHY
+Reg: 2024003
+Gender: M
+Age: 20
+CNIC: 35157-1814720-1
+Program: MSE
+Section: C
+Account Password: 1003
+Contact: +923719222280
+Emergency Contact: +923502660996
+Hostel: 
+Room Number: 
+---
+Name: ABDUL MOIZ RAJA
+Reg: 2024011
+Gender: M
+Age: 20
+CNIC: 19236-9110392-4
+Program: MSE
+Section: C
+Account Password: 1011
+Contact: +923162581667
+Emergency Contact: +923297205453
+Hostel: 
+Room Number: 
+---
+Name: Arham Ul Ebad
+Reg: 2024704
+Gender: M
+Age: 16
+CNIC: 84922-5829116-2
+Program: CME
+Section: C
+Account Password: 1704
+Contact: +923101510625
+Emergency Contact: +923781008555
+Hostel: 
+Room Number: 
+---
+Name: ABDUL SAMAD
+Reg: 2024030
+Gender: M
+Age: 22
+CNIC: 68232-4112228-2
+Program: MSE
+Section: C
+Account Password: 1030
+Contact: +923597858137
+Emergency Contact: +923680409719
+Hostel: 
+Room Number: 
+---
+Name: AHMED BIN YASIN
+Reg: 2024067
+Gender: M
+Age: 20
+CNIC: 31321-6211794-3
+Program: MSE
+Section: C
+Account Password: 1067
+Contact: +923260100361
+Emergency Contact: +923767420218
+Hostel: 
+Room Number: 
+---
+Name: AYESHA KHAN
+Reg: 2024128
+Gender: F
+Age: 16
+CNIC: 52683-8162689-8
+Program: MSE
+Section: C
+Account Password: 1128
+Contact: +923671551948
+Emergency Contact: +923749861551
+Hostel: 
+Room Number: 
+---
+Name: BURHANUDDIN MANDSOREWALA
+Reg: 2024144
+Gender: M
+Age: 20
+CNIC: 52774-6980894-2
+Program: MSE
+Section: C
+Account Password: 1144
+Contact: +923265189046
+Emergency Contact: +923109067810
+Hostel: 
+Room Number: 
+---
+Name: DEEPAK KUMAR
+Reg: 2024150
+Gender: M
+Age: 22
+CNIC: 35306-1218192-0
+Program: MSE
+Section: C
+Account Password: 1150
+Contact: +923655762546
+Emergency Contact: +923712463224
+Hostel: 
+Room Number: 
+---
+Name: FAIZA ALI
+Reg: 2024165
+Gender: F
+Age: 19
+CNIC: 84808-6062421-6
+Program: MSE
+Section: C
+Account Password: 1165
+Contact: +923751256881
+Emergency Contact: +923838719438
+Hostel: 
+Room Number: 
+---
+Name: FAIZAN KHURRAM CHEEMA
+Reg: 2024167
+Gender: M
+Age: 21
+CNIC: 11592-1384142-1
+Program: MSE
+Section: C
+Account Password: 1167
+Contact: +923729270028
+Emergency Contact: +923857503282
+Hostel: 
+Room Number: 
+---
+Name: FATIMA ALI
+Reg: 2024174
+Gender: F
+Age: 20
+CNIC: 66794-8548683-7
+Program: MSE
+Section: C
+Account Password: 1174
+Contact: +923386376602
+Emergency Contact: +923866542468
+Hostel: 
+Room Number: 
+---
+Name: HASSAAN TAYAB
+Reg: 2024224
+Gender: M
+Age: 18
+CNIC: 14753-4016452-4
+Program: MSE
+Section: C
+Account Password: 1224
+Contact: +923518869185
+Emergency Contact: +923962260710
+Hostel: 
+Room Number: 
+---
+Name: IBRAHIM AHMED
+Reg: 2024237
+Gender: M
+Age: 20
+CNIC: 85318-9759121-3
+Program: MSE
+Section: C
+Account Password: 1237
+Contact: +923990063740
+Emergency Contact: +923947475385
+Hostel: 
+Room Number: 
+---
+Name: M BILAL KHALID
+Reg: 2024264
+Gender: M
+Age: 22
+CNIC: 67497-5983947-1
+Program: MSE
+Section: C
+Account Password: 1264
+Contact: +923139319836
+Emergency Contact: +923954564245
+Hostel: 
+Room Number: 
+---
+Name: Muhammad Ismail
+Reg: 2024416
+Gender: M
+Age: 16
+CNIC: 49392-4558834-2
+Program: MSE
+Section: C
+Account Password: 1416
+Contact: +923659511831
+Emergency Contact: +923979096876
+Hostel: 
+Room Number: 
+---
+Name: MAIMOONA SHAHBAZ
+Reg: 2024271
+Gender: M
+Age: 17
+CNIC: 32441-4946069-9
+Program: MSE
+Section: C
+Account Password: 1271
+Contact: +923787597996
+Emergency Contact: +923628764278
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD BARYAL
+Reg: 2024365
+Gender: M
+Age: 16
+CNIC: 72047-3867887-0
+Program: MSE
+Section: C
+Account Password: 1365
+Contact: +923381057254
+Emergency Contact: +923948274182
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD FAREED
+Reg: 2024379
+Gender: M
+Age: 16
+CNIC: 32593-2838358-7
+Program: MSE
+Section: C
+Account Password: 1379
+Contact: +923244636997
+Emergency Contact: +923668802072
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HADI AAMIR
+Reg: 2024383
+Gender: M
+Age: 20
+CNIC: 87961-8948491-1
+Program: MSE
+Section: C
+Account Password: 1383
+Contact: +923688226538
+Emergency Contact: +923150331421
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HAMID SOHAIL
+Reg: 2024388
+Gender: M
+Age: 19
+CNIC: 81635-8798611-7
+Program: MSE
+Section: C
+Account Password: 1388
+Contact: +923329905404
+Emergency Contact: +923894821010
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HAMZA MEHBOOB
+Reg: 2024392
+Gender: M
+Age: 18
+CNIC: 23359-5332250-4
+Program: MSE
+Section: C
+Account Password: 1392
+Contact: +923693683753
+Emergency Contact: +923546368287
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SAFI ZAHEER
+Reg: 2024450
+Gender: M
+Age: 17
+CNIC: 69507-7448403-1
+Program: MSE
+Section: C
+Account Password: 1450
+Contact: +923882482584
+Emergency Contact: +923948317236
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SHAHBAAZ ZAMAN
+Reg: 2024461
+Gender: M
+Age: 21
+CNIC: 71762-1974950-4
+Program: MSE
+Section: C
+Account Password: 1461
+Contact: +923824435862
+Emergency Contact: +923387902361
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SHAHMEER
+Reg: 2024463
+Gender: M
+Age: 18
+CNIC: 97999-7859747-2
+Program: MSE
+Section: C
+Account Password: 1463
+Contact: +923907829027
+Emergency Contact: +923866802913
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SHOAIB SALEEM
+Reg: 2024467
+Gender: M
+Age: 18
+CNIC: 53413-1600487-0
+Program: MSE
+Section: C
+Account Password: 1467
+Contact: +923495760217
+Emergency Contact: +923352897022
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD UBAIDULLAH ZAHID
+Reg: 2024479
+Gender: M
+Age: 18
+CNIC: 70258-4830948-5
+Program: MSE
+Section: C
+Account Password: 1479
+Contact: +923786028552
+Emergency Contact: +923681033488
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD UMER SARFRAZ
+Reg: 2024484
+Gender: M
+Age: 19
+CNIC: 36389-5004481-0
+Program: MSE
+Section: C
+Account Password: 1484
+Contact: +923174082049
+Emergency Contact: +923507950451
+Hostel: 
+Room Number: 
+---
+Name: MUSA AHMAD
+Reg: 2024504
+Gender: M
+Age: 16
+CNIC: 61018-2418582-0
+Program: MSE
+Section: C
+Account Password: 1504
+Contact: +923417858912
+Emergency Contact: +923854585999
+Hostel: 
+Room Number: 
+---
+Name: NUMAN ULLAH KHAN
+Reg: 2024522
+Gender: M
+Age: 17
+CNIC: 88834-4415455-5
+Program: MSE
+Section: C
+Account Password: 1522
+Contact: +923378168345
+Emergency Contact: +923429758975
+Hostel: 
+Room Number: 
+---
+Name: SHAHZAD ALI
+Reg: 2024577
+Gender: M
+Age: 16
+CNIC: 28735-4833883-5
+Program: MSE
+Section: C
+Account Password: 1577
+Contact: +923978031171
+Emergency Contact: +923988503064
+Hostel: 
+Room Number: 
+---
+Name: SYED ARSLAN HAIDER
+Reg: 2024606
+Gender: M
+Age: 22
+CNIC: 40775-9397578-8
+Program: MSE
+Section: C
+Account Password: 1606
+Contact: +923648586123
+Emergency Contact: +923317632628
+Hostel: 
+Room Number: 
+---
+Name: TAAHA KHALID
+Reg: 2024629
+Gender: M
+Age: 17
+CNIC: 23551-2429162-2
+Program: MSE
+Section: C
+Account Password: 1629
+Contact: +923856257039
+Emergency Contact: +923531569050
+Hostel: 
+Room Number: 
+---
+Name: ABBAS ALI ASGHAR TAPAL
+Reg: 2024005
+Gender: M
+Age: 16
+CNIC: 98965-6358545-4
+Program: BEE
+Section: D
+Account Password: 1005
+Contact: +923356112827
+Emergency Contact: +923675639341
+Hostel: 
+Room Number: 
+---
+Name: ABDUL KALAM
+Reg: 2024007
+Gender: M
+Age: 18
+CNIC: 17223-3481779-0
+Program: BEE
+Section: D
+Account Password: 1007
+Contact: +923705299395
+Emergency Contact: +923305598871
+Hostel: 
+Room Number: 
+---
+Name: ABDUL MOIZ
+Reg: 2024009
+Gender: M
+Age: 22
+CNIC: 96394-2368919-8
+Program: BEE
+Section: D
+Account Password: 1009
+Contact: +923325870725
+Emergency Contact: +923406860097
+Hostel: 
+Room Number: 
+---
+Name: ABDUL MOMIN
+Reg: 2024012
+Gender: M
+Age: 20
+CNIC: 40598-2865011-1
+Program: BEE
+Section: D
+Account Password: 1012
+Contact: +923705184691
+Emergency Contact: +923619405704
+Hostel: 
+Room Number: 
+---
+Name: ABDUL REHMAN
+Reg: 2024021
+Gender: M
+Age: 18
+CNIC: 81515-5095340-3
+Program: BEE
+Section: D
+Account Password: 1021
+Contact: +923865884463
+Emergency Contact: +923695043627
+Hostel: 
+Room Number: 
+---
+Name: ABDUL REHMAN
+Reg: 2024023
+Gender: M
+Age: 17
+CNIC: 93404-7905272-0
+Program: BEE
+Section: D
+Account Password: 1023
+Contact: +923952531782
+Emergency Contact: +923860932492
+Hostel: 
+Room Number: 
+---
+Name: ABDUL REHMAN
+Reg: 2024024
+Gender: M
+Age: 22
+CNIC: 40014-7025599-3
+Program: BEE
+Section: D
+Account Password: 1024
+Contact: +923387404857
+Emergency Contact: +923910255593
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH BUTT
+Reg: 2024037
+Gender: M
+Age: 19
+CNIC: 77240-3030456-9
+Program: BEE
+Section: D
+Account Password: 1037
+Contact: +923668485174
+Emergency Contact: +923778928789
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH MIR
+Reg: 2024041
+Gender: M
+Age: 22
+CNIC: 47621-9884057-0
+Program: BEE
+Section: D
+Account Password: 1041
+Contact: +923756774701
+Emergency Contact: +923362926357
+Hostel: 
+Room Number: 
+---
+Name: ABDULREHMAAN SHAHID
+Reg: 2024047
+Gender: M
+Age: 20
+CNIC: 91555-4541017-3
+Program: BEE
+Section: D
+Account Password: 1047
+Contact: +923948680876
+Emergency Contact: +923633933582
+Hostel: 
+Room Number: 
+---
+Name: ABU HURAIRA KHAN
+Reg: 2024054
+Gender: M
+Age: 21
+CNIC: 34602-3677968-5
+Program: BEE
+Section: D
+Account Password: 1054
+Contact: +923183117061
+Emergency Contact: +923147154059
+Hostel: 
+Room Number: 
+---
+Name: ADAN ASIF
+Reg: 2024055
+Gender: M
+Age: 20
+CNIC: 98866-2450368-2
+Program: BEE
+Section: D
+Account Password: 1055
+Contact: +923700699344
+Emergency Contact: +923377111452
+Hostel: 
+Room Number: 
+---
+Name: AHSAN KHALID
+Reg: 2024072
+Gender: M
+Age: 21
+CNIC: 22747-9948585-8
+Program: BEE
+Section: D
+Account Password: 1072
+Contact: +923425890650
+Emergency Contact: +923854411434
+Hostel: 
+Room Number: 
+---
+Name: AIZAZ ALI
+Reg: 2024077
+Gender: M
+Age: 21
+CNIC: 78644-9562857-8
+Program: BEE
+Section: D
+Account Password: 1077
+Contact: +923283793260
+Emergency Contact: +923803557896
+Hostel: 
+Room Number: 
+---
+Name: ALI HASNAIN
+Reg: 2024088
+Gender: M
+Age: 20
+CNIC: 77365-7583724-3
+Program: BEE
+Section: D
+Account Password: 1088
+Contact: +923562080916
+Emergency Contact: +923630539646
+Hostel: 
+Room Number: 
+---
+Name: AZAN ALI
+Reg: 2024133
+Gender: M
+Age: 19
+CNIC: 33878-1620615-6
+Program: BEE
+Section: D
+Account Password: 1133
+Contact: +923372465326
+Emergency Contact: +923507595219
+Hostel: 
+Room Number: 
+---
+Name: AZFAR BUKHARI
+Reg: 2024135
+Gender: M
+Age: 16
+CNIC: 78860-7923920-7
+Program: BEE
+Section: D
+Account Password: 1135
+Contact: +923861083917
+Emergency Contact: +923124018923
+Hostel: 
+Room Number: 
+---
+Name: AZUM IRFAN
+Reg: 2024137
+Gender: M
+Age: 17
+CNIC: 33875-6322057-8
+Program: BEE
+Section: D
+Account Password: 1137
+Contact: +923276407995
+Emergency Contact: +923225445971
+Hostel: 
+Room Number: 
+---
+Name: DANIYAL QASIM
+Reg: 2024147
+Gender: M
+Age: 20
+CNIC: 94368-2013065-9
+Program: BEE
+Section: D
+Account Password: 1147
+Contact: +923803910944
+Emergency Contact: +923144396646
+Hostel: 
+Room Number: 
+---
+Name: EMAN SHAFQAT
+Reg: 2024158
+Gender: F
+Age: 17
+CNIC: 39663-5325718-3
+Program: BEE
+Section: D
+Account Password: 1158
+Contact: +923493332989
+Emergency Contact: +923543386348
+Hostel: 
+Room Number: 
+---
+Name: FAIZAN HAIDER
+Reg: 2024166
+Gender: M
+Age: 20
+CNIC: 59011-6937718-8
+Program: BEE
+Section: D
+Account Password: 1166
+Contact: +923646875364
+Emergency Contact: +923617470264
+Hostel: 
+Room Number: 
+---
+Name: FAQIR SYED MUHAMMAD MUEEN UDDIN
+Reg: 2024168
+Gender: M
+Age: 18
+CNIC: 80130-2280449-8
+Program: BEE
+Section: D
+Account Password: 1168
+Contact: +923114723034
+Emergency Contact: +923840345285
+Hostel: 
+Room Number: 
+---
+Name: FAZEEL ATHAR BHATTI
+Reg: 2024182
+Gender: M
+Age: 17
+CNIC: 22092-4953594-2
+Program: BEE
+Section: D
+Account Password: 1182
+Contact: +923170422874
+Emergency Contact: +923343353044
+Hostel: 
+Room Number: 
+---
+Name: HAIDER ALI KHAN
+Reg: 2024192
+Gender: M
+Age: 19
+CNIC: 37308-5475892-3
+Program: BEE
+Section: D
+Account Password: 1192
+Contact: +923302600938
+Emergency Contact: +923615762404
+Hostel: 
+Room Number: 
+---
+Name: HAMMAD ABID
+Reg: 2024196
+Gender: M
+Age: 19
+CNIC: 36196-1155359-3
+Program: BEE
+Section: D
+Account Password: 1196
+Contact: +923487418811
+Emergency Contact: +923851885786
+Hostel: 
+Room Number: 
+---
+Name: HAMZA ABDUL MAJEED
+Reg: 2024202
+Gender: M
+Age: 18
+CNIC: 37370-8946318-6
+Program: BEE
+Section: D
+Account Password: 1202
+Contact: +923135896863
+Emergency Contact: +923656763999
+Hostel: 
+Room Number: 
+---
+Name: HAMZA RASOOL
+Reg: 2024211
+Gender: M
+Age: 22
+CNIC: 30211-6020594-0
+Program: BEE
+Section: D
+Account Password: 1211
+Contact: +923769877009
+Emergency Contact: +923599602457
+Hostel: 
+Room Number: 
+---
+Name: HARIS HASSAN
+Reg: 2024219
+Gender: M
+Age: 18
+CNIC: 38310-7816848-9
+Program: BEE
+Section: D
+Account Password: 1219
+Contact: +923959972036
+Emergency Contact: +923254425386
+Hostel: 
+Room Number: 
+---
+Name: HASHIR AHMED MALIK
+Reg: 2024221
+Gender: M
+Age: 19
+CNIC: 90576-4716974-9
+Program: BEE
+Section: D
+Account Password: 1221
+Contact: +923525077251
+Emergency Contact: +923600278452
+Hostel: 
+Room Number: 
+---
+Name: HAZIQ ALI
+Reg: 2024230
+Gender: M
+Age: 16
+CNIC: 25319-2291137-2
+Program: BEE
+Section: D
+Account Password: 1230
+Contact: +923815747437
+Emergency Contact: +923226673824
+Hostel: 
+Room Number: 
+---
+Name: IMAM E JANNAT
+Reg: 2024243
+Gender: M
+Age: 19
+CNIC: 92128-6765307-3
+Program: BEE
+Section: D
+Account Password: 1243
+Contact: +923904274805
+Emergency Contact: +923775945032
+Hostel: 
+Room Number: 
+---
+Name: JAMEEL AHMED
+Reg: 2024249
+Gender: M
+Age: 19
+CNIC: 95214-9818335-7
+Program: BEE
+Section: D
+Account Password: 1249
+Contact: +923878536851
+Emergency Contact: +923433248487
+Hostel: 
+Room Number: 
+---
+Name: KHADIJA KHAN
+Reg: 2024254
+Gender: M
+Age: 22
+CNIC: 53146-1914896-2
+Program: BEE
+Section: D
+Account Password: 1254
+Contact: +923588884996
+Emergency Contact: +923362433226
+Hostel: 
+Room Number: 
+---
+Name: KHAWAJA MUHAMMAD ALI
+Reg: 2024256
+Gender: M
+Age: 21
+CNIC: 71652-8528862-2
+Program: BEE
+Section: D
+Account Password: 1256
+Contact: +923855124799
+Emergency Contact: +923350468751
+Hostel: 
+Room Number: 
+---
+Name: KINZA NAZ
+Reg: 2024259
+Gender: M
+Age: 22
+CNIC: 39605-5183248-9
+Program: BEE
+Section: D
+Account Password: 1259
+Contact: +923947179032
+Emergency Contact: +923613542539
+Hostel: 
+Room Number: 
+---
+Name: LAIBA MURTAZA
+Reg: 2024262
+Gender: F
+Age: 17
+CNIC: 12924-8622969-6
+Program: BEE
+Section: D
+Account Password: 1262
+Contact: +923905262609
+Emergency Contact: +923602746567
+Hostel: 
+Room Number: 
+---
+Name: M MUDASIR UL HAQUE SHAIKH
+Reg: 2024265
+Gender: M
+Age: 21
+CNIC: 19848-7871924-4
+Program: BEE
+Section: D
+Account Password: 1265
+Contact: +923107359340
+Emergency Contact: +923421510862
+Hostel: 
+Room Number: 
+---
+Name: MALAIKA NAEEM
+Reg: 2024273
+Gender: M
+Age: 18
+CNIC: 93337-6908807-1
+Program: BEE
+Section: D
+Account Password: 1273
+Contact: +923797678218
+Emergency Contact: +923673990296
+Hostel: 
+Room Number: 
+---
+Name: MARYAM FASIH
+Reg: 2024280
+Gender: F
+Age: 18
+CNIC: 13066-2305313-7
+Program: BEE
+Section: D
+Account Password: 1280
+Contact: +923334720228
+Emergency Contact: +923840181820
+Hostel: 
+Room Number: 
+---
+Name: MIAN ZAVIYAR REHAN
+Reg: 2024290
+Gender: M
+Age: 19
+CNIC: 39524-3453289-4
+Program: BEE
+Section: D
+Account Password: 1290
+Contact: +923287282108
+Emergency Contact: +923636046935
+Hostel: 
+Room Number: 
+---
+Name: Shehram Sajid
+Reg: 2023332
+Gender: M
+Age: 20
+CNIC: 52839-4960185-9
+Program: CVE
+Section: D
+Account Password: 1332
+Contact: +923187162046
+Emergency Contact: +923408691291
+Hostel: 
+Room Number: 
+---
+Name: MINHAS MINHAS
+Reg: 2024292
+Gender: M
+Age: 19
+CNIC: 37272-4026140-5
+Program: BEE
+Section: D
+Account Password: 1292
+Contact: +923174327042
+Emergency Contact: +923357081320
+Hostel: 
+Room Number: 
+---
+Name: MIRZA MUHAMMAD TAIMUR BAIG
+Reg: 2024295
+Gender: M
+Age: 19
+CNIC: 81187-2795982-3
+Program: BEE
+Section: D
+Account Password: 1295
+Contact: +923861329153
+Emergency Contact: +923575468298
+Hostel: 
+Room Number: 
+---
+Name: MIRZA MUJTABA BAIG
+Reg: 2024296
+Gender: M
+Age: 22
+CNIC: 91561-7152599-0
+Program: BEE
+Section: D
+Account Password: 1296
+Contact: +923883143191
+Emergency Contact: +923261170214
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDUL MANNAN FANI
+Reg: 2024315
+Gender: M
+Age: 16
+CNIC: 30812-3736597-9
+Program: BEE
+Section: D
+Account Password: 1315
+Contact: +923614533476
+Emergency Contact: +923522205184
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDUL REHMAN
+Reg: 2024317
+Gender: M
+Age: 16
+CNIC: 26070-1778385-0
+Program: BEE
+Section: D
+Account Password: 1317
+Contact: +923695778988
+Emergency Contact: +923744165003
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDULLAH
+Reg: 2024322
+Gender: M
+Age: 17
+CNIC: 22162-3933962-5
+Program: BEE
+Section: D
+Account Password: 1322
+Contact: +923907212225
+Emergency Contact: +923367273003
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDULLAH ALI
+Reg: 2024324
+Gender: M
+Age: 21
+CNIC: 98534-4923701-6
+Program: BEE
+Section: D
+Account Password: 1324
+Contact: +923246485761
+Emergency Contact: +923803860580
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AHMED
+Reg: 2024339
+Gender: M
+Age: 20
+CNIC: 52549-3868727-4
+Program: BEE
+Section: D
+Account Password: 1339
+Contact: +923701332565
+Emergency Contact: +923630799495
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ALVI
+Reg: 2024348
+Gender: M
+Age: 22
+CNIC: 23889-8237577-4
+Program: BEE
+Section: E
+Account Password: 1348
+Contact: +923238176351
+Emergency Contact: +923642824105
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AMMAN NABEEL
+Reg: 2024349
+Gender: M
+Age: 22
+CNIC: 82521-1237437-5
+Program: BEE
+Section: E
+Account Password: 1349
+Contact: +923535773389
+Emergency Contact: +923530237788
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AMMAR NADEEM
+Reg: 2024350
+Gender: M
+Age: 19
+CNIC: 50111-9828889-7
+Program: BEE
+Section: E
+Account Password: 1350
+Contact: +923786184598
+Emergency Contact: +923695721445
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AYAN QAISER
+Reg: 2024360
+Gender: M
+Age: 16
+CNIC: 33316-6661031-8
+Program: BEE
+Section: E
+Account Password: 1360
+Contact: +923399276344
+Emergency Contact: +923461089015
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD DANIYAL
+Reg: 2024373
+Gender: M
+Age: 20
+CNIC: 88976-4927251-3
+Program: BEE
+Section: E
+Account Password: 1373
+Contact: +923497294019
+Emergency Contact: +923910653668
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HAAD AHMAD
+Reg: 2024381
+Gender: M
+Age: 20
+CNIC: 57917-9387874-1
+Program: BEE
+Section: E
+Account Password: 1381
+Contact: +923653464496
+Emergency Contact: +923752548634
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HAMMAD SHAHID
+Reg: 2024389
+Gender: M
+Age: 21
+CNIC: 92763-1215055-9
+Program: BEE
+Section: E
+Account Password: 1389
+Contact: +923254837629
+Emergency Contact: +923794656863
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD MAAZ ZAHID
+Reg: 2024423
+Gender: M
+Age: 17
+CNIC: 39981-6909716-0
+Program: BEE
+Section: E
+Account Password: 1423
+Contact: +923931953730
+Emergency Contact: +923981121992
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD MUNEM ANSARI
+Reg: 2024426
+Gender: M
+Age: 19
+CNIC: 67024-4684860-3
+Program: BEE
+Section: E
+Account Password: 1426
+Contact: +923813906214
+Emergency Contact: +923447763016
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD MUSTAFA FARUQI
+Reg: 2024430
+Gender: M
+Age: 21
+CNIC: 93689-7112698-3
+Program: BEE
+Section: E
+Account Password: 1430
+Contact: +923338615031
+Emergency Contact: +923408267625
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ROEYAM JAMAL
+Reg: 2024441
+Gender: M
+Age: 20
+CNIC: 73922-6295443-1
+Program: BEE
+Section: E
+Account Password: 1441
+Contact: +923874634409
+Emergency Contact: +923702585887
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SAAD
+Reg: 2024443
+Gender: M
+Age: 16
+CNIC: 41500-8487904-9
+Program: BEE
+Section: E
+Account Password: 1443
+Contact: +923474875867
+Emergency Contact: +923527086028
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SAIM
+Reg: 2024452
+Gender: M
+Age: 22
+CNIC: 57740-7496397-9
+Program: BEE
+Section: E
+Account Password: 1452
+Contact: +923266075389
+Emergency Contact: +923124323806
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SARIM ADIL
+Reg: 2024457
+Gender: M
+Age: 20
+CNIC: 36135-5565970-6
+Program: BEE
+Section: E
+Account Password: 1457
+Contact: +923875454311
+Emergency Contact: +923942839614
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SHABAN ANSAR
+Reg: 2024459
+Gender: M
+Age: 16
+CNIC: 17836-1884925-3
+Program: BEE
+Section: E
+Account Password: 1459
+Contact: +923418449556
+Emergency Contact: +923980612513
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SHAHAB HASSAN
+Reg: 2024460
+Gender: M
+Age: 19
+CNIC: 45914-7712633-8
+Program: BEE
+Section: E
+Account Password: 1460
+Contact: +923326287253
+Emergency Contact: +923365330427
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SUBHAN RAHAT
+Reg: 2024468
+Gender: M
+Age: 22
+CNIC: 97210-8770137-3
+Program: BEE
+Section: E
+Account Password: 1468
+Contact: +923394206244
+Emergency Contact: +923995492959
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD WAQAR SAEED
+Reg: 2024487
+Gender: M
+Age: 16
+CNIC: 41963-2236719-1
+Program: BEE
+Section: E
+Account Password: 1487
+Contact: +923516591908
+Emergency Contact: +923758793720
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ZOHAIB CHISHTI
+Reg: 2024496
+Gender: M
+Age: 21
+CNIC: 22599-4190822-3
+Program: BEE
+Section: E
+Account Password: 1496
+Contact: +923839585420
+Emergency Contact: +923363204770
+Hostel: 
+Room Number: 
+---
+Name: MUSA IQBAL SHEIKH
+Reg: 2024506
+Gender: M
+Age: 17
+CNIC: 30091-1638400-6
+Program: BEE
+Section: E
+Account Password: 1506
+Contact: +923812874404
+Emergency Contact: +923650721917
+Hostel: 
+Room Number: 
+---
+Name: MUSTAFA SULEMAN
+Reg: 2024510
+Gender: M
+Age: 22
+CNIC: 14645-7775442-3
+Program: BEE
+Section: E
+Account Password: 1510
+Contact: +923206139334
+Emergency Contact: +923464158362
+Hostel: 
+Room Number: 
+---
+Name: MUZAMMIL FAISAL
+Reg: 2024513
+Gender: M
+Age: 18
+CNIC: 50990-2739356-9
+Program: BEE
+Section: E
+Account Password: 1513
+Contact: +923392580039
+Emergency Contact: +923722196873
+Hostel: 
+Room Number: 
+---
+Name: NOOR FATIMA
+Reg: 2024520
+Gender: F
+Age: 20
+CNIC: 99009-1016179-5
+Program: BEE
+Section: E
+Account Password: 1520
+Contact: +923523786037
+Emergency Contact: +923480400604
+Hostel: 
+Room Number: 
+---
+Name: RAHMA NOOR MALIK
+Reg: 2024530
+Gender: F
+Age: 19
+CNIC: 63408-7326563-9
+Program: BEE
+Section: E
+Account Password: 1530
+Contact: +923255316006
+Emergency Contact: +923600619811
+Hostel: 
+Room Number: 
+---
+Name: RAIYAAN QURESHI
+Reg: 2024531
+Gender: M
+Age: 16
+CNIC: 96599-4880952-3
+Program: BEE
+Section: E
+Account Password: 1531
+Contact: +923648708370
+Emergency Contact: +923782596191
+Hostel: 
+Room Number: 
+---
+Name: RAJA YAWAR ABBAS
+Reg: 2024533
+Gender: M
+Age: 22
+CNIC: 70805-7269306-7
+Program: BEE
+Section: E
+Account Password: 1533
+Contact: +923776312109
+Emergency Contact: +923842911877
+Hostel: 
+Room Number: 
+---
+Name: RAZA ALI
+Reg: 2024537
+Gender: M
+Age: 21
+CNIC: 62393-2538972-9
+Program: BEE
+Section: E
+Account Password: 1537
+Contact: +923880972688
+Emergency Contact: +923356844730
+Hostel: 
+Room Number: 
+---
+Name: SAFIA MALIK
+Reg: 2024555
+Gender: F
+Age: 22
+CNIC: 81028-8299638-9
+Program: BEE
+Section: E
+Account Password: 1555
+Contact: +923589310004
+Emergency Contact: +923252903488
+Hostel: 
+Room Number: 
+---
+Name: SHAHAB BURHAN
+Reg: 2024571
+Gender: M
+Age: 20
+CNIC: 35355-3352619-0
+Program: BEE
+Section: E
+Account Password: 1571
+Contact: +923737353788
+Emergency Contact: +923131311910
+Hostel: 
+Room Number: 
+---
+Name: SHAYAN AHMAD HUSSAIN
+Reg: 2024584
+Gender: M
+Age: 22
+CNIC: 85066-5382333-2
+Program: BEE
+Section: E
+Account Password: 1584
+Contact: +923743912262
+Emergency Contact: +923194636023
+Hostel: 
+Room Number: 
+---
+Name: SUBHAN AHMED
+Reg: 2024598
+Gender: M
+Age: 16
+CNIC: 20524-6833916-1
+Program: BEE
+Section: E
+Account Password: 1598
+Contact: +923983617481
+Emergency Contact: +923966915747
+Hostel: 
+Room Number: 
+---
+Name: SUHAIB ASIM
+Reg: 2024600
+Gender: M
+Age: 21
+CNIC: 69496-1312280-2
+Program: BEE
+Section: E
+Account Password: 1600
+Contact: +923446410687
+Emergency Contact: +923162940361
+Hostel: 
+Room Number: 
+---
+Name: SUMAIYA MANSOOR KHAN
+Reg: 2024601
+Gender: M
+Age: 20
+CNIC: 48339-6290926-1
+Program: BEE
+Section: E
+Account Password: 1601
+Contact: +923832588589
+Emergency Contact: +923681293213
+Hostel: 
+Room Number: 
+---
+Name: SYED MUHAMMAD AHMAD
+Reg: 2024614
+Gender: M
+Age: 21
+CNIC: 51712-6689486-3
+Program: BEE
+Section: E
+Account Password: 1614
+Contact: +923223189838
+Emergency Contact: +923287913739
+Hostel: 
+Room Number: 
+---
+Name: SYED MUHAMMAD AOUN RAZA TAQVI
+Reg: 2024617
+Gender: M
+Age: 22
+CNIC: 49356-4518938-3
+Program: BEE
+Section: E
+Account Password: 1617
+Contact: +923916913434
+Emergency Contact: +923364274931
+Hostel: 
+Room Number: 
+---
+Name: UMAMA ALI
+Reg: 2024643
+Gender: F
+Age: 18
+CNIC: 80787-8803308-4
+Program: BEE
+Section: E
+Account Password: 1643
+Contact: +923933673061
+Emergency Contact: +923812391342
+Hostel: 
+Room Number: 
+---
+Name: YAZDAN ALI KHAN
+Reg: 2024665
+Gender: M
+Age: 22
+CNIC: 53131-4437492-6
+Program: BEE
+Section: E
+Account Password: 1665
+Contact: +923512965273
+Emergency Contact: +923168578818
+Hostel: 
+Room Number: 
+---
+Name: YOUSUF ALI KHAN
+Reg: 2024667
+Gender: M
+Age: 22
+CNIC: 80098-3042146-8
+Program: BEE
+Section: E
+Account Password: 1667
+Contact: +923650412878
+Emergency Contact: +923847616369
+Hostel: 
+Room Number: 
+---
+Name: ZAID SIDDIQUI
+Reg: 2024669
+Gender: M
+Age: 21
+CNIC: 19072-3089794-6
+Program: BEE
+Section: E
+Account Password: 1669
+Contact: +923546053261
+Emergency Contact: +923570394421
+Hostel: 
+Room Number: 
+---
+Name: ZOHAIB ALI MUJAHID
+Reg: 2024687
+Gender: M
+Age: 21
+CNIC: 24360-3242332-1
+Program: BEE
+Section: E
+Account Password: 1687
+Contact: +923856932933
+Emergency Contact: +923501854138
+Hostel: 
+Room Number: 
+---
+Name: ZOUHAIR SAFDAR
+Reg: 2024688
+Gender: M
+Age: 22
+CNIC: 46769-3639957-5
+Program: BEE
+Section: E
+Account Password: 1688
+Contact: +923569475941
+Emergency Contact: +923470933153
+Hostel: 
+Room Number: 
+---
+Name: HADIA QADIR
+Reg: 2024707
+Gender: M
+Age: 22
+CNIC: 90622-5598105-4
+Program: BEE
+Section: E
+Account Password: 1707
+Contact: +923347278730
+Emergency Contact: +923232432199
+Hostel: 
+Room Number: 
+---
+Name: HUMNA KASHIF HASAN
+Reg: 2024708
+Gender: M
+Age: 20
+CNIC: 38110-4099225-2
+Program: BEE
+Section: E
+Account Password: 1708
+Contact: +923801888044
+Emergency Contact: +923241208790
+Hostel: 
+Room Number: 
+---
+Name: ABDUL MOUIZ
+Reg: 2024013
+Gender: M
+Age: 19
+CNIC: 55889-3735446-9
+Program: MGS
+Section: E
+Account Password: 1013
+Contact: +923535267049
+Emergency Contact: +923472063058
+Hostel: 
+Room Number: 
+---
+Name: ABDUL MUHAIMIN
+Reg: 2024015
+Gender: M
+Age: 19
+CNIC: 53032-1374487-7
+Program: MGS
+Section: E
+Account Password: 1015
+Contact: +923453010201
+Emergency Contact: +923775247498
+Hostel: 
+Room Number: 
+---
+Name: ABDUL RAFFAY
+Reg: 2024018
+Gender: M
+Age: 20
+CNIC: 79482-5652182-4
+Program: MGS
+Section: E
+Account Password: 1018
+Contact: +923562302656
+Emergency Contact: +923212332542
+Hostel: 
+Room Number: 
+---
+Name: ALIZEH DAYO
+Reg: 2024094
+Gender: F
+Age: 19
+CNIC: 36528-9368811-4
+Program: MGS
+Section: E
+Account Password: 1094
+Contact: +923486360584
+Emergency Contact: +923103175001
+Hostel: 
+Room Number: 
+---
+Name: AYESHA ASIF
+Reg: 2024125
+Gender: F
+Age: 18
+CNIC: 45433-9498342-1
+Program: MGS
+Section: E
+Account Password: 1125
+Contact: +923936131474
+Emergency Contact: +923698219157
+Hostel: 
+Room Number: 
+---
+Name: AYESHA IMRAN
+Reg: 2024126
+Gender: F
+Age: 19
+CNIC: 58293-9865576-3
+Program: MGS
+Section: E
+Account Password: 1126
+Contact: +923620124107
+Emergency Contact: +923425154102
+Hostel: 
+Room Number: 
+---
+Name: AYESHA MUATTER
+Reg: 2024129
+Gender: F
+Age: 18
+CNIC: 61256-5963939-7
+Program: MGS
+Section: E
+Account Password: 1129
+Contact: +923710803920
+Emergency Contact: +923316889693
+Hostel: 
+Room Number: 
+---
+Name: ABDUL WAHAB
+Reg: 2024719
+Gender: M
+Age: 20
+CNIC: 51404-2330881-9
+Program: MGS
+Section: E
+Account Password: 1719
+Contact: +923695306851
+Emergency Contact: +923977384931
+Hostel: 
+Room Number: 
+---
+Name: AYMEN ADNAN
+Reg: 2024130
+Gender: M
+Age: 19
+CNIC: 14280-6092576-0
+Program: MGS
+Section: E
+Account Password: 1130
+Contact: +923709189404
+Emergency Contact: +923271837238
+Hostel: 
+Room Number: 
+---
+Name: EMAAN HASSAN
+Reg: 2024155
+Gender: F
+Age: 19
+CNIC: 52878-4659841-1
+Program: MGS
+Section: E
+Account Password: 1155
+Contact: +923916596124
+Emergency Contact: +923539965412
+Hostel: 
+Room Number: 
+---
+Name: ESHAL ASIF MINHAS
+Reg: 2024161
+Gender: M
+Age: 21
+CNIC: 57498-2171022-3
+Program: MGS
+Section: E
+Account Password: 1161
+Contact: +923966023488
+Emergency Contact: +923753837102
+Hostel: 
+Room Number: 
+---
+Name: M Atta ur Rehman
+Reg: 2024717
+Gender: M
+Age: 19
+CNIC: 68087-4915583-6
+Program: MGS
+Section: E
+Account Password: 1717
+Contact: +923521812125
+Emergency Contact: +923211486404
+Hostel: 
+Room Number: 
+---
+Name: FATIMA KHALIL
+Reg: 2024176
+Gender: F
+Age: 22
+CNIC: 92591-2673600-6
+Program: MGS
+Section: E
+Account Password: 1176
+Contact: +923615180426
+Emergency Contact: +923562922693
+Hostel: 
+Room Number: 
+---
+Name: FATIMAH MUSTNEER
+Reg: 2024181
+Gender: M
+Age: 16
+CNIC: 38201-5096787-1
+Program: MGS
+Section: E
+Account Password: 1181
+Contact: +923824614518
+Emergency Contact: +923974234238
+Hostel: 
+Room Number: 
+---
+Name: FURQAN QURESHI
+Reg: 2024183
+Gender: M
+Age: 16
+CNIC: 24076-7177595-1
+Program: MGS
+Section: E
+Account Password: 1183
+Contact: +923217789054
+Emergency Contact: +923817123582
+Hostel: 
+Room Number: 
+---
+Name: HAMNA RASHEED
+Reg: 2024199
+Gender: F
+Age: 19
+CNIC: 76585-8274631-3
+Program: MGS
+Section: E
+Account Password: 1199
+Contact: +923252441440
+Emergency Contact: +923476844951
+Hostel: 
+Room Number: 
+---
+Name: HAMZA OWAIS KHAN
+Reg: 2024210
+Gender: M
+Age: 20
+CNIC: 18989-1405587-5
+Program: MGS
+Section: E
+Account Password: 1210
+Contact: +923246909256
+Emergency Contact: +923732558716
+Hostel: 
+Room Number: 
+---
+Name: HASSAN ANWAR
+Reg: 2024226
+Gender: M
+Age: 18
+CNIC: 29920-5386791-3
+Program: MGS
+Section: E
+Account Password: 1226
+Contact: +923365058377
+Emergency Contact: +923179823136
+Hostel: 
+Room Number: 
+---
+Name: HINA SHAKEEL
+Reg: 2024231
+Gender: M
+Age: 18
+CNIC: 81097-7748275-8
+Program: MGS
+Section: E
+Account Password: 1231
+Contact: +923971184183
+Emergency Contact: +923511850193
+Hostel: 
+Room Number: 
+---
+Name: HUZAIFA ABBASI
+Reg: 2024233
+Gender: M
+Age: 19
+CNIC: 79475-5888212-4
+Program: MGS
+Section: E
+Account Password: 1233
+Contact: +923945030121
+Emergency Contact: +923681301969
+Hostel: 
+Room Number: 
+---
+Name: IBRAHIM ARSHAD KHAN
+Reg: 2024238
+Gender: M
+Age: 20
+CNIC: 45496-2356822-2
+Program: MGS
+Section: E
+Account Password: 1238
+Contact: +923845893612
+Emergency Contact: +923519987638
+Hostel: 
+Room Number: 
+---
+Name: Muhammad Zain Khan
+Reg: 2024715
+Gender: M
+Age: 16
+CNIC: 81327-2412375-8
+Program: MGS
+Section: E
+Account Password: 1715
+Contact: +923977374172
+Emergency Contact: +923740026872
+Hostel: 
+Room Number: 
+---
+Name: IBRAHIM KAMRAN KHAN
+Reg: 2024240
+Gender: M
+Age: 19
+CNIC: 49819-9420619-4
+Program: MGS
+Section: E
+Account Password: 1240
+Contact: +923858415451
+Emergency Contact: +923247227977
+Hostel: 
+Room Number: 
+---
+Name: MANAHIL DAWOOD SHAMSI
+Reg: 2024278
+Gender: F
+Age: 18
+CNIC: 93423-3886113-1
+Program: MGS
+Section: E
+Account Password: 1278
+Contact: +923979427297
+Emergency Contact: +923975121906
+Hostel: 
+Room Number: 
+---
+Name: MOHAMMAD AYUB KHAN
+Reg: 2024301
+Gender: M
+Age: 20
+CNIC: 92338-1331760-0
+Program: MGS
+Section: E
+Account Password: 1301
+Contact: +923734955655
+Emergency Contact: +923284568049
+Hostel: 
+Room Number: 
+---
+Name: MOHAMMAD SURAHBEEL BOKHARI
+Reg: 2024305
+Gender: M
+Age: 16
+CNIC: 93215-2705396-4
+Program: MGS
+Section: E
+Account Password: 1305
+Contact: +923912175149
+Emergency Contact: +923615482517
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDUL MOEED VIRK
+Reg: 2024316
+Gender: M
+Age: 17
+CNIC: 77618-7514766-5
+Program: MGS
+Section: E
+Account Password: 1316
+Contact: +923816772078
+Emergency Contact: +923210843725
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABUBAKAR
+Reg: 2024333
+Gender: M
+Age: 22
+CNIC: 61554-2151382-3
+Program: MGS
+Section: E
+Account Password: 1333
+Contact: +923120156978
+Emergency Contact: +923526334952
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AHMED ALI
+Reg: 2024340
+Gender: M
+Age: 17
+CNIC: 82543-3975326-9
+Program: MGS
+Section: E
+Account Password: 1340
+Contact: +923798254405
+Emergency Contact: +923567442522
+Hostel: 
+Room Number: 
+---
+Name: Muhammad Bin Tahir
+Reg: 2024711
+Gender: M
+Age: 20
+CNIC: 58752-6952281-3
+Program: MGS
+Section: E
+Account Password: 1711
+Contact: +923522323323
+Emergency Contact: +923856409730
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD BURHAN
+Reg: 2024370
+Gender: M
+Age: 17
+CNIC: 38904-7764760-4
+Program: MGS
+Section: E
+Account Password: 1370
+Contact: +923741622158
+Emergency Contact: +923510234086
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HUSSAIN KHAN
+Reg: 2024406
+Gender: M
+Age: 22
+CNIC: 65124-5594264-1
+Program: MGS
+Section: E
+Account Password: 1406
+Contact: +923944648033
+Emergency Contact: +923442848333
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HUSSAIN NAWAZ
+Reg: 2024407
+Gender: M
+Age: 17
+CNIC: 97497-5189112-0
+Program: MGS
+Section: E
+Account Password: 1407
+Contact: +923650106679
+Emergency Contact: +923959638070
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SHAHEER
+Reg: 2024462
+Gender: M
+Age: 21
+CNIC: 94002-7423467-6
+Program: MGS
+Section: E
+Account Password: 1462
+Contact: +923114645724
+Emergency Contact: +923831635366
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD TALAL MUNIR
+Reg: 2024477
+Gender: M
+Age: 20
+CNIC: 67858-6314025-5
+Program: MGS
+Section: E
+Account Password: 1477
+Contact: +923834179459
+Emergency Contact: +923130595758
+Hostel: 
+Room Number: 
+---
+Name: RANA MUHAMMAD ALI MOOSA NOON
+Reg: 2024534
+Gender: M
+Age: 18
+CNIC: 78418-4075348-1
+Program: MGS
+Section: E
+Account Password: 1534
+Contact: +923248900389
+Emergency Contact: +923898215532
+Hostel: 
+Room Number: 
+---
+Name: RIDA FATIMA
+Reg: 2024539
+Gender: F
+Age: 16
+CNIC: 98586-4916255-9
+Program: MGS
+Section: E
+Account Password: 1539
+Contact: +923938618848
+Emergency Contact: +923479412870
+Hostel: 
+Room Number: 
+---
+Name: RIHAM SAQIB
+Reg: 2024541
+Gender: M
+Age: 22
+CNIC: 15015-9305572-6
+Program: MGS
+Section: E
+Account Password: 1541
+Contact: +923964981727
+Emergency Contact: +923381725888
+Hostel: 
+Room Number: 
+---
+Name: SAFI UR REHMAN
+Reg: 2024554
+Gender: M
+Age: 21
+CNIC: 52863-5039873-3
+Program: MGS
+Section: E
+Account Password: 1554
+Contact: +923405329685
+Emergency Contact: +923573465382
+Hostel: 
+Room Number: 
+---
+Name: SAIFULLAH UMER
+Reg: 2024557
+Gender: M
+Age: 19
+CNIC: 19277-1449697-9
+Program: MGS
+Section: E
+Account Password: 1557
+Contact: +923356090390
+Emergency Contact: +923651764988
+Hostel: 
+Room Number: 
+---
+Name: SHAHEER ASAF
+Reg: 2024574
+Gender: M
+Age: 21
+CNIC: 31074-3152611-1
+Program: MGS
+Section: E
+Account Password: 1574
+Contact: +923225984403
+Emergency Contact: +923751478791
+Hostel: 
+Room Number: 
+---
+Name: SHANZEH SIDDIQUI
+Reg: 2024580
+Gender: M
+Age: 17
+CNIC: 25353-7934781-2
+Program: MGS
+Section: E
+Account Password: 1580
+Contact: +923447752086
+Emergency Contact: +923215495429
+Hostel: 
+Room Number: 
+---
+Name: SHERAZ HUSSAIN
+Reg: 2024589
+Gender: M
+Age: 19
+CNIC: 17446-5899061-0
+Program: MGS
+Section: E
+Account Password: 1589
+Contact: +923549467432
+Emergency Contact: +923596155306
+Hostel: 
+Room Number: 
+---
+Name: SOBIA
+Reg: 2024594
+Gender: F
+Age: 19
+CNIC: 38072-3055884-2
+Program: MGS
+Section: E
+Account Password: 1594
+Contact: +923515135282
+Emergency Contact: +923158843334
+Hostel: 
+Room Number: 
+---
+Name: SUNAINA TAHIR
+Reg: 2024602
+Gender: M
+Age: 20
+CNIC: 34504-8566782-6
+Program: MGS
+Section: E
+Account Password: 1602
+Contact: +923138084011
+Emergency Contact: +923430375291
+Hostel: 
+Room Number: 
+---
+Name: SYED FARZEEN ABBAS
+Reg: 2024607
+Gender: M
+Age: 18
+CNIC: 84384-7678711-2
+Program: MGS
+Section: E
+Account Password: 1607
+Contact: +923841769216
+Emergency Contact: +923786185134
+Hostel: 
+Room Number: 
+---
+Name: TEHREEM USMAN
+Reg: 2024638
+Gender: M
+Age: 19
+CNIC: 80422-3092783-9
+Program: MGS
+Section: E
+Account Password: 1638
+Contact: +923997576290
+Emergency Contact: +923212736229
+Hostel: 
+Room Number: 
+---
+Name: UMAIMA RIAZ
+Reg: 2024640
+Gender: M
+Age: 16
+CNIC: 60819-6387442-1
+Program: MGS
+Section: E
+Account Password: 1640
+Contact: +923702318013
+Emergency Contact: +923804250326
+Hostel: 
+Room Number: 
+---
+Name: WAAD ALLAH RAI
+Reg: 2024656
+Gender: M
+Age: 20
+CNIC: 89222-5858046-4
+Program: MGS
+Section: E
+Account Password: 1656
+Contact: +923623590766
+Emergency Contact: +923730578758
+Hostel: 
+Room Number: 
+---
+Name: ZARMINA KHAN
+Reg: 2024682
+Gender: M
+Age: 20
+CNIC: 58355-6226915-4
+Program: MGS
+Section: E
+Account Password: 1682
+Contact: +923928173956
+Emergency Contact: +923933183475
+Hostel: 
+Room Number: 
+---
+Name: Muhammad Usman
+Reg: 2024721
+Gender: M
+Age: 19
+CNIC: 37768-8584158-1
+Program: MGS
+Section: E
+Account Password: 1721
+Contact: +923696267385
+Emergency Contact: +923370333291
+Hostel: 
+Room Number: 
+---
+Name: SHARIAH NOOR AZHAR
+Reg: 2024581
+Gender: F
+Age: 16
+CNIC: 32393-4614917-1
+Program: MGS
+Section: E
+Account Password: 1581
+Contact: +923248432967
+Emergency Contact: +923604730316
+Hostel: 
+Room Number: 
+---
+Name: ABDUL MOIZ KHAN
+Reg: 2024010
+Gender: M
+Age: 20
+CNIC: 75515-6583896-6
+Program: BAI
+Section: F
+Account Password: 1010
+Contact: +923683053603
+Emergency Contact: +923639897353
+Hostel: 
+Room Number: 
+---
+Name: ABDUL RAFAY
+Reg: 2024017
+Gender: M
+Age: 18
+CNIC: 52369-3719347-7
+Program: BAI
+Section: F
+Account Password: 1017
+Contact: +923601635422
+Emergency Contact: +923698796176
+Hostel: 
+Room Number: 
+---
+Name: ABDUL REHMAN
+Reg: 2024026
+Gender: M
+Age: 16
+CNIC: 18280-2900616-7
+Program: BAI
+Section: F
+Account Password: 1026
+Contact: +923936854166
+Emergency Contact: +923279338816
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH BIN ADNAN
+Reg: 2024035
+Gender: M
+Age: 22
+CNIC: 68647-7357183-4
+Program: BAI
+Section: F
+Account Password: 1035
+Contact: +923577668163
+Emergency Contact: +923508982967
+Hostel: 
+Room Number: 
+---
+Name: AHMER KHATTAK
+Reg: 2024069
+Gender: M
+Age: 17
+CNIC: 27752-8725161-0
+Program: BAI
+Section: F
+Account Password: 1069
+Contact: +923822819114
+Emergency Contact: +923355929924
+Hostel: 
+Room Number: 
+---
+Name: ALI ASAD
+Reg: 2024085
+Gender: M
+Age: 19
+CNIC: 55406-3777531-7
+Program: BAI
+Section: F
+Account Password: 1085
+Contact: +923429708498
+Emergency Contact: +923272551538
+Hostel: 
+Room Number: 
+---
+Name: ATTA UR RAHMAN SHEIKH
+Reg: 2024122
+Gender: M
+Age: 22
+CNIC: 66556-9503558-7
+Program: BAI
+Section: F
+Account Password: 1122
+Contact: +923010089595
+Emergency Contact: +923257011547
+Hostel: 
+Room Number: 
+---
+Name: AWAIS IFTIKHAR
+Reg: 2024124
+Gender: M
+Age: 16
+CNIC: 52828-5792730-4
+Program: BAI
+Section: F
+Account Password: 1124
+Contact: +923832916556
+Emergency Contact: +923299592946
+Hostel: 
+Room Number: 
+---
+Name: BATOOL BINTE FAZAL
+Reg: 2024140
+Gender: F
+Age: 17
+CNIC: 14501-5082370-5
+Program: BAI
+Section: F
+Account Password: 1140
+Contact: +923416299768
+Emergency Contact: +923965289765
+Hostel: 
+Room Number: 
+---
+Name: EMAAN FATIMA
+Reg: 2024154
+Gender: F
+Age: 21
+CNIC: 81736-5561361-9
+Program: BAI
+Section: F
+Account Password: 1154
+Contact: +923475013386
+Emergency Contact: +923886268942
+Hostel: 
+Room Number: 
+---
+Name: EMAAN TAHIR SWATI
+Reg: 2024156
+Gender: F
+Age: 17
+CNIC: 75475-9539356-9
+Program: BAI
+Section: F
+Account Password: 1156
+Contact: +923988862224
+Emergency Contact: +923802443345
+Hostel: 
+Room Number: 
+---
+Name: FARHAN ULLAH
+Reg: 2024170
+Gender: M
+Age: 16
+CNIC: 10118-3192593-4
+Program: BAI
+Section: F
+Account Password: 1170
+Contact: +923120793404
+Emergency Contact: +923341952071
+Hostel: 
+Room Number: 
+---
+Name: FATIMA AMEER
+Reg: 2024175
+Gender: F
+Age: 19
+CNIC: 31255-6777108-7
+Program: BAI
+Section: F
+Account Password: 1175
+Contact: +923855851586
+Emergency Contact: +923643397558
+Hostel: 
+Room Number: 
+---
+Name: GHANIA MUKHTAR
+Reg: 2024184
+Gender: F
+Age: 17
+CNIC: 47260-7621977-5
+Program: BAI
+Section: F
+Account Password: 1184
+Contact: +923137281357
+Emergency Contact: +923652989751
+Hostel: 
+Room Number: 
+---
+Name: HAMZA ARIF
+Reg: 2024206
+Gender: M
+Age: 17
+CNIC: 69777-9168023-7
+Program: BAI
+Section: F
+Account Password: 1206
+Contact: +923188296184
+Emergency Contact: +923857016451
+Hostel: 
+Room Number: 
+---
+Name: HAMZA SAMI
+Reg: 2024212
+Gender: M
+Age: 20
+CNIC: 45395-5690969-7
+Program: BAI
+Section: F
+Account Password: 1212
+Contact: +923375726028
+Emergency Contact: +923643295917
+Hostel: 
+Room Number: 
+---
+Name: HASEEB SYED
+Reg: 2024220
+Gender: M
+Age: 19
+CNIC: 48941-8599282-8
+Program: BAI
+Section: F
+Account Password: 1220
+Contact: +923304795077
+Emergency Contact: +923737939517
+Hostel: 
+Room Number: 
+---
+Name: HASSAN RAZA SHAIKH
+Reg: 2024229
+Gender: M
+Age: 16
+CNIC: 54751-1706213-7
+Program: BAI
+Section: F
+Account Password: 1229
+Contact: +923555402922
+Emergency Contact: +923414235319
+Hostel: 
+Room Number: 
+---
+Name: LABIBA AHMAD
+Reg: 2024260
+Gender: F
+Age: 20
+CNIC: 45471-2119409-9
+Program: BAI
+Section: F
+Account Password: 1260
+Contact: +923323434893
+Emergency Contact: +923265843750
+Hostel: 
+Room Number: 
+---
+Name: MAIMOONA SABOOR
+Reg: 2024270
+Gender: F
+Age: 20
+CNIC: 81370-6862614-5
+Program: BAI
+Section: F
+Account Password: 1270
+Contact: +923792296589
+Emergency Contact: +923111034764
+Hostel: 
+Room Number: 
+---
+Name: MALIK MUHAMMAD MOGHEES ALTAF
+Reg: 2024277
+Gender: M
+Age: 16
+CNIC: 13203-7674643-0
+Program: BAI
+Section: F
+Account Password: 1277
+Contact: +923846512358
+Emergency Contact: +923214605186
+Hostel: 
+Room Number: 
+---
+Name: MARYAM SAJJAD AHMED
+Reg: 2024284
+Gender: F
+Age: 20
+CNIC: 11071-6564733-0
+Program: BAI
+Section: F
+Account Password: 1284
+Contact: +923791039164
+Emergency Contact: +923646517199
+Hostel: 
+Room Number: 
+---
+Name: MAZHAR GUFTAR
+Reg: 2024286
+Gender: M
+Age: 22
+CNIC: 23727-3503364-0
+Program: BAI
+Section: F
+Account Password: 1286
+Contact: +923676646073
+Emergency Contact: +923270163244
+Hostel: 
+Room Number: 
+---
+Name: MOHSIN SAEED
+Reg: 2024307
+Gender: M
+Age: 17
+CNIC: 92863-9936582-7
+Program: BAI
+Section: F
+Account Password: 1307
+Contact: +923709584764
+Emergency Contact: +923451520507
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDULLAH
+Reg: 2024323
+Gender: M
+Age: 22
+CNIC: 47805-7812745-9
+Program: BAI
+Section: F
+Account Password: 1323
+Contact: +923126184243
+Emergency Contact: +923764859390
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDULLAH KARIM
+Reg: 2024327
+Gender: M
+Age: 22
+CNIC: 90957-9576801-2
+Program: BAI
+Section: F
+Account Password: 1327
+Contact: +923916954793
+Emergency Contact: +923545923593
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AFFAN ZARRAR
+Reg: 2024334
+Gender: M
+Age: 21
+CNIC: 58034-2912687-6
+Program: BAI
+Section: F
+Account Password: 1334
+Contact: +923951950724
+Emergency Contact: +923228889888
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AHMAD SAJID
+Reg: 2024338
+Gender: M
+Age: 22
+CNIC: 23652-1646528-0
+Program: BAI
+Section: F
+Account Password: 1338
+Contact: +923661725060
+Emergency Contact: +923394657889
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AHMED HAMMAD
+Reg: 2024341
+Gender: M
+Age: 22
+CNIC: 75939-8471976-0
+Program: BAI
+Section: F
+Account Password: 1341
+Contact: +923294448919
+Emergency Contact: +923349437052
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ASAD AKMAL
+Reg: 2024355
+Gender: M
+Age: 17
+CNIC: 86258-3858231-3
+Program: BAI
+Section: F
+Account Password: 1355
+Contact: +923402732276
+Emergency Contact: +923499371843
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HARIS FAROOQ
+Reg: 2024395
+Gender: M
+Age: 21
+CNIC: 89132-3160276-0
+Program: BAI
+Section: F
+Account Password: 1395
+Contact: +923978937684
+Emergency Contact: +923409644665
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HASSAN SARFARAZ
+Reg: 2024401
+Gender: M
+Age: 18
+CNIC: 58272-3183147-6
+Program: BAI
+Section: F
+Account Password: 1401
+Contact: +923438470834
+Emergency Contact: +923842151515
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD IBRAHIM UMAR
+Reg: 2024413
+Gender: M
+Age: 16
+CNIC: 32440-1978642-7
+Program: BAI
+Section: F
+Account Password: 1413
+Contact: +923969467818
+Emergency Contact: +923715699019
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SHAHNAWAZ
+Reg: 2024464
+Gender: M
+Age: 16
+CNIC: 40066-9515527-0
+Program: BAI
+Section: F
+Account Password: 1464
+Contact: +923400813060
+Emergency Contact: +923687210804
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD TAHA
+Reg: 2024475
+Gender: M
+Age: 22
+CNIC: 88348-6444135-7
+Program: BAI
+Section: F
+Account Password: 1475
+Contact: +923992675993
+Emergency Contact: +923552998640
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD TALAL IQBAL
+Reg: 2024476
+Gender: M
+Age: 18
+CNIC: 97031-9584033-5
+Program: BAI
+Section: F
+Account Password: 1476
+Contact: +923640027001
+Emergency Contact: +923261626469
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ZAWAR FAHIM
+Reg: 2024494
+Gender: M
+Age: 22
+CNIC: 91320-8027101-0
+Program: BAI
+Section: F
+Account Password: 1494
+Contact: +923573805502
+Emergency Contact: +923522537029
+Hostel: 
+Room Number: 
+---
+Name: NOHAIL FARAZ
+Reg: 2024519
+Gender: M
+Age: 18
+CNIC: 58851-5996094-6
+Program: BAI
+Section: F
+Account Password: 1519
+Contact: +923172286776
+Emergency Contact: +923600432010
+Hostel: 
+Room Number: 
+---
+Name: QURAT ULAIN AHMED
+Reg: 2024526
+Gender: F
+Age: 18
+CNIC: 38737-4537043-4
+Program: BAI
+Section: F
+Account Password: 1526
+Contact: +923535613565
+Emergency Contact: +923939435919
+Hostel: 
+Room Number: 
+---
+Name: RABIA ASHRAF
+Reg: 2024527
+Gender: F
+Age: 21
+CNIC: 32947-6126912-6
+Program: BAI
+Section: F
+Account Password: 1527
+Contact: +923730890871
+Emergency Contact: +923241951920
+Hostel: 
+Room Number: 
+---
+Name: RABIA YASIN
+Reg: 2024528
+Gender: F
+Age: 19
+CNIC: 34627-7820346-3
+Program: BAI
+Section: F
+Account Password: 1528
+Contact: +923422570548
+Emergency Contact: +923150797014
+Hostel: 
+Room Number: 
+---
+Name: RIDA SYED
+Reg: 2024540
+Gender: F
+Age: 22
+CNIC: 51873-9183973-6
+Program: BAI
+Section: F
+Account Password: 1540
+Contact: +923602665512
+Emergency Contact: +923459323278
+Hostel: 
+Room Number: 
+---
+Name: SAAD HASAN ELLAHIE
+Reg: 2024545
+Gender: M
+Age: 17
+CNIC: 42773-5618541-8
+Program: BAI
+Section: F
+Account Password: 1545
+Contact: +923514068374
+Emergency Contact: +923377032373
+Hostel: 
+Room Number: 
+---
+Name: SAAD ISMAIL
+Reg: 2024546
+Gender: M
+Age: 22
+CNIC: 21698-2471276-2
+Program: BAI
+Section: F
+Account Password: 1546
+Contact: +923271698528
+Emergency Contact: +923651877401
+Hostel: 
+Room Number: 
+---
+Name: SEHLA KHAN
+Reg: 2024568
+Gender: F
+Age: 20
+CNIC: 21982-9647469-2
+Program: BAI
+Section: F
+Account Password: 1568
+Contact: +923198197594
+Emergency Contact: +923626284450
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ALI YOUNAS
+Reg: 2024347
+Gender: M
+Age: 18
+CNIC: 92485-8035893-6
+Program: BAI
+Section: F
+Account Password: 1347
+Contact: +923812525728
+Emergency Contact: +923734339678
+Hostel: 
+Room Number: 
+---
+Name: SYED ABID HUSSAIN KAZMI
+Reg: 2024603
+Gender: M
+Age: 21
+CNIC: 84692-6579810-3
+Program: BAI
+Section: F
+Account Password: 1603
+Contact: +923497793234
+Emergency Contact: +923377992791
+Hostel: 
+Room Number: 
+---
+Name: SYEDA KHADIJA HASSAN
+Reg: 2024626
+Gender: F
+Age: 17
+CNIC: 52348-6443297-6
+Program: BAI
+Section: F
+Account Password: 1626
+Contact: +923607947834
+Emergency Contact: +923459937339
+Hostel: 
+Room Number: 
+---
+Name: UROOSH MARYAM
+Reg: 2024650
+Gender: F
+Age: 18
+CNIC: 36125-2264693-0
+Program: BAI
+Section: F
+Account Password: 1650
+Contact: +923719614394
+Emergency Contact: +923162856577
+Hostel: 
+Room Number: 
+---
+Name: ZARA GUL SAMOO
+Reg: 2024679
+Gender: F
+Age: 19
+CNIC: 44431-6638493-8
+Program: BAI
+Section: F
+Account Password: 1679
+Contact: +923104923645
+Emergency Contact: +923793153265
+Hostel: 
+Room Number: 
+---
+Name: ZUHAIR HUSSAIN
+Reg: 2024692
+Gender: M
+Age: 16
+CNIC: 39188-1410577-6
+Program: BAI
+Section: F
+Account Password: 1692
+Contact: +923789901095
+Emergency Contact: +923385074649
+Hostel: 
+Room Number: 
+---
+Name: HASSAN ZAHID
+Reg: 2024701
+Gender: M
+Age: 16
+CNIC: 95063-3162519-0
+Program: BAI
+Section: F
+Account Password: 1701
+Contact: +923640345295
+Emergency Contact: +923841290841
+Hostel: 
+Room Number: 
+---
+Name: ABDUL RAFFAY KHADIM GILL
+Reg: 2024019
+Gender: M
+Age: 20
+CNIC: 10898-8190446-5
+Program: BCYS
+Section: G
+Account Password: 1019
+Contact: +923491954886
+Emergency Contact: +923884823713
+Hostel: 
+Room Number: 
+---
+Name: ABDUL REHMAN ASIF
+Reg: 2024027
+Gender: M
+Age: 21
+CNIC: 73916-3471742-0
+Program: BCYS
+Section: G
+Account Password: 1027
+Contact: +923412551139
+Emergency Contact: +923203490072
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH MUNIR
+Reg: 2024042
+Gender: M
+Age: 19
+CNIC: 27813-8385487-8
+Program: BCYS
+Section: G
+Account Password: 1042
+Contact: +923817296589
+Emergency Contact: +923114961519
+Hostel: 
+Room Number: 
+---
+Name: AHMAD ALI KHAN
+Reg: 2024063
+Gender: M
+Age: 16
+CNIC: 16017-1100568-2
+Program: BCYS
+Section: G
+Account Password: 1063
+Contact: +923316417016
+Emergency Contact: +923678976878
+Hostel: 
+Room Number: 
+---
+Name: ALI KAMRAN
+Reg: 2024090
+Gender: M
+Age: 16
+CNIC: 83470-4013068-9
+Program: BCYS
+Section: G
+Account Password: 1090
+Contact: +923831338020
+Emergency Contact: +923999557773
+Hostel: 
+Room Number: 
+---
+Name: ASAD ALI
+Reg: 2024116
+Gender: M
+Age: 21
+CNIC: 94868-9133067-5
+Program: BCYS
+Section: G
+Account Password: 1116
+Contact: +923532754425
+Emergency Contact: +923513697723
+Hostel: 
+Room Number: 
+---
+Name: SYED MUHAMMAD ALI AKBAR SHAH
+Reg: 2024615
+Gender: M
+Age: 19
+CNIC: 12226-2635152-0
+Program: BCYS
+Section: G
+Account Password: 1615
+Contact: +923803692071
+Emergency Contact: +923819608739
+Hostel: 
+Room Number: 
+---
+Name: EHTISHAM UL HASSAN
+Reg: 2024152
+Gender: M
+Age: 20
+CNIC: 20326-4883345-2
+Program: BCYS
+Section: G
+Account Password: 1152
+Contact: +923889812653
+Emergency Contact: +923636665810
+Hostel: 
+Room Number: 
+---
+Name: FATIMA REHMAN
+Reg: 2024177
+Gender: F
+Age: 22
+CNIC: 15699-6600095-8
+Program: BCYS
+Section: G
+Account Password: 1177
+Contact: +923551541720
+Emergency Contact: +923381286698
+Hostel: 
+Room Number: 
+---
+Name: HAMZA ZAKA KHAN
+Reg: 2024213
+Gender: M
+Age: 22
+CNIC: 17458-7059962-5
+Program: BCYS
+Section: G
+Account Password: 1213
+Contact: +923684797128
+Emergency Contact: +923568709161
+Hostel: 
+Room Number: 
+---
+Name: HASNAIN ZIA WAZIR
+Reg: 2024222
+Gender: M
+Age: 16
+CNIC: 13591-6341782-6
+Program: BCYS
+Section: G
+Account Password: 1222
+Contact: +923482497972
+Emergency Contact: +923999382576
+Hostel: 
+Room Number: 
+---
+Name: IBRAHIM MALHI
+Reg: 2024241
+Gender: M
+Age: 22
+CNIC: 78130-2670198-4
+Program: BCYS
+Section: G
+Account Password: 1241
+Contact: +923851812385
+Emergency Contact: +923696629968
+Hostel: 
+Room Number: 
+---
+Name: IRAB ZARA
+Reg: 2024244
+Gender: F
+Age: 18
+CNIC: 87473-7617730-4
+Program: BCYS
+Section: G
+Account Password: 1244
+Contact: +923697947407
+Emergency Contact: +923358163845
+Hostel: 
+Room Number: 
+---
+Name: ISLAM UDDIN
+Reg: 2024247
+Gender: M
+Age: 17
+CNIC: 61970-6728093-9
+Program: BCYS
+Section: G
+Account Password: 1247
+Contact: +923896622576
+Emergency Contact: +923930602822
+Hostel: 
+Room Number: 
+---
+Name: MALIK ABDULLAH
+Reg: 2024275
+Gender: M
+Age: 16
+CNIC: 67174-7627160-7
+Program: BCYS
+Section: G
+Account Password: 1275
+Contact: +923344647461
+Emergency Contact: +923722577268
+Hostel: 
+Room Number: 
+---
+Name: MIRZA KHIZAR BAIG
+Reg: 2024294
+Gender: M
+Age: 19
+CNIC: 12781-8012613-3
+Program: BCYS
+Section: G
+Account Password: 1294
+Contact: +923875360491
+Emergency Contact: +923100633561
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDULLAH
+Reg: 2024321
+Gender: M
+Age: 16
+CNIC: 86557-6708742-2
+Program: BCYS
+Section: G
+Account Password: 1321
+Contact: +923541840771
+Emergency Contact: +923362436536
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDULLAH KALEEM
+Reg: 2024326
+Gender: M
+Age: 16
+CNIC: 64853-2166271-4
+Program: BCYS
+Section: G
+Account Password: 1326
+Contact: +923518719485
+Emergency Contact: +923788217874
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AWAB ABDULLAH
+Reg: 2024358
+Gender: M
+Age: 22
+CNIC: 33611-3446906-4
+Program: BCYS
+Section: G
+Account Password: 1358
+Contact: +923673043843
+Emergency Contact: +923639067021
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD GHAZALI KHAN
+Reg: 2024380
+Gender: M
+Age: 16
+CNIC: 36166-3214414-2
+Program: BCYS
+Section: G
+Account Password: 1380
+Contact: +923588784784
+Emergency Contact: +923217471465
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HARIS ZAFAR
+Reg: 2024396
+Gender: M
+Age: 17
+CNIC: 10510-1898287-5
+Program: BCYS
+Section: G
+Account Password: 1396
+Contact: +923717393791
+Emergency Contact: +923633201021
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD IBRAHIM GULZAR
+Reg: 2024409
+Gender: M
+Age: 16
+CNIC: 18551-2187156-8
+Program: BCYS
+Section: G
+Account Password: 1409
+Contact: +923478980796
+Emergency Contact: +923319870629
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD NAQI AFAQ
+Reg: 2024433
+Gender: M
+Age: 17
+CNIC: 25425-2854518-6
+Program: BCYS
+Section: G
+Account Password: 1433
+Contact: +923235196575
+Emergency Contact: +923911477322
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SAAD
+Reg: 2024444
+Gender: M
+Age: 18
+CNIC: 94060-7550914-2
+Program: BCYS
+Section: G
+Account Password: 1444
+Contact: +923103715619
+Emergency Contact: +923294795516
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SAAD
+Reg: 2024445
+Gender: M
+Age: 22
+CNIC: 33028-9707884-3
+Program: BCYS
+Section: G
+Account Password: 1445
+Contact: +923239874530
+Emergency Contact: +923306176720
+Hostel: 
+Room Number: 
+---
+Name: Umer Wali
+Reg: 2023736
+Gender: M
+Age: 22
+CNIC: 35795-6302671-7
+Program: BCYS
+Section: G
+Account Password: 1736
+Contact: +923898887376
+Emergency Contact: +923837190922
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SHAREQ USMAN
+Reg: 2024465
+Gender: M
+Age: 20
+CNIC: 66834-8388594-5
+Program: BCYS
+Section: G
+Account Password: 1465
+Contact: +923631506263
+Emergency Contact: +923234944211
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SULEMAN JAVED MALIK
+Reg: 2024472
+Gender: M
+Age: 18
+CNIC: 31910-8106897-1
+Program: BCYS
+Section: G
+Account Password: 1472
+Contact: +923100021705
+Emergency Contact: +923643082247
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD UMAR
+Reg: 2024480
+Gender: M
+Age: 17
+CNIC: 87611-8075946-0
+Program: BCYS
+Section: G
+Account Password: 1480
+Contact: +923177458903
+Emergency Contact: +923999190944
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD UMAR ASLAM
+Reg: 2024481
+Gender: M
+Age: 18
+CNIC: 16515-4501191-4
+Program: BCYS
+Section: G
+Account Password: 1481
+Contact: +923137061651
+Emergency Contact: +923286061169
+Hostel: 
+Room Number: 
+---
+Name: OMER IMRAN SIDDIQUI
+Reg: 2024523
+Gender: M
+Age: 18
+CNIC: 15237-8021886-2
+Program: BCYS
+Section: G
+Account Password: 1523
+Contact: +923663268014
+Emergency Contact: +923788836372
+Hostel: 
+Room Number: 
+---
+Name: REYAN KASHIF
+Reg: 2024538
+Gender: M
+Age: 22
+CNIC: 85766-2939824-0
+Program: BCYS
+Section: G
+Account Password: 1538
+Contact: +923876182256
+Emergency Contact: +923493960501
+Hostel: 
+Room Number: 
+---
+Name: SAMAND KHAN
+Reg: 2024560
+Gender: M
+Age: 16
+CNIC: 74557-3509296-2
+Program: BCYS
+Section: G
+Account Password: 1560
+Contact: +923490619561
+Emergency Contact: +923207758898
+Hostel: 
+Room Number: 
+---
+Name: SOHAIB BIN TAUSIF
+Reg: 2024595
+Gender: M
+Age: 22
+CNIC: 14048-8739845-2
+Program: BCYS
+Section: G
+Account Password: 1595
+Contact: +923519438364
+Emergency Contact: +923431183221
+Hostel: 
+Room Number: 
+---
+Name: SYED MOHAMMAD EBRAHIM
+Reg: 2024610
+Gender: M
+Age: 19
+CNIC: 51325-9246955-2
+Program: BCYS
+Section: G
+Account Password: 1610
+Contact: +923536694796
+Emergency Contact: +923974654120
+Hostel: 
+Room Number: 
+---
+Name: ASJID SAMAD
+Reg: 2024119
+Gender: M
+Age: 19
+CNIC: 44496-5527704-3
+Program: BCYS
+Section: G
+Account Password: 1119
+Contact: +923141585172
+Emergency Contact: +923567058427
+Hostel: 
+Room Number: 
+---
+Name: SYEDA MAHEEN KAZMI
+Reg: 2024627
+Gender: F
+Age: 16
+CNIC: 17782-7006858-4
+Program: BCYS
+Section: G
+Account Password: 1627
+Contact: +923189925562
+Emergency Contact: +923173589962
+Hostel: 
+Room Number: 
+---
+Name: USMAN AZHAR
+Reg: 2024653
+Gender: M
+Age: 17
+CNIC: 86939-5007439-4
+Program: BCYS
+Section: G
+Account Password: 1653
+Contact: +923127549843
+Emergency Contact: +923686279308
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SAIM
+Reg: 2024453
+Gender: M
+Age: 19
+CNIC: 90983-7702914-3
+Program: BCYS
+Section: G
+Account Password: 1453
+Contact: +923293290563
+Emergency Contact: +923978621949
+Hostel: 
+Room Number: 
+---
+Name: WALWAL KHAN AFRIDI
+Reg: 2024661
+Gender: M
+Age: 20
+CNIC: 78888-5707778-7
+Program: BCYS
+Section: G
+Account Password: 1661
+Contact: +923368316968
+Emergency Contact: +923178780222
+Hostel: 
+Room Number: 
+---
+Name: WARDA GUL
+Reg: 2024663
+Gender: F
+Age: 17
+CNIC: 29876-6986157-8
+Program: BCYS
+Section: G
+Account Password: 1663
+Contact: +923331921753
+Emergency Contact: +923880088680
+Hostel: 
+Room Number: 
+---
+Name: YOURAJ ALI KARIM
+Reg: 2024666
+Gender: M
+Age: 17
+CNIC: 11811-9434788-8
+Program: BCYS
+Section: G
+Account Password: 1666
+Contact: +923918316088
+Emergency Contact: +923559060133
+Hostel: 
+Room Number: 
+---
+Name: ZAINAB HASHMI
+Reg: 2024674
+Gender: F
+Age: 22
+CNIC: 60550-1366094-7
+Program: BCYS
+Section: G
+Account Password: 1674
+Contact: +923152397180
+Emergency Contact: +923179032796
+Hostel: 
+Room Number: 
+---
+Name: ABDUL MUDASIR
+Reg: 2024014
+Gender: M
+Age: 20
+CNIC: 15862-8496447-3
+Program: CSW
+Section: G
+Account Password: 1014
+Contact: +923229813823
+Emergency Contact: +923719672493
+Hostel: 
+Room Number: 
+---
+Name: ABDUL REHMAN ISHAQUE
+Reg: 2024028
+Gender: M
+Age: 17
+CNIC: 45069-5668362-5
+Program: CSW
+Section: G
+Account Password: 1028
+Contact: +923318906981
+Emergency Contact: +923551893470
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH KHAN
+Reg: 2024040
+Gender: M
+Age: 18
+CNIC: 53467-5307647-8
+Program: CSW
+Section: G
+Account Password: 1040
+Contact: +923284230262
+Emergency Contact: +923726362775
+Hostel: 
+Room Number: 
+---
+Name: ABDUS SALAM
+Reg: 2024052
+Gender: M
+Age: 21
+CNIC: 14822-2334992-2
+Program: CSW
+Section: G
+Account Password: 1052
+Contact: +923246652004
+Emergency Contact: +923831767023
+Hostel: 
+Room Number: 
+---
+Name: ABEER IHSAN
+Reg: 2024053
+Gender: M
+Age: 16
+CNIC: 10226-7936770-9
+Program: CSW
+Section: G
+Account Password: 1053
+Contact: +923660493305
+Emergency Contact: +923864499242
+Hostel: 
+Room Number: 
+---
+Name: AHSAN ALI SHAIKH
+Reg: 2024071
+Gender: M
+Age: 22
+CNIC: 28280-5574634-6
+Program: CSW
+Section: G
+Account Password: 1071
+Contact: +923323413490
+Emergency Contact: +923688966531
+Hostel: 
+Room Number: 
+---
+Name: AIZA HUMAYUN
+Reg: 2024076
+Gender: F
+Age: 20
+CNIC: 26270-3803473-7
+Program: CSW
+Section: G
+Account Password: 1076
+Contact: +923300999209
+Emergency Contact: +923371132856
+Hostel: 
+Room Number: 
+---
+Name: ALEENA JAMIL
+Reg: 2024081
+Gender: F
+Age: 22
+CNIC: 84227-3485481-8
+Program: CSW
+Section: G
+Account Password: 1081
+Contact: +923453718902
+Emergency Contact: +923592400777
+Hostel: 
+Room Number: 
+---
+Name: AQIB ALI
+Reg: 2024108
+Gender: M
+Age: 21
+CNIC: 40513-8182025-1
+Program: CSW
+Section: G
+Account Password: 1108
+Contact: +923100965855
+Emergency Contact: +923565032760
+Hostel: 
+Room Number: 
+---
+Name: AQIB FAISAL
+Reg: 2024109
+Gender: M
+Age: 21
+CNIC: 76668-9137198-6
+Program: CSW
+Section: G
+Account Password: 1109
+Contact: +923363293550
+Emergency Contact: +923156003186
+Hostel: 
+Room Number: 
+---
+Name: AREEJ ARIF
+Reg: 2024113
+Gender: J
+Age: 17
+CNIC: 74487-1905270-9
+Program: CSW
+Section: G
+Account Password: 1113
+Contact: +923388124551
+Emergency Contact: +923457529109
+Hostel: 
+Room Number: 
+---
+Name: SYED HAMZA SAMEE
+Reg: 2024705
+Gender: M
+Age: 21
+CNIC: 85812-1273475-6
+Program: CSW
+Section: G
+Account Password: 1705
+Contact: +923219942622
+Emergency Contact: +923499386335
+Hostel: 
+Room Number: 
+---
+Name: ASAD KHAN
+Reg: 2024117
+Gender: M
+Age: 17
+CNIC: 13023-5619698-3
+Program: CSW
+Section: G
+Account Password: 1117
+Contact: +923620523469
+Emergency Contact: +923803330428
+Hostel: 
+Room Number: 
+---
+Name: AYESHA KHALID
+Reg: 2024127
+Gender: F
+Age: 18
+CNIC: 24151-2840887-6
+Program: CSW
+Section: G
+Account Password: 1127
+Contact: +923970943190
+Emergency Contact: +923233513881
+Hostel: 
+Room Number: 
+---
+Name: BASIL JOSEPH
+Reg: 2024138
+Gender: M
+Age: 21
+CNIC: 47762-4086599-1
+Program: CSW
+Section: G
+Account Password: 1138
+Contact: +923819538591
+Emergency Contact: +923742208247
+Hostel: 
+Room Number: 
+---
+Name: HAAD MAJEED CHAUDHARY
+Reg: 2024188
+Gender: M
+Age: 22
+CNIC: 82767-1757570-4
+Program: CSW
+Section: G
+Account Password: 1188
+Contact: +923592654106
+Emergency Contact: +923851349343
+Hostel: 
+Room Number: 
+---
+Name: HAMZA ALI KHAN
+Reg: 2024205
+Gender: M
+Age: 17
+CNIC: 51636-9986451-5
+Program: CSW
+Section: G
+Account Password: 1205
+Contact: +923328980406
+Emergency Contact: +923621434586
+Hostel: 
+Room Number: 
+---
+Name: HAMZA IJAZ
+Reg: 2024207
+Gender: M
+Age: 22
+CNIC: 67309-1634360-3
+Program: CSW
+Section: G
+Account Password: 1207
+Contact: +923994473425
+Emergency Contact: +923301228507
+Hostel: 
+Room Number: 
+---
+Name: HAREEM AHMAD
+Reg: 2024217
+Gender: M
+Age: 17
+CNIC: 52192-4195225-3
+Program: CSW
+Section: G
+Account Password: 1217
+Contact: +923590658165
+Emergency Contact: +923269376825
+Hostel: 
+Room Number: 
+---
+Name: HARIS AFRIDI
+Reg: 2024218
+Gender: M
+Age: 18
+CNIC: 63280-7561069-1
+Program: CSW
+Section: G
+Account Password: 1218
+Contact: +923846213048
+Emergency Contact: +923415831219
+Hostel: 
+Room Number: 
+---
+Name: IRTZA
+Reg: 2024246
+Gender: M
+Age: 16
+CNIC: 88807-9552133-1
+Program: CSW
+Section: G
+Account Password: 1246
+Contact: +923840388711
+Emergency Contact: +923386859178
+Hostel: 
+Room Number: 
+---
+Name: MAIDA FATIMA
+Reg: 2024269
+Gender: F
+Age: 17
+CNIC: 36839-5380555-5
+Program: CSW
+Section: G
+Account Password: 1269
+Contact: +923781099948
+Emergency Contact: +923258422587
+Hostel: 
+Room Number: 
+---
+Name: MALAIKA ALI
+Reg: 2024272
+Gender: M
+Age: 22
+CNIC: 61005-6754669-9
+Program: CSW
+Section: G
+Account Password: 1272
+Contact: +923712954680
+Emergency Contact: +923108993818
+Hostel: 
+Room Number: 
+---
+Name: MIAN RABIA ILYAS
+Reg: 2024289
+Gender: M
+Age: 22
+CNIC: 70146-6047527-9
+Program: CSW
+Section: G
+Account Password: 1289
+Contact: +923538804020
+Emergency Contact: +923786766886
+Hostel: 
+Room Number: 
+---
+Name: MOHIT KUMAR
+Reg: 2024306
+Gender: M
+Age: 16
+CNIC: 87346-6793095-5
+Program: CSW
+Section: G
+Account Password: 1306
+Contact: +923950357350
+Emergency Contact: +923365405091
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AHSAN NASEER
+Reg: 2024314
+Gender: M
+Age: 17
+CNIC: 51133-2157455-9
+Program: CSW
+Section: G
+Account Password: 1314
+Contact: +923200720957
+Emergency Contact: +923235164251
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD DANYAL RAHEEL
+Reg: 2024374
+Gender: M
+Age: 20
+CNIC: 22933-6440773-3
+Program: CSW
+Section: G
+Account Password: 1374
+Contact: +923281138175
+Emergency Contact: +923110229187
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HADI
+Reg: 2024382
+Gender: M
+Age: 18
+CNIC: 49289-8181370-9
+Program: CSW
+Section: G
+Account Password: 1382
+Contact: +923794502317
+Emergency Contact: +923252111724
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HAMDOON
+Reg: 2024387
+Gender: M
+Age: 16
+CNIC: 55269-6418974-4
+Program: CSW
+Section: G
+Account Password: 1387
+Contact: +923215132539
+Emergency Contact: +923327490949
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HAMZA FAROOQ
+Reg: 2024390
+Gender: M
+Age: 18
+CNIC: 65733-8535977-2
+Program: CSW
+Section: G
+Account Password: 1390
+Contact: +923603418871
+Emergency Contact: +923882930683
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD KHUZAIM
+Reg: 2024421
+Gender: M
+Age: 16
+CNIC: 73051-4575190-1
+Program: CSW
+Section: G
+Account Password: 1421
+Contact: +923197282188
+Emergency Contact: +923709539970
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD MUDASSAR SHAHBAZ
+Reg: 2024425
+Gender: M
+Age: 17
+CNIC: 97298-3281051-4
+Program: CSW
+Section: G
+Account Password: 1425
+Contact: +923245150683
+Emergency Contact: +923953621008
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD MUSAB
+Reg: 2024429
+Gender: M
+Age: 17
+CNIC: 59441-4780344-3
+Program: CSW
+Section: G
+Account Password: 1429
+Contact: +923906839961
+Emergency Contact: +923949676003
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD RAYYAN BUTT
+Reg: 2024439
+Gender: M
+Age: 19
+CNIC: 64174-5607587-7
+Program: CSW
+Section: G
+Account Password: 1439
+Contact: +923296476198
+Emergency Contact: +923410507934
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SAAD MAHMOOD
+Reg: 2024448
+Gender: M
+Age: 19
+CNIC: 33270-9540979-3
+Program: CSW
+Section: G
+Account Password: 1448
+Contact: +923272317702
+Emergency Contact: +923952854247
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ZEESHAN NASIM
+Reg: 2024495
+Gender: M
+Age: 21
+CNIC: 73887-1108165-0
+Program: CSW
+Section: G
+Account Password: 1495
+Contact: +923619821639
+Emergency Contact: +923589744444
+Hostel: 
+Room Number: 
+---
+Name: NABIHA NASIR
+Reg: 2024514
+Gender: M
+Age: 22
+CNIC: 95246-8952996-8
+Program: CSW
+Section: G
+Account Password: 1514
+Contact: +923917286055
+Emergency Contact: +923281925785
+Hostel: 
+Room Number: 
+---
+Name: NAIK ALAM
+Reg: 2024515
+Gender: M
+Age: 16
+CNIC: 31136-6994525-9
+Program: CSW
+Section: G
+Account Password: 1515
+Contact: +923895390766
+Emergency Contact: +923803569876
+Hostel: 
+Room Number: 
+---
+Name: SEHRISH NOOR
+Reg: 2024569
+Gender: F
+Age: 17
+CNIC: 75664-8746484-2
+Program: CSW
+Section: G
+Account Password: 1569
+Contact: +923343697599
+Emergency Contact: +923924421096
+Hostel: 
+Room Number: 
+---
+Name: SHAHAN ALI
+Reg: 2024572
+Gender: M
+Age: 18
+CNIC: 52845-4196185-2
+Program: CSW
+Section: G
+Account Password: 1572
+Contact: +923817461699
+Emergency Contact: +923449108561
+Hostel: 
+Room Number: 
+---
+Name: SHAHMEER ABDULLAH
+Reg: 2024576
+Gender: M
+Age: 18
+CNIC: 12468-6703600-1
+Program: CSW
+Section: G
+Account Password: 1576
+Contact: +923849238109
+Emergency Contact: +923545352997
+Hostel: 
+Room Number: 
+---
+Name: SHEIKH NABEEL
+Reg: 2024588
+Gender: M
+Age: 18
+CNIC: 84360-3252423-7
+Program: CSW
+Section: G
+Account Password: 1588
+Contact: +923237075856
+Emergency Contact: +923224061407
+Hostel: 
+Room Number: 
+---
+Name: SHOAIB HUSSAIN IQBAL
+Reg: 2024591
+Gender: M
+Age: 20
+CNIC: 56257-6353851-0
+Program: CSW
+Section: G
+Account Password: 1591
+Contact: +923140557839
+Emergency Contact: +923472803529
+Hostel: 
+Room Number: 
+---
+Name: SYED MOIN UD DIN SHAH GILLANI
+Reg: 2024612
+Gender: M
+Age: 17
+CNIC: 52337-9336289-2
+Program: CSW
+Section: G
+Account Password: 1612
+Contact: +923634386089
+Emergency Contact: +923215187904
+Hostel: 
+Room Number: 
+---
+Name: SYED MUHAMMAD DANIYAL ALI
+Reg: 2024618
+Gender: M
+Age: 16
+CNIC: 88267-3500709-7
+Program: CSW
+Section: G
+Account Password: 1618
+Contact: +923467593787
+Emergency Contact: +923964293105
+Hostel: 
+Room Number: 
+---
+Name: TOOBA HUSSAIN
+Reg: 2024639
+Gender: F
+Age: 22
+CNIC: 57400-6247041-0
+Program: CSW
+Section: G
+Account Password: 1639
+Contact: +923205210909
+Emergency Contact: +923722297533
+Hostel: 
+Room Number: 
+---
+Name: UME HANI TUFAIL
+Reg: 2024646
+Gender: M
+Age: 20
+CNIC: 75700-3046769-1
+Program: CSW
+Section: G
+Account Password: 1646
+Contact: +923947759829
+Emergency Contact: +923828578262
+Hostel: 
+Room Number: 
+---
+Name: UNNAS SOHAIL
+Reg: 2024648
+Gender: M
+Age: 20
+CNIC: 61665-6237927-9
+Program: CSW
+Section: G
+Account Password: 1648
+Contact: +923213911598
+Emergency Contact: +923940280468
+Hostel: 
+Room Number: 
+---
+Name: USMAN MUSAWAR
+Reg: 2024655
+Gender: M
+Age: 20
+CNIC: 94089-2943774-0
+Program: CSW
+Section: G
+Account Password: 1655
+Contact: +923120862045
+Emergency Contact: +923503614327
+Hostel: 
+Room Number: 
+---
+Name: YAHYA KHALID
+Reg: 2024664
+Gender: M
+Age: 18
+CNIC: 78619-2737746-1
+Program: CSW
+Section: G
+Account Password: 1664
+Contact: +923435912748
+Emergency Contact: +923875881733
+Hostel: 
+Room Number: 
+---
+Name: ZUHAIB AKHTAR
+Reg: 2024691
+Gender: M
+Age: 17
+CNIC: 82894-3992975-1
+Program: CSW
+Section: G
+Account Password: 1691
+Contact: +923136581505
+Emergency Contact: +923487568562
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ANAS SHER BHATTI
+Reg: 2024694
+Gender: M
+Age: 20
+CNIC: 97505-6060595-8
+Program: CSW
+Section: G
+Account Password: 1694
+Contact: +923135111812
+Emergency Contact: +923653063937
+Hostel: 
+Room Number: 
+---
+Name: AAFEEN SHAKEEL GILANI
+Reg: 2024001
+Gender: M
+Age: 18
+CNIC: 72692-5651045-2
+Program: BCS
+Section: H
+Account Password: 1001
+Contact: +923136045333
+Emergency Contact: +923133236803
+Hostel: 
+Room Number: 
+---
+Name: ABBAS ALAMGIR
+Reg: 2024004
+Gender: M
+Age: 17
+CNIC: 23581-3294686-7
+Program: BCS
+Section: H
+Account Password: 1004
+Contact: +923251788788
+Emergency Contact: +923982265762
+Hostel: 
+Room Number: 
+---
+Name: ABDUL RAUF
+Reg: 2024020
+Gender: M
+Age: 22
+CNIC: 18894-9800963-8
+Program: BCS
+Section: H
+Account Password: 1020
+Contact: +923271428576
+Emergency Contact: +923499923132
+Hostel: 
+Room Number: 
+---
+Name: ABDUL REHMAN
+Reg: 2024025
+Gender: M
+Age: 20
+CNIC: 78826-7623322-8
+Program: BCS
+Section: H
+Account Password: 1025
+Contact: +923807129948
+Emergency Contact: +923868854142
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH
+Reg: 2024033
+Gender: M
+Age: 16
+CNIC: 29479-5932907-8
+Program: BCS
+Section: H
+Account Password: 1033
+Contact: +923833197883
+Emergency Contact: +923579985886
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH FAWAD KHAN
+Reg: 2024038
+Gender: M
+Age: 18
+CNIC: 61699-2528250-3
+Program: BCS
+Section: H
+Account Password: 1038
+Contact: +923131371945
+Emergency Contact: +923279375063
+Hostel: 
+Room Number: 
+---
+Name: AHMED ABDUL REHMAN KHAN
+Reg: 2024066
+Gender: M
+Age: 21
+CNIC: 25193-5804497-6
+Program: BCS
+Section: H
+Account Password: 1066
+Contact: +923440943308
+Emergency Contact: +923255049965
+Hostel: 
+Room Number: 
+---
+Name: AISHA NOOR
+Reg: 2024075
+Gender: F
+Age: 17
+CNIC: 62038-5209734-7
+Program: BCS
+Section: H
+Account Password: 1075
+Contact: +923684310793
+Emergency Contact: +923295688363
+Hostel: 
+Room Number: 
+---
+Name: AJWA AAMIR
+Reg: 2024080
+Gender: M
+Age: 16
+CNIC: 20896-2656316-8
+Program: BCS
+Section: H
+Account Password: 1080
+Contact: +923904287270
+Emergency Contact: +923301323779
+Hostel: 
+Room Number: 
+---
+Name: ANOUSHA RAHIM
+Reg: 2024106
+Gender: M
+Age: 21
+CNIC: 65581-5645184-8
+Program: BCS
+Section: H
+Account Password: 1106
+Contact: +923168504971
+Emergency Contact: +923843006810
+Hostel: 
+Room Number: 
+---
+Name: ASAAD ARFAN MIANA
+Reg: 2024115
+Gender: M
+Age: 19
+CNIC: 88669-1034472-7
+Program: BCS
+Section: H
+Account Password: 1115
+Contact: +923355825269
+Emergency Contact: +923431075286
+Hostel: 
+Room Number: 
+---
+Name: DEEPAK KUMAR
+Reg: 2024149
+Gender: M
+Age: 22
+CNIC: 28936-6158089-7
+Program: BCS
+Section: H
+Account Password: 1149
+Contact: +923439673347
+Emergency Contact: +923526412123
+Hostel: 
+Room Number: 
+---
+Name: FASEEH AHMED ANSARI
+Reg: 2024172
+Gender: M
+Age: 17
+CNIC: 73581-3263237-6
+Program: BCS
+Section: H
+Account Password: 1172
+Contact: +923568074646
+Emergency Contact: +923173856769
+Hostel: 
+Room Number: 
+---
+Name: HAFIZ WAQAR AHMAD
+Reg: 2024191
+Gender: M
+Age: 22
+CNIC: 25082-4762029-6
+Program: BCS
+Section: H
+Account Password: 1191
+Contact: +923727772429
+Emergency Contact: +923286438113
+Hostel: 
+Room Number: 
+---
+Name: HAMNA QAMAR
+Reg: 2024198
+Gender: F
+Age: 20
+CNIC: 40021-5081275-0
+Program: BCS
+Section: H
+Account Password: 1198
+Contact: +923648106040
+Emergency Contact: +923473040112
+Hostel: 
+Room Number: 
+---
+Name: HAMZA ALI
+Reg: 2024203
+Gender: M
+Age: 19
+CNIC: 48217-9767861-2
+Program: BCS
+Section: H
+Account Password: 1203
+Contact: +923686617351
+Emergency Contact: +923532540024
+Hostel: 
+Room Number: 
+---
+Name: HAMZA ALI
+Reg: 2024204
+Gender: M
+Age: 20
+CNIC: 59161-2939059-7
+Program: BCS
+Section: H
+Account Password: 1204
+Contact: +923167818062
+Emergency Contact: +923824901143
+Hostel: 
+Room Number: 
+---
+Name: HAMZA KHAN
+Reg: 2024208
+Gender: M
+Age: 16
+CNIC: 93350-2507673-1
+Program: BCS
+Section: H
+Account Password: 1208
+Contact: +923861273411
+Emergency Contact: +923764809517
+Hostel: 
+Room Number: 
+---
+Name: HAMZA MUBASHER
+Reg: 2024209
+Gender: M
+Age: 17
+CNIC: 35652-9447916-5
+Program: BCS
+Section: H
+Account Password: 1209
+Contact: +923681719630
+Emergency Contact: +923722014330
+Hostel: 
+Room Number: 
+---
+Name: HASNAT NAWAZ
+Reg: 2024223
+Gender: M
+Age: 17
+CNIC: 80136-2127230-3
+Program: BCS
+Section: H
+Account Password: 1223
+Contact: +923686724773
+Emergency Contact: +923446151267
+Hostel: 
+Room Number: 
+---
+Name: HOORIA MUBASHAR DAR
+Reg: 2024232
+Gender: F
+Age: 19
+CNIC: 34064-6328363-1
+Program: BCS
+Section: H
+Account Password: 1232
+Contact: +923377974870
+Emergency Contact: +923145773694
+Hostel: 
+Room Number: 
+---
+Name: HUZAIFA KHAN
+Reg: 2024234
+Gender: M
+Age: 19
+CNIC: 22201-1620687-5
+Program: BCS
+Section: H
+Account Password: 1234
+Contact: +923925658381
+Emergency Contact: +923924776435
+Hostel: 
+Room Number: 
+---
+Name: HUZAIFA SALEH
+Reg: 2024235
+Gender: M
+Age: 20
+CNIC: 96200-5035144-2
+Program: BCS
+Section: H
+Account Password: 1235
+Contact: +923141726699
+Emergency Contact: +923254931002
+Hostel: 
+Room Number: 
+---
+Name: JAVERIA ZAHID
+Reg: 2024250
+Gender: M
+Age: 19
+CNIC: 34314-8546669-6
+Program: BCS
+Section: H
+Account Password: 1250
+Contact: +923613207952
+Emergency Contact: +923677353774
+Hostel: 
+Room Number: 
+---
+Name: JAZIB SHAHID
+Reg: 2024251
+Gender: M
+Age: 17
+CNIC: 61619-4074076-0
+Program: BCS
+Section: H
+Account Password: 1251
+Contact: +923444362207
+Emergency Contact: +923744373123
+Hostel: 
+Room Number: 
+---
+Name: LAIBA BATOOL
+Reg: 2024261
+Gender: F
+Age: 16
+CNIC: 24199-2432971-4
+Program: BCS
+Section: H
+Account Password: 1261
+Contact: +923556316940
+Emergency Contact: +923166409315
+Hostel: 
+Room Number: 
+---
+Name: MARYAM KHAN
+Reg: 2024281
+Gender: F
+Age: 20
+CNIC: 15147-2765828-4
+Program: BCS
+Section: H
+Account Password: 1281
+Contact: +923823644659
+Emergency Contact: +923930065121
+Hostel: 
+Room Number: 
+---
+Name: MISBAH ULLAH
+Reg: 2024297
+Gender: M
+Age: 17
+CNIC: 60873-6109912-6
+Program: BCS
+Section: H
+Account Password: 1297
+Contact: +923788958722
+Emergency Contact: +923547914896
+Hostel: 
+Room Number: 
+---
+Name: MOHAMMAD HASSAAN
+Reg: 2024302
+Gender: M
+Age: 22
+CNIC: 87885-8233471-3
+Program: BCS
+Section: H
+Account Password: 1302
+Contact: +923290475226
+Emergency Contact: +923256366255
+Hostel: 
+Room Number: 
+---
+Name: MOHAMMAD KHAN GHAFOOR
+Reg: 2024303
+Gender: M
+Age: 18
+CNIC: 49997-9495853-4
+Program: BCS
+Section: H
+Account Password: 1303
+Contact: +923821680222
+Emergency Contact: +923857682621
+Hostel: 
+Room Number: 
+---
+Name: MOIZ ALI
+Reg: 2024308
+Gender: M
+Age: 20
+CNIC: 27750-8968059-7
+Program: BCS
+Section: H
+Account Password: 1308
+Contact: +923722794727
+Emergency Contact: +923123515744
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AHMAD
+Reg: 2024335
+Gender: M
+Age: 22
+CNIC: 89434-9581877-6
+Program: BCS
+Section: H
+Account Password: 1335
+Contact: +923522818867
+Emergency Contact: +923696703309
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ASFAR JAVED
+Reg: 2024356
+Gender: M
+Age: 19
+CNIC: 54682-1555229-1
+Program: BCS
+Section: H
+Account Password: 1356
+Contact: +923915790041
+Emergency Contact: +923698790706
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD BILAL SHAIKH
+Reg: 2023802
+Gender: M
+Age: 20
+CNIC: 77125-2657108-3
+Program: BCS
+Section: H
+Account Password: 1802
+Contact: +923165262351
+Emergency Contact: +923922685318
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD DANISH
+Reg: 2024372
+Gender: M
+Age: 21
+CNIC: 13190-6036939-5
+Program: BCS
+Section: H
+Account Password: 1372
+Contact: +923882706207
+Emergency Contact: +923664306371
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HAIDER ALI
+Reg: 2024385
+Gender: M
+Age: 16
+CNIC: 14023-1780303-1
+Program: BCS
+Section: H
+Account Password: 1385
+Contact: +923532363004
+Emergency Contact: +923489171880
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HANZLA TARIQ
+Reg: 2024394
+Gender: M
+Age: 21
+CNIC: 81308-6529131-3
+Program: BCS
+Section: H
+Account Password: 1394
+Contact: +923205156881
+Emergency Contact: +923714035878
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HASSAN ASIF
+Reg: 2024399
+Gender: M
+Age: 18
+CNIC: 67837-2505914-4
+Program: BCS
+Section: H
+Account Password: 1399
+Contact: +923345105808
+Emergency Contact: +923542896587
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HUSNAIN
+Reg: 2024404
+Gender: M
+Age: 18
+CNIC: 65340-9455053-7
+Program: BCS
+Section: H
+Account Password: 1404
+Contact: +923832802928
+Emergency Contact: +923825813962
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD QASIM ASGHAR
+Reg: 2024437
+Gender: M
+Age: 20
+CNIC: 35997-8742424-0
+Program: BCS
+Section: H
+Account Password: 1437
+Contact: +923454980059
+Emergency Contact: +923978449499
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SAAD IJAZ
+Reg: 2024447
+Gender: M
+Age: 19
+CNIC: 39736-5904056-9
+Program: BCS
+Section: H
+Account Password: 1447
+Contact: +923696911538
+Emergency Contact: +923579860085
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SALMAN JAVED
+Reg: 2024454
+Gender: M
+Age: 21
+CNIC: 19447-7989171-9
+Program: BCS
+Section: H
+Account Password: 1454
+Contact: +923364074337
+Emergency Contact: +923273224879
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD YOUSAF REHMAN
+Reg: 2024490
+Gender: M
+Age: 22
+CNIC: 23857-1013805-6
+Program: BCS
+Section: H
+Account Password: 1490
+Contact: +923221554736
+Emergency Contact: +923555958776
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ZAID
+Reg: 2024491
+Gender: M
+Age: 16
+CNIC: 62507-5279630-9
+Program: BCS
+Section: H
+Account Password: 1491
+Contact: +923231274768
+Emergency Contact: +923822938577
+Hostel: 
+Room Number: 
+---
+Name: MUNTAHA AHMED ANSARI
+Reg: 2024502
+Gender: M
+Age: 18
+CNIC: 49523-3370232-6
+Program: BCS
+Section: H
+Account Password: 1502
+Contact: +923334354672
+Emergency Contact: +923452010451
+Hostel: 
+Room Number: 
+---
+Name: RAJA HAMZA SIKANDAR
+Reg: 2024532
+Gender: M
+Age: 17
+CNIC: 27521-7167103-5
+Program: BCS
+Section: H
+Account Password: 1532
+Contact: +923953368514
+Emergency Contact: +923299950023
+Hostel: 
+Room Number: 
+---
+Name: RAYYAN ARIF
+Reg: 2024536
+Gender: M
+Age: 21
+CNIC: 23352-5113859-0
+Program: BCS
+Section: H
+Account Password: 1536
+Contact: +923596407007
+Emergency Contact: +923913804179
+Hostel: 
+Room Number: 
+---
+Name: SHEHERYAR KHAN
+Reg: 2024586
+Gender: M
+Age: 16
+CNIC: 99267-2554133-9
+Program: BCS
+Section: H
+Account Password: 1586
+Contact: +923738991089
+Emergency Contact: +923823183856
+Hostel: 
+Room Number: 
+---
+Name: SHIHAM RAZA HUSSAMI
+Reg: 2024590
+Gender: M
+Age: 22
+CNIC: 37395-9892355-7
+Program: BCS
+Section: H
+Account Password: 1590
+Contact: +923895405067
+Emergency Contact: +923698363501
+Hostel: 
+Room Number: 
+---
+Name: SOHAIL SHAHZAD
+Reg: 2024597
+Gender: M
+Age: 22
+CNIC: 45809-4091981-6
+Program: BCS
+Section: H
+Account Password: 1597
+Contact: +923367787956
+Emergency Contact: +923311501080
+Hostel: 
+Room Number: 
+---
+Name: SYED AHSAN ALI SHAH
+Reg: 2024604
+Gender: M
+Age: 17
+CNIC: 26942-1145773-9
+Program: BCS
+Section: H
+Account Password: 1604
+Contact: +923837223958
+Emergency Contact: +923737771425
+Hostel: 
+Room Number: 
+---
+Name: SYED RAYYAN HASAN
+Reg: 2024621
+Gender: M
+Age: 22
+CNIC: 40082-1910841-0
+Program: BCS
+Section: H
+Account Password: 1621
+Contact: +923279169716
+Emergency Contact: +923286334782
+Hostel: 
+Room Number: 
+---
+Name: SYEDA FATIMA TU ZAHRA
+Reg: 2024625
+Gender: F
+Age: 16
+CNIC: 46361-8068070-4
+Program: BCS
+Section: H
+Account Password: 1625
+Contact: +923597760401
+Emergency Contact: +923619272032
+Hostel: 
+Room Number: 
+---
+Name: UMAIR ANWAR
+Reg: 2024641
+Gender: M
+Age: 17
+CNIC: 77442-3114406-4
+Program: BCS
+Section: H
+Account Password: 1641
+Contact: +923303514329
+Emergency Contact: +923853153140
+Hostel: 
+Room Number: 
+---
+Name: WAJEHA UMER
+Reg: 2024659
+Gender: M
+Age: 22
+CNIC: 57929-7616981-6
+Program: BCS
+Section: H
+Account Password: 1659
+Contact: +923201981759
+Emergency Contact: +923202382310
+Hostel: 
+Room Number: 
+---
+Name: ZAIN UL ABIDEEN TUFAIL
+Reg: 2024671
+Gender: M
+Age: 17
+CNIC: 13185-4962806-2
+Program: BCS
+Section: H
+Account Password: 1671
+Contact: +923472277415
+Emergency Contact: +923782862803
+Hostel: 
+Room Number: 
+---
+Name: ZEESHAN ALI
+Reg: 2024686
+Gender: M
+Age: 17
+CNIC: 17697-2354093-1
+Program: BCS
+Section: H
+Account Password: 1686
+Contact: +923540975326
+Emergency Contact: +923900013099
+Hostel: 
+Room Number: 
+---
+Name: ABDUL SAMAD
+Reg: 2024029
+Gender: M
+Age: 21
+CNIC: 50770-5972227-3
+Program: MGS
+Section: H
+Account Password: 1029
+Contact: +923543440454
+Emergency Contact: +923221084247
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH UZAIR
+Reg: 2024046
+Gender: M
+Age: 22
+CNIC: 83840-2357132-5
+Program: MGS
+Section: H
+Account Password: 1046
+Contact: +923214991891
+Emergency Contact: +923580402568
+Hostel: 
+Room Number: 
+---
+Name: ADEENA NAVEED
+Reg: 2024056
+Gender: M
+Age: 20
+CNIC: 12578-1319435-0
+Program: MGS
+Section: H
+Account Password: 1056
+Contact: +923116666526
+Emergency Contact: +923381315661
+Hostel: 
+Room Number: 
+---
+Name: AFRA MASOOD KHAN
+Reg: 2024059
+Gender: M
+Age: 19
+CNIC: 53975-6829446-0
+Program: MGS
+Section: H
+Account Password: 1059
+Contact: +923431990514
+Emergency Contact: +923527523010
+Hostel: 
+Room Number: 
+---
+Name: AHMAD MUMTAZ ARAIN
+Reg: 2024064
+Gender: M
+Age: 22
+CNIC: 68466-1282605-0
+Program: MGS
+Section: H
+Account Password: 1064
+Contact: +923597379489
+Emergency Contact: +923843300646
+Hostel: 
+Room Number: 
+---
+Name: AHMAD REHMAN
+Reg: 2024065
+Gender: M
+Age: 20
+CNIC: 92205-1929420-4
+Program: MGS
+Section: H
+Account Password: 1065
+Contact: +923955980659
+Emergency Contact: +923119245363
+Hostel: 
+Room Number: 
+---
+Name: ALI HASHIR
+Reg: 2024087
+Gender: M
+Age: 20
+CNIC: 81821-3657840-8
+Program: MGS
+Section: H
+Account Password: 1087
+Contact: +923398885837
+Emergency Contact: +923332844066
+Hostel: 
+Room Number: 
+---
+Name: ALI QASIM
+Reg: 2024091
+Gender: M
+Age: 17
+CNIC: 87432-7372043-0
+Program: MGS
+Section: H
+Account Password: 1091
+Contact: +923786791741
+Emergency Contact: +923624565306
+Hostel: 
+Room Number: 
+---
+Name: ALISHBA HAIDER
+Reg: 2024093
+Gender: M
+Age: 22
+CNIC: 18850-5901593-4
+Program: MGS
+Section: H
+Account Password: 1093
+Contact: +923889778781
+Emergency Contact: +923598749118
+Hostel: 
+Room Number: 
+---
+Name: AMAL WASIM
+Reg: 2024097
+Gender: M
+Age: 22
+CNIC: 74013-6536262-5
+Program: MGS
+Section: H
+Account Password: 1097
+Contact: +923378615858
+Emergency Contact: +923242972976
+Hostel: 
+Room Number: 
+---
+Name: AMNA NADEEM KHAN
+Reg: 2024102
+Gender: F
+Age: 16
+CNIC: 48793-8357941-5
+Program: MGS
+Section: H
+Account Password: 1102
+Contact: +923191652943
+Emergency Contact: +923273027996
+Hostel: 
+Room Number: 
+---
+Name: AYYAN BASHIR CHEEMA
+Reg: 2024131
+Gender: M
+Age: 20
+CNIC: 33365-1494312-3
+Program: MGS
+Section: H
+Account Password: 1131
+Contact: +923250229387
+Emergency Contact: +923694963129
+Hostel: 
+Room Number: 
+---
+Name: AYZA YOUSAFZAI
+Reg: 2024132
+Gender: M
+Age: 22
+CNIC: 60558-1593160-4
+Program: MGS
+Section: H
+Account Password: 1132
+Contact: +923418440473
+Emergency Contact: +923566322021
+Hostel: 
+Room Number: 
+---
+Name: FAHIM UD DIN
+Reg: 2024164
+Gender: M
+Age: 21
+CNIC: 53518-1013244-0
+Program: MGS
+Section: H
+Account Password: 1164
+Contact: +923246887819
+Emergency Contact: +923569666858
+Hostel: 
+Room Number: 
+---
+Name: FARAH TASHRIF
+Reg: 2024169
+Gender: M
+Age: 19
+CNIC: 77749-9540715-0
+Program: MGS
+Section: H
+Account Password: 1169
+Contact: +923331468214
+Emergency Contact: +923399680161
+Hostel: 
+Room Number: 
+---
+Name: HAIDER SHAH
+Reg: 2024193
+Gender: M
+Age: 21
+CNIC: 40176-7713195-4
+Program: MGS
+Section: H
+Account Password: 1193
+Contact: +923218932708
+Emergency Contact: +923151201478
+Hostel: 
+Room Number: 
+---
+Name: HAMMAD KHAN
+Reg: 2024197
+Gender: M
+Age: 18
+CNIC: 65447-3960055-7
+Program: MGS
+Section: H
+Account Password: 1197
+Contact: +923997286626
+Emergency Contact: +923538633113
+Hostel: 
+Room Number: 
+---
+Name: HANNAH SARAH
+Reg: 2024216
+Gender: F
+Age: 18
+CNIC: 25344-7624312-0
+Program: MGS
+Section: H
+Account Password: 1216
+Contact: +923840353158
+Emergency Contact: +923950655050
+Hostel: 
+Room Number: 
+---
+Name: IBRAHIM ELAHI
+Reg: 2024239
+Gender: M
+Age: 16
+CNIC: 23380-1187398-3
+Program: MGS
+Section: H
+Account Password: 1239
+Contact: +923602678229
+Emergency Contact: +923604639191
+Hostel: 
+Room Number: 
+---
+Name: IHTISHAM KHAN
+Reg: 2024242
+Gender: M
+Age: 22
+CNIC: 76334-1295997-1
+Program: MGS
+Section: H
+Account Password: 1242
+Contact: +923380993657
+Emergency Contact: +923176387225
+Hostel: 
+Room Number: 
+---
+Name: MARYUM NADEEM
+Reg: 2024285
+Gender: M
+Age: 22
+CNIC: 50219-7659540-4
+Program: MGS
+Section: H
+Account Password: 1285
+Contact: +923554790752
+Emergency Contact: +923912301494
+Hostel: 
+Room Number: 
+---
+Name: Muhammad Saad
+Reg: 2024724
+Gender: M
+Age: 18
+CNIC: 63739-7455514-5
+Program: MGS
+Section: H
+Account Password: 1724
+Contact: +923660265838
+Emergency Contact: +923981526324
+Hostel: 
+Room Number: 
+---
+Name: MINAHIL JAWED QAZI
+Reg: 2024291
+Gender: M
+Age: 18
+CNIC: 74026-9056075-4
+Program: MGS
+Section: H
+Account Password: 1291
+Contact: +923176114271
+Emergency Contact: +923292294252
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ARSLAN JAVED
+Reg: 2024354
+Gender: M
+Age: 22
+CNIC: 24533-9040121-5
+Program: MGS
+Section: H
+Account Password: 1354
+Contact: +923403833130
+Emergency Contact: +923686365728
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AYYAN ALAM
+Reg: 2024362
+Gender: M
+Age: 17
+CNIC: 71722-1141740-9
+Program: MGS
+Section: H
+Account Password: 1362
+Contact: +923220479283
+Emergency Contact: +923867382103
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD DAWOOD SHAHID
+Reg: 2024375
+Gender: M
+Age: 21
+CNIC: 33006-8814343-0
+Program: MGS
+Section: H
+Account Password: 1375
+Contact: +923233598976
+Emergency Contact: +923480274300
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD IBRAHIM HASSAN
+Reg: 2024410
+Gender: M
+Age: 21
+CNIC: 20161-1556240-8
+Program: MGS
+Section: H
+Account Password: 1410
+Contact: +923742887809
+Emergency Contact: +923911909602
+Hostel: 
+Room Number: 
+---
+Name: Noor UL AIN
+Reg: 2024713
+Gender: F
+Age: 17
+CNIC: 28448-6278968-3
+Program: MGS
+Section: H
+Account Password: 1713
+Contact: +923441048162
+Emergency Contact: +923842612461
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD IBRAHIM KHAN
+Reg: 2024411
+Gender: M
+Age: 18
+CNIC: 43457-7045100-6
+Program: MGS
+Section: H
+Account Password: 1411
+Contact: +923975628806
+Emergency Contact: +923714051146
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD JUNAID
+Reg: 2024418
+Gender: M
+Age: 19
+CNIC: 15454-5652862-6
+Program: MGS
+Section: H
+Account Password: 1418
+Contact: +923873133664
+Emergency Contact: +923955498490
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD OWAIS KHAN
+Reg: 2024436
+Gender: M
+Age: 16
+CNIC: 13752-3558574-7
+Program: MGS
+Section: H
+Account Password: 1436
+Contact: +923386174979
+Emergency Contact: +923420520277
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SAAD ALI
+Reg: 2024446
+Gender: M
+Age: 19
+CNIC: 23245-9904852-0
+Program: MGS
+Section: H
+Account Password: 1446
+Contact: +923345651714
+Emergency Contact: +923313941308
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SHEHERYAR KHAN
+Reg: 2024466
+Gender: M
+Age: 19
+CNIC: 55329-7369068-7
+Program: MGS
+Section: H
+Account Password: 1466
+Contact: +923973235645
+Emergency Contact: +923826419704
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD USAMA
+Reg: 2024485
+Gender: M
+Age: 17
+CNIC: 52793-5095415-0
+Program: MGS
+Section: H
+Account Password: 1485
+Contact: +923395281352
+Emergency Contact: +923720049330
+Hostel: 
+Room Number: 
+---
+Name: MUSA AZAM
+Reg: 2024505
+Gender: M
+Age: 21
+CNIC: 27368-3375654-3
+Program: MGS
+Section: H
+Account Password: 1505
+Contact: +923501386306
+Emergency Contact: +923671177451
+Hostel: 
+Room Number: 
+---
+Name: SAAD ARSAL SALEEMI
+Reg: 2024544
+Gender: M
+Age: 19
+CNIC: 50454-1779851-4
+Program: MGS
+Section: H
+Account Password: 1544
+Contact: +923630296353
+Emergency Contact: +923519719017
+Hostel: 
+Room Number: 
+---
+Name: Muhammad Hanzla Saif
+Reg: 2024718
+Gender: M
+Age: 21
+CNIC: 61178-5840183-2
+Program: MGS
+Section: H
+Account Password: 1718
+Contact: +923151993506
+Emergency Contact: +923308414913
+Hostel: 
+Room Number: 
+---
+Name: SANWEED EJAZ
+Reg: 2024563
+Gender: M
+Age: 22
+CNIC: 46248-7151029-0
+Program: MGS
+Section: H
+Account Password: 1563
+Contact: +923354497369
+Emergency Contact: +923529258313
+Hostel: 
+Room Number: 
+---
+Name: SARA KHAN
+Reg: 2024565
+Gender: F
+Age: 21
+CNIC: 13928-4577178-4
+Program: MGS
+Section: H
+Account Password: 1565
+Contact: +923877723005
+Emergency Contact: +923128938376
+Hostel: 
+Room Number: 
+---
+Name: SHAHZAIB MUBEEN
+Reg: 2024578
+Gender: M
+Age: 17
+CNIC: 58192-5771288-5
+Program: MGS
+Section: H
+Account Password: 1578
+Contact: +923389203273
+Emergency Contact: +923863604616
+Hostel: 
+Room Number: 
+---
+Name: SIKANDAR MUNIR
+Reg: 2024593
+Gender: M
+Age: 17
+CNIC: 63807-4214457-3
+Program: MGS
+Section: H
+Account Password: 1593
+Contact: +923441310913
+Emergency Contact: +923328571055
+Hostel: 
+Room Number: 
+---
+Name: TAIMOOR SALEEM KHAN LODHI
+Reg: 2024632
+Gender: M
+Age: 20
+CNIC: 47120-2503697-4
+Program: MGS
+Section: H
+Account Password: 1632
+Contact: +923417303270
+Emergency Contact: +923869512069
+Hostel: 
+Room Number: 
+---
+Name: WALEED AHMED
+Reg: 2024660
+Gender: M
+Age: 18
+CNIC: 40542-6009679-3
+Program: MGS
+Section: H
+Account Password: 1660
+Contact: +923395119465
+Emergency Contact: +923988835062
+Hostel: 
+Room Number: 
+---
+Name: ZAINAB NAVEED
+Reg: 2024676
+Gender: F
+Age: 21
+CNIC: 81601-2417478-0
+Program: MGS
+Section: H
+Account Password: 1676
+Contact: +923333903072
+Emergency Contact: +923688727438
+Hostel: 
+Room Number: 
+---
+Name: ZAVIBA ADEEL
+Reg: 2024684
+Gender: M
+Age: 18
+CNIC: 62302-4744591-3
+Program: MGS
+Section: H
+Account Password: 1684
+Contact: +923399260959
+Emergency Contact: +923381325751
+Hostel: 
+Room Number: 
+---
+Name: ZOYA JADOON
+Reg: 2024690
+Gender: F
+Age: 17
+CNIC: 60695-9631323-3
+Program: MGS
+Section: H
+Account Password: 1690
+Contact: +923932092886
+Emergency Contact: +923901724397
+Hostel: 
+Room Number: 
+---
+Name: SAHIL KHAN
+Reg: 2024695
+Gender: M
+Age: 20
+CNIC: 13053-6131570-6
+Program: MGS
+Section: H
+Account Password: 1695
+Contact: +923841861048
+Emergency Contact: +923331605955
+Hostel: 
+Room Number: 
+---
+Name: Syeda Urshia Baharat Aziz
+Reg: 2024714
+Gender: F
+Age: 16
+CNIC: 29737-5804173-0
+Program: MGS
+Section: H
+Account Password: 1714
+Contact: +923514188378
+Emergency Contact: +923299642561
+Hostel: 
+Room Number: 
+---
+Name: Sikander Ali
+Reg: 2024720
+Gender: M
+Age: 16
+CNIC: 48311-8146039-2
+Program: MGS
+Section: H
+Account Password: 1720
+Contact: +923427717291
+Emergency Contact: +923708322095
+Hostel: 
+Room Number: 
+---
+Name: DANIYAL KHAN
+Reg: 2024696
+Gender: M
+Age: 17
+CNIC: 13309-3334522-7
+Program: MGS
+Section: H
+Account Password: 1696
+Contact: +923369825360
+Emergency Contact: +923451534887
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD JUNAID MALIK
+Reg: 2024697
+Gender: M
+Age: 19
+CNIC: 99593-7126068-7
+Program: MGS
+Section: H
+Account Password: 1697
+Contact: +923380643035
+Emergency Contact: +923690835109
+Hostel: 
+Room Number: 
+---
+Name: ABDUL MUQEET
+Reg: 2024016
+Gender: M
+Age: 18
+CNIC: 29044-6871780-6
+Program: BDS
+Section: I
+Account Password: 1016
+Contact: +923946569502
+Emergency Contact: +923152617897
+Hostel: 
+Room Number: 
+---
+Name: ABDUL REHMAN
+Reg: 2024022
+Gender: M
+Age: 20
+CNIC: 16674-3469450-1
+Program: BDS
+Section: I
+Account Password: 1022
+Contact: +923831560994
+Emergency Contact: +923537953068
+Hostel: 
+Room Number: 
+---
+Name: ADNAN HUNZAI
+Reg: 2024057
+Gender: M
+Age: 21
+CNIC: 28394-1768741-6
+Program: BDS
+Section: I
+Account Password: 1057
+Contact: +923752181638
+Emergency Contact: +923524800870
+Hostel: 
+Room Number: 
+---
+Name: AFNAN RAUF
+Reg: 2024058
+Gender: M
+Age: 17
+CNIC: 36849-9836392-9
+Program: BDS
+Section: I
+Account Password: 1058
+Contact: +923713670121
+Emergency Contact: +923412561627
+Hostel: 
+Room Number: 
+---
+Name: AHMER MURTAZA
+Reg: 2024070
+Gender: M
+Age: 20
+CNIC: 31017-6359970-6
+Program: BDS
+Section: I
+Account Password: 1070
+Contact: +923529033769
+Emergency Contact: +923961578449
+Hostel: 
+Room Number: 
+---
+Name: ALEENA RIZWAN
+Reg: 2024082
+Gender: F
+Age: 21
+CNIC: 57958-3292405-8
+Program: BDS
+Section: I
+Account Password: 1082
+Contact: +923534772873
+Emergency Contact: +923623201084
+Hostel: 
+Room Number: 
+---
+Name: ALI ABBAS REHMANI
+Reg: 2024083
+Gender: M
+Age: 22
+CNIC: 93804-3345944-4
+Program: BDS
+Section: I
+Account Password: 1083
+Contact: +923619051706
+Emergency Contact: +923497941063
+Hostel: 
+Room Number: 
+---
+Name: ALI TARIQ
+Reg: 2024092
+Gender: M
+Age: 17
+CNIC: 29818-3560082-5
+Program: BDS
+Section: I
+Account Password: 1092
+Contact: +923224073804
+Emergency Contact: +923572262302
+Hostel: 
+Room Number: 
+---
+Name: AREEBA REHMAN
+Reg: 2024112
+Gender: M
+Age: 21
+CNIC: 37198-7271917-1
+Program: BDS
+Section: I
+Account Password: 1112
+Contact: +923694752606
+Emergency Contact: +923120996122
+Hostel: 
+Room Number: 
+---
+Name: BASIM AMAN MALIK
+Reg: 2024139
+Gender: M
+Age: 21
+CNIC: 55976-5955014-8
+Program: BDS
+Section: I
+Account Password: 1139
+Contact: +923766522618
+Emergency Contact: +923360262348
+Hostel: 
+Room Number: 
+---
+Name: AAIMA RIZWAN
+Reg: 2024002
+Gender: M
+Age: 18
+CNIC: 10280-1368532-6
+Program: BDS
+Section: I
+Account Password: 1002
+Contact: +923471893692
+Emergency Contact: +923462898715
+Hostel: 
+Room Number: 
+---
+Name: ESHA FATIMA
+Reg: 2024159
+Gender: F
+Age: 20
+CNIC: 11739-8635166-6
+Program: BDS
+Section: I
+Account Password: 1159
+Contact: +923192160272
+Emergency Contact: +923944101110
+Hostel: 
+Room Number: 
+---
+Name: ESHMAL AYAZ
+Reg: 2024162
+Gender: M
+Age: 22
+CNIC: 63125-9524160-3
+Program: BDS
+Section: I
+Account Password: 1162
+Contact: +923708690449
+Emergency Contact: +923172063219
+Hostel: 
+Room Number: 
+---
+Name: FATIMA TABASUM
+Reg: 2024178
+Gender: F
+Age: 16
+CNIC: 84272-8235293-1
+Program: BDS
+Section: I
+Account Password: 1178
+Contact: +923999906190
+Emergency Contact: +923959856294
+Hostel: 
+Room Number: 
+---
+Name: FATIMA TUZ ZAHRA
+Reg: 2024179
+Gender: F
+Age: 17
+CNIC: 53963-5277441-5
+Program: BDS
+Section: I
+Account Password: 1179
+Contact: +923723274288
+Emergency Contact: +923652552824
+Hostel: 
+Room Number: 
+---
+Name: HALAR AHMED
+Reg: 2024194
+Gender: M
+Age: 16
+CNIC: 79310-1812186-4
+Program: BDS
+Section: I
+Account Password: 1194
+Contact: +923270513091
+Emergency Contact: +923102642821
+Hostel: 
+Room Number: 
+---
+Name: HAMNAH FAHAD
+Reg: 2024200
+Gender: F
+Age: 18
+CNIC: 60052-3712813-0
+Program: BDS
+Section: I
+Account Password: 1200
+Contact: +923639315447
+Emergency Contact: +923188984265
+Hostel: 
+Room Number: 
+---
+Name: MALIK ABDUL REHMAN
+Reg: 2024274
+Gender: M
+Age: 20
+CNIC: 60125-3798917-9
+Program: BDS
+Section: I
+Account Password: 1274
+Contact: +923890419206
+Emergency Contact: +923380848434
+Hostel: 
+Room Number: 
+---
+Name: MIAN ABDUL KABEER
+Reg: 2024288
+Gender: M
+Age: 18
+CNIC: 60916-1378825-0
+Program: BDS
+Section: I
+Account Password: 1288
+Contact: +923133143785
+Emergency Contact: +923596513504
+Hostel: 
+Room Number: 
+---
+Name: MOHAMMAD ALI
+Reg: 2024300
+Gender: M
+Age: 16
+CNIC: 85318-5875618-6
+Program: BDS
+Section: I
+Account Password: 1300
+Contact: +923299103731
+Emergency Contact: +923519305627
+Hostel: 
+Room Number: 
+---
+Name: MOMIN TAJ
+Reg: 2024309
+Gender: M
+Age: 21
+CNIC: 62974-9466716-8
+Program: BDS
+Section: I
+Account Password: 1309
+Contact: +923498986591
+Emergency Contact: +923254444837
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDULLAH
+Reg: 2024320
+Gender: M
+Age: 18
+CNIC: 16482-4214835-3
+Program: BDS
+Section: I
+Account Password: 1320
+Contact: +923809867970
+Emergency Contact: +923644496130
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AHMAD DANIAL
+Reg: 2024336
+Gender: M
+Age: 20
+CNIC: 74225-9390069-3
+Program: BDS
+Section: I
+Account Password: 1336
+Contact: +923328216655
+Emergency Contact: +923770125140
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AHMAD RASHID
+Reg: 2024337
+Gender: M
+Age: 16
+CNIC: 23870-5708700-2
+Program: BDS
+Section: I
+Account Password: 1337
+Contact: +923776446999
+Emergency Contact: +923837891942
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ARHAM ATIF
+Reg: 2024352
+Gender: M
+Age: 16
+CNIC: 34265-7801788-3
+Program: BDS
+Section: I
+Account Password: 1352
+Contact: +923348106907
+Emergency Contact: +923248182441
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD BILAL YASIN
+Reg: 2024367
+Gender: M
+Age: 22
+CNIC: 57326-6547772-3
+Program: BDS
+Section: I
+Account Password: 1367
+Contact: +923776758934
+Emergency Contact: +923485091769
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD FAHAD REHMAN
+Reg: 2024377
+Gender: M
+Age: 18
+CNIC: 25240-1937738-3
+Program: BDS
+Section: I
+Account Password: 1377
+Contact: +923543683252
+Emergency Contact: +923852635267
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HAMZAH HAMAD
+Reg: 2024393
+Gender: M
+Age: 18
+CNIC: 40193-4070723-3
+Program: BDS
+Section: I
+Account Password: 1393
+Contact: +923821251288
+Emergency Contact: +923324960262
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HUNZLA
+Reg: 2024403
+Gender: M
+Age: 20
+CNIC: 14146-5006808-0
+Program: BDS
+Section: I
+Account Password: 1403
+Contact: +923257951962
+Emergency Contact: +923168578727
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD IBRAHIM SOHAIL
+Reg: 2024412
+Gender: M
+Age: 17
+CNIC: 24562-9371920-8
+Program: BDS
+Section: I
+Account Password: 1412
+Contact: +923839807802
+Emergency Contact: +923251371544
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD JAFFER KHAN
+Reg: 2024417
+Gender: M
+Age: 17
+CNIC: 98880-7693396-8
+Program: BDS
+Section: I
+Account Password: 1417
+Contact: +923752620422
+Emergency Contact: +923799644867
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ROHAAN JAMSHAID
+Reg: 2024442
+Gender: M
+Age: 16
+CNIC: 11095-5019406-9
+Program: BDS
+Section: I
+Account Password: 1442
+Contact: +923413428837
+Emergency Contact: +923856153996
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SAIF ALI
+Reg: 2024451
+Gender: M
+Age: 18
+CNIC: 57271-1383982-8
+Program: BDS
+Section: I
+Account Password: 1451
+Contact: +923878918401
+Emergency Contact: +923365522856
+Hostel: 
+Room Number: 
+---
+Name: MUNAWWAR WAHAB
+Reg: 2024501
+Gender: M
+Age: 16
+CNIC: 19707-9025198-0
+Program: BDS
+Section: I
+Account Password: 1501
+Contact: +923822599797
+Emergency Contact: +923111999758
+Hostel: 
+Room Number: 
+---
+Name: NEESA JAWAD KHAWAJA
+Reg: 2024517
+Gender: M
+Age: 17
+CNIC: 20253-6851209-5
+Program: BDS
+Section: I
+Account Password: 1517
+Contact: +923369674709
+Emergency Contact: +923776420165
+Hostel: 
+Room Number: 
+---
+Name: SAADIA ASGHAR
+Reg: 2024550
+Gender: M
+Age: 18
+CNIC: 23242-3628719-9
+Program: BDS
+Section: I
+Account Password: 1550
+Contact: +923648526017
+Emergency Contact: +923405851675
+Hostel: 
+Room Number: 
+---
+Name: SARA FAYSAL
+Reg: 2024564
+Gender: F
+Age: 17
+CNIC: 89260-5528243-8
+Program: BDS
+Section: I
+Account Password: 1564
+Contact: +923567542673
+Emergency Contact: +923505306911
+Hostel: 
+Room Number: 
+---
+Name: SARDAR HASSAAN AHMED
+Reg: 2024566
+Gender: M
+Age: 20
+CNIC: 10877-4812596-6
+Program: BDS
+Section: I
+Account Password: 1566
+Contact: +923676093795
+Emergency Contact: +923663778645
+Hostel: 
+Room Number: 
+---
+Name: SHAJIA ALI ANWAR
+Reg: 2024579
+Gender: M
+Age: 22
+CNIC: 16603-7006056-5
+Program: BDS
+Section: I
+Account Password: 1579
+Contact: +923841399168
+Emergency Contact: +923933424956
+Hostel: 
+Room Number: 
+---
+Name: SHARJEEL ELLAHI CHAUDHRY
+Reg: 2024582
+Gender: M
+Age: 19
+CNIC: 90857-7626476-8
+Program: BDS
+Section: I
+Account Password: 1582
+Contact: +923809968441
+Emergency Contact: +923299757647
+Hostel: 
+Room Number: 
+---
+Name: SHARMEEN SHAHID
+Reg: 2024583
+Gender: M
+Age: 20
+CNIC: 29643-7988264-8
+Program: BDS
+Section: I
+Account Password: 1583
+Contact: +923733421042
+Emergency Contact: +923409605765
+Hostel: 
+Room Number: 
+---
+Name: SOHAIL KARIM
+Reg: 2024596
+Gender: M
+Age: 20
+CNIC: 33657-5513130-5
+Program: BDS
+Section: I
+Account Password: 1596
+Contact: +923644090317
+Emergency Contact: +923837484265
+Hostel: 
+Room Number: 
+---
+Name: SYEDA DANIA ALI NAQVI
+Reg: 2024624
+Gender: F
+Age: 22
+CNIC: 13888-4816307-7
+Program: BDS
+Section: I
+Account Password: 1624
+Contact: +923987749044
+Emergency Contact: +923458673062
+Hostel: 
+Room Number: 
+---
+Name: TAHA NASEER
+Reg: 2024630
+Gender: M
+Age: 20
+CNIC: 16090-8085216-9
+Program: BDS
+Section: I
+Account Password: 1630
+Contact: +923691181529
+Emergency Contact: +923919950524
+Hostel: 
+Room Number: 
+---
+Name: TALAL TARIQ
+Reg: 2024633
+Gender: M
+Age: 18
+CNIC: 31883-3981634-3
+Program: BDS
+Section: I
+Account Password: 1633
+Contact: +923470405437
+Emergency Contact: +923696031384
+Hostel: 
+Room Number: 
+---
+Name: TASSAWAR HUSSAIN
+Reg: 2024636
+Gender: M
+Age: 17
+CNIC: 90716-8643015-2
+Program: BDS
+Section: I
+Account Password: 1636
+Contact: +923295647574
+Emergency Contact: +923622345053
+Hostel: 
+Room Number: 
+---
+Name: TEHREEM KHAN
+Reg: 2024637
+Gender: M
+Age: 20
+CNIC: 48366-6971096-2
+Program: BDS
+Section: I
+Account Password: 1637
+Contact: +923847476919
+Emergency Contact: +923646146122
+Hostel: 
+Room Number: 
+---
+Name: UMAR ABDULLAH
+Reg: 2024644
+Gender: M
+Age: 16
+CNIC: 54551-6021745-9
+Program: BDS
+Section: I
+Account Password: 1644
+Contact: +923699015051
+Emergency Contact: +923922349734
+Hostel: 
+Room Number: 
+---
+Name: USAMA MEHMOOD
+Reg: 2024652
+Gender: M
+Age: 20
+CNIC: 71316-4451937-3
+Program: BDS
+Section: I
+Account Password: 1652
+Contact: +923116052690
+Emergency Contact: +923670832449
+Hostel: 
+Room Number: 
+---
+Name: WAHAJ SAJID
+Reg: 2024657
+Gender: M
+Age: 20
+CNIC: 62189-3827468-5
+Program: BDS
+Section: I
+Account Password: 1657
+Contact: +923651890816
+Emergency Contact: +923997252749
+Hostel: 
+Room Number: 
+---
+Name: ZAINAB AWAIS
+Reg: 2024672
+Gender: F
+Age: 20
+CNIC: 55743-3964307-7
+Program: BDS
+Section: I
+Account Password: 1672
+Contact: +923881465011
+Emergency Contact: +923613745899
+Hostel: 
+Room Number: 
+---
+Name: ZAINAB BINT E NAEEM
+Reg: 2024673
+Gender: F
+Age: 18
+CNIC: 47635-9244940-8
+Program: BDS
+Section: I
+Account Password: 1673
+Contact: +923332163523
+Emergency Contact: +923783222793
+Hostel: 
+Room Number: 
+---
+Name: ZAINAB ZAHID
+Reg: 2024677
+Gender: F
+Age: 17
+CNIC: 51655-2436387-6
+Program: BDS
+Section: I
+Account Password: 1677
+Contact: +923321302422
+Emergency Contact: +923565358845
+Hostel: 
+Room Number: 
+---
+Name: ZAKARYA AHMAD
+Reg: 2024678
+Gender: M
+Age: 22
+CNIC: 31407-6132575-3
+Program: BDS
+Section: I
+Account Password: 1678
+Contact: +923421061349
+Emergency Contact: +923594856428
+Hostel: 
+Room Number: 
+---
+Name: ABDAAL NAZAR
+Reg: 2024006
+Gender: M
+Age: 20
+CNIC: 63534-1111519-0
+Program: BCE
+Section: J
+Account Password: 1006
+Contact: +923912636738
+Emergency Contact: +923275763119
+Hostel: 
+Room Number: 
+---
+Name: ABDULLAH AHSAN
+Reg: 2024034
+Gender: M
+Age: 18
+CNIC: 37063-7237769-8
+Program: BCE
+Section: J
+Account Password: 1034
+Contact: +923400328261
+Emergency Contact: +923857535439
+Hostel: 
+Room Number: 
+---
+Name: AGHA SALAAT UL BARI
+Reg: 2024060
+Gender: M
+Age: 17
+CNIC: 82941-5001987-2
+Program: BCE
+Section: J
+Account Password: 1060
+Contact: +923612622953
+Emergency Contact: +923700423734
+Hostel: 
+Room Number: 
+---
+Name: AHAD SOHAIL
+Reg: 2024061
+Gender: M
+Age: 17
+CNIC: 57389-4553005-7
+Program: BCE
+Section: J
+Account Password: 1061
+Contact: +923292324821
+Emergency Contact: +923269592793
+Hostel: 
+Room Number: 
+---
+Name: AIZAZ RAFIQUE
+Reg: 2024079
+Gender: F
+Age: 17
+CNIC: 83612-2235621-8
+Program: BCE
+Section: J
+Account Password: 1079
+Contact: +923264375816
+Emergency Contact: +923475503441
+Hostel: 
+Room Number: 
+---
+Name: ALI ASGHAR
+Reg: 2024086
+Gender: M
+Age: 19
+CNIC: 28836-7572070-4
+Program: BCE
+Section: J
+Account Password: 1086
+Contact: +923172449516
+Emergency Contact: +923782869758
+Hostel: 
+Room Number: 
+---
+Name: AMNA MALIK
+Reg: 2024101
+Gender: F
+Age: 20
+CNIC: 11212-1344075-7
+Program: BCE
+Section: J
+Account Password: 1101
+Contact: +923305578583
+Emergency Contact: +923606284179
+Hostel: 
+Room Number: 
+---
+Name: ATEEB AHMED
+Reg: 2024120
+Gender: M
+Age: 17
+CNIC: 66957-8098058-3
+Program: BCE
+Section: J
+Account Password: 1120
+Contact: +923875165696
+Emergency Contact: +923947138116
+Hostel: 
+Room Number: 
+---
+Name: DANIYAL AHMED
+Reg: 2024146
+Gender: M
+Age: 18
+CNIC: 35422-3249420-1
+Program: BCE
+Section: J
+Account Password: 1146
+Contact: +923133573826
+Emergency Contact: +923826051766
+Hostel: 
+Room Number: 
+---
+Name: FARZEEN FATIMA
+Reg: 2024171
+Gender: F
+Age: 22
+CNIC: 70771-4981571-2
+Program: BCE
+Section: J
+Account Password: 1171
+Contact: +923961410938
+Emergency Contact: +923575263542
+Hostel: 
+Room Number: 
+---
+Name: HAFIZ USMAN ABDULLAH
+Reg: 2024190
+Gender: M
+Age: 22
+CNIC: 13777-6891786-9
+Program: BCE
+Section: J
+Account Password: 1190
+Contact: +923234066146
+Emergency Contact: +923828239835
+Hostel: 
+Room Number: 
+---
+Name: HANNAAN RASHID
+Reg: 2024215
+Gender: M
+Age: 16
+CNIC: 42598-9340879-9
+Program: BCE
+Section: J
+Account Password: 1215
+Contact: +923889405387
+Emergency Contact: +923280076329
+Hostel: 
+Room Number: 
+---
+Name: IRTAZA SHAHBAZ
+Reg: 2024245
+Gender: M
+Age: 16
+CNIC: 96576-6399709-1
+Program: BCE
+Section: J
+Account Password: 1245
+Contact: +923603724894
+Emergency Contact: +923860054798
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDULAH
+Reg: 2024318
+Gender: M
+Age: 20
+CNIC: 45103-2809696-5
+Program: BCE
+Section: J
+Account Password: 1318
+Contact: +923412823780
+Emergency Contact: +923309869961
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABDULLAH SALEEM
+Reg: 2024329
+Gender: M
+Age: 18
+CNIC: 80363-3580123-1
+Program: BCE
+Section: J
+Account Password: 1329
+Contact: +923691120836
+Emergency Contact: +923990101686
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ABU BAKAR
+Reg: 2024332
+Gender: M
+Age: 18
+CNIC: 94088-8610445-1
+Program: BCE
+Section: J
+Account Password: 1332
+Contact: +923746037876
+Emergency Contact: +923948824157
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ALI
+Reg: 2024342
+Gender: M
+Age: 20
+CNIC: 50830-6742111-4
+Program: BCE
+Section: J
+Account Password: 1342
+Contact: +923435522843
+Emergency Contact: +923716224114
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ALI ABBASI
+Reg: 2024343
+Gender: M
+Age: 19
+CNIC: 42476-9815315-6
+Program: BCE
+Section: J
+Account Password: 1343
+Contact: +923238262083
+Emergency Contact: +923670581585
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ANZAR MUBASHIR
+Reg: 2024351
+Gender: M
+Age: 17
+CNIC: 54329-7936316-3
+Program: BCE
+Section: J
+Account Password: 1351
+Contact: +923135486678
+Emergency Contact: +923495103663
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD AYAAN ASAD
+Reg: 2024359
+Gender: M
+Age: 20
+CNIC: 58840-1520671-3
+Program: BCE
+Section: J
+Account Password: 1359
+Contact: +923641503517
+Emergency Contact: +923222408285
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HAIDER
+Reg: 2024384
+Gender: M
+Age: 18
+CNIC: 36294-6104541-1
+Program: BCE
+Section: J
+Account Password: 1384
+Contact: +923867307629
+Emergency Contact: +923558178529
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HAIDER ANSARI
+Reg: 2024386
+Gender: M
+Age: 20
+CNIC: 74836-3496544-9
+Program: BCE
+Section: J
+Account Password: 1386
+Contact: +923627326751
+Emergency Contact: +923323546778
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HUSNAIN JATOI
+Reg: 2024405
+Gender: M
+Age: 16
+CNIC: 59193-5155005-9
+Program: BCE
+Section: J
+Account Password: 1405
+Contact: +923464348804
+Emergency Contact: +923215351171
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD MUSA
+Reg: 2024428
+Gender: M
+Age: 16
+CNIC: 22312-5138243-2
+Program: BCE
+Section: J
+Account Password: 1428
+Contact: +923338389106
+Emergency Contact: +923768102081
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD NAFAY BIN VAQAS
+Reg: 2024432
+Gender: M
+Age: 18
+CNIC: 23062-5846023-5
+Program: BCE
+Section: J
+Account Password: 1432
+Contact: +923863091145
+Emergency Contact: +923945743629
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SAMEED TARIQ
+Reg: 2024455
+Gender: M
+Age: 17
+CNIC: 80342-5197166-4
+Program: BCE
+Section: J
+Account Password: 1455
+Contact: +923971066880
+Emergency Contact: +923919256335
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SUDAIS
+Reg: 2024469
+Gender: M
+Age: 22
+CNIC: 79151-3967252-6
+Program: BCE
+Section: J
+Account Password: 1469
+Contact: +923134855251
+Emergency Contact: +923274954109
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD TAHA
+Reg: 2024474
+Gender: M
+Age: 22
+CNIC: 56567-9290195-2
+Program: BCE
+Section: J
+Account Password: 1474
+Contact: +923744333179
+Emergency Contact: +923908536863
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ZAKRIA KHAN
+Reg: 2024493
+Gender: M
+Age: 19
+CNIC: 94989-2657571-9
+Program: BCE
+Section: J
+Account Password: 1493
+Contact: +923157187003
+Emergency Contact: +923237260246
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ZORAIZ HUSNAIN
+Reg: 2024498
+Gender: M
+Age: 22
+CNIC: 58250-5625148-6
+Program: BCE
+Section: J
+Account Password: 1498
+Contact: +923742734849
+Emergency Contact: +923733135823
+Hostel: 
+Room Number: 
+---
+Name: RAHAM DIL
+Reg: 2024529
+Gender: M
+Age: 20
+CNIC: 47938-3957798-1
+Program: BCE
+Section: J
+Account Password: 1529
+Contact: +923856540526
+Emergency Contact: +923357123648
+Hostel: 
+Room Number: 
+---
+Name: SADIA AHMAD
+Reg: 2024553
+Gender: M
+Age: 17
+CNIC: 26803-3646488-1
+Program: BCE
+Section: J
+Account Password: 1553
+Contact: +923410787086
+Emergency Contact: +923933822237
+Hostel: 
+Room Number: 
+---
+Name: SHAYAN RIZWAN YAZDANIE
+Reg: 2024585
+Gender: M
+Age: 20
+CNIC: 86976-1569675-0
+Program: BCE
+Section: J
+Account Password: 1585
+Contact: +923796043656
+Emergency Contact: +923634556504
+Hostel: 
+Room Number: 
+---
+Name: SYED MUHAMMAD ALI HASSAN
+Reg: 2024616
+Gender: M
+Age: 21
+CNIC: 59121-9359379-9
+Program: BCE
+Section: J
+Account Password: 1616
+Contact: +923271505475
+Emergency Contact: +923436885723
+Hostel: 
+Room Number: 
+---
+Name: SYED ZAIN ALI SHAH BOKHARY
+Reg: 2024623
+Gender: M
+Age: 22
+CNIC: 94058-7254654-1
+Program: BCE
+Section: J
+Account Password: 1623
+Contact: +923801632704
+Emergency Contact: +923924754285
+Hostel: 
+Room Number: 
+---
+Name: UMER FAISAL
+Reg: 2024647
+Gender: M
+Age: 20
+CNIC: 58449-8950339-4
+Program: BCE
+Section: J
+Account Password: 1647
+Contact: +923462460386
+Emergency Contact: +923368513203
+Hostel: 
+Room Number: 
+---
+Name: WARDA
+Reg: 2024662
+Gender: F
+Age: 17
+CNIC: 62138-3146598-2
+Program: BCE
+Section: J
+Account Password: 1662
+Contact: +923115463947
+Emergency Contact: +923496828250
+Hostel: 
+Room Number: 
+---
+Name: ZAHRA ALIABBAS MARIWALA
+Reg: 2024668
+Gender: F
+Age: 16
+CNIC: 18907-5775738-2
+Program: BCE
+Section: J
+Account Password: 1668
+Contact: +923116111106
+Emergency Contact: +923355367413
+Hostel: 
+Room Number: 
+---
+Name: ABDUR REHMAN
+Reg: 2024722
+Gender: M
+Age: 20
+CNIC: 65122-4301073-2
+Program: BCE
+Section: J
+Account Password: 1722
+Contact: +923492856325
+Emergency Contact: +923790852782
+Hostel: 
+Room Number: 
+---
+Name: AHMED SHAHAN
+Reg: 2024068
+Gender: M
+Age: 18
+CNIC: 96929-7028522-4
+Program: BES
+Section: J
+Account Password: 1068
+Contact: +923517926756
+Emergency Contact: +923572688999
+Hostel: 
+Room Number: 
+---
+Name: ALYSHAAN RASHEED HUNZAI
+Reg: 2024095
+Gender: M
+Age: 19
+CNIC: 39935-7028306-7
+Program: BES
+Section: J
+Account Password: 1095
+Contact: +923946660124
+Emergency Contact: +923128640624
+Hostel: 
+Room Number: 
+---
+Name: AMAIL
+Reg: 2024096
+Gender: M
+Age: 18
+CNIC: 26115-2225171-8
+Program: BES
+Section: J
+Account Password: 1096
+Contact: +923393544669
+Emergency Contact: +923635406415
+Hostel: 
+Room Number: 
+---
+Name: AMNA ATIF
+Reg: 2024100
+Gender: F
+Age: 20
+CNIC: 64230-2211021-0
+Program: BES
+Section: J
+Account Password: 1100
+Contact: +923952287952
+Emergency Contact: +923119798826
+Hostel: 
+Room Number: 
+---
+Name: ANNAS SOHAIL
+Reg: 2024105
+Gender: M
+Age: 21
+CNIC: 45532-5963940-3
+Program: BES
+Section: J
+Account Password: 1105
+Contact: +923392612868
+Emergency Contact: +923608828640
+Hostel: 
+Room Number: 
+---
+Name: ANUM SHAHZADI
+Reg: 2024107
+Gender: F
+Age: 18
+CNIC: 50812-7646613-2
+Program: BES
+Section: J
+Account Password: 1107
+Contact: +923225978006
+Emergency Contact: +923581985579
+Hostel: 
+Room Number: 
+---
+Name: DAANYA QASIM KHAN
+Reg: 2024145
+Gender: F
+Age: 19
+CNIC: 28561-3171615-4
+Program: BES
+Section: J
+Account Password: 1145
+Contact: +923121182047
+Emergency Contact: +923396623289
+Hostel: 
+Room Number: 
+---
+Name: ESHAAL BINT SHAHAB
+Reg: 2024160
+Gender: F
+Age: 19
+CNIC: 73144-5575236-1
+Program: BES
+Section: J
+Account Password: 1160
+Contact: +923418315752
+Emergency Contact: +923887394819
+Hostel: 
+Room Number: 
+---
+Name: EZAAN UL HASSAN
+Reg: 2024163
+Gender: M
+Age: 19
+CNIC: 76526-9170763-2
+Program: BES
+Section: J
+Account Password: 1163
+Contact: +923314521181
+Emergency Contact: +923855322796
+Hostel: 
+Room Number: 
+---
+Name: KHADEEJA SULTAN
+Reg: 2023273
+Gender: F
+Age: 18
+CNIC: 13120-4131414-6
+Program: BES
+Section: J
+Account Password: 1273
+Contact: +923984010273
+Emergency Contact: +923943883364
+Hostel: 
+Room Number: 
+---
+Name: FATIMA ALI
+Reg: 2024173
+Gender: F
+Age: 17
+CNIC: 60378-4667605-3
+Program: BES
+Section: J
+Account Password: 1173
+Contact: +923588941912
+Emergency Contact: +923827467341
+Hostel: 
+Room Number: 
+---
+Name: GHULAM SABIR ALI
+Reg: 2024186
+Gender: M
+Age: 16
+CNIC: 98868-3824436-7
+Program: BES
+Section: J
+Account Password: 1186
+Contact: +923436908963
+Emergency Contact: +923508440868
+Hostel: 
+Room Number: 
+---
+Name: IBRAHIM
+Reg: 2024236
+Gender: M
+Age: 20
+CNIC: 95067-6957671-2
+Program: BES
+Section: J
+Account Password: 1236
+Contact: +923767485633
+Emergency Contact: +923328387119
+Hostel: 
+Room Number: 
+---
+Name: KINZA MUZZAFAR
+Reg: 2024258
+Gender: M
+Age: 22
+CNIC: 34972-2031344-5
+Program: BES
+Section: J
+Account Password: 1258
+Contact: +923122514311
+Emergency Contact: +923730448849
+Hostel: 
+Room Number: 
+---
+Name: MAHAM FAISAL
+Reg: 2024267
+Gender: M
+Age: 20
+CNIC: 82726-6704778-0
+Program: BES
+Section: J
+Account Password: 1267
+Contact: +923127775433
+Emergency Contact: +923406917277
+Hostel: 
+Room Number: 
+---
+Name: MANZOOR AHMED
+Reg: 2024279
+Gender: M
+Age: 18
+CNIC: 19760-5967129-0
+Program: BES
+Section: J
+Account Password: 1279
+Contact: +923402531407
+Emergency Contact: +923976348442
+Hostel: 
+Room Number: 
+---
+Name: MUDASIR AKBAR
+Reg: 2024311
+Gender: M
+Age: 21
+CNIC: 59500-7931285-0
+Program: BES
+Section: J
+Account Password: 1311
+Contact: +923287787761
+Emergency Contact: +923831039952
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD ATIF TAYMUR
+Reg: 2024357
+Gender: M
+Age: 17
+CNIC: 23215-1042653-2
+Program: BES
+Section: J
+Account Password: 1357
+Contact: +923805667176
+Emergency Contact: +923478866021
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD HASSAAN ANEES
+Reg: 2024398
+Gender: M
+Age: 20
+CNIC: 94422-4509402-8
+Program: BES
+Section: J
+Account Password: 1398
+Contact: +923661843046
+Emergency Contact: +923536865605
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD RAHIM IRFAN
+Reg: 2024438
+Gender: M
+Age: 19
+CNIC: 15040-9283715-1
+Program: BES
+Section: J
+Account Password: 1438
+Contact: +923429668205
+Emergency Contact: +923667265514
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD SUDAIS KHAN
+Reg: 2024471
+Gender: M
+Age: 21
+CNIC: 88675-2599925-6
+Program: BES
+Section: J
+Account Password: 1471
+Contact: +923209625868
+Emergency Contact: +923899898906
+Hostel: 
+Room Number: 
+---
+Name: MUJEEB AHMAD KHAN
+Reg: 2024499
+Gender: M
+Age: 16
+CNIC: 22765-2214235-9
+Program: BES
+Section: J
+Account Password: 1499
+Contact: +923207279680
+Emergency Contact: +923444121119
+Hostel: 
+Room Number: 
+---
+Name: SUDAIS AHMAD KHAN
+Reg: 2024599
+Gender: M
+Age: 21
+CNIC: 49732-3808716-3
+Program: BES
+Section: J
+Account Password: 1599
+Contact: +923240719304
+Emergency Contact: +923207194827
+Hostel: 
+Room Number: 
+---
+Name: SYED HASSAN NAQVI
+Reg: 2024609
+Gender: M
+Age: 19
+CNIC: 90593-9122309-4
+Program: BES
+Section: J
+Account Password: 1609
+Contact: +923654041473
+Emergency Contact: +923288977917
+Hostel: 
+Room Number: 
+---
+Name: SYEDA MARIA BUKHARI
+Reg: 2024628
+Gender: F
+Age: 21
+CNIC: 83193-8203911-2
+Program: BES
+Section: J
+Account Password: 1628
+Contact: +923522723084
+Emergency Contact: +923557697879
+Hostel: 
+Room Number: 
+---
+Name: TAHA RASOOL
+Reg: 2024631
+Gender: M
+Age: 17
+CNIC: 13528-5698529-4
+Program: BES
+Section: J
+Account Password: 1631
+Contact: +923684197490
+Emergency Contact: +923148051426
+Hostel: 
+Room Number: 
+---
+Name: ZAINAB HASSAN
+Reg: 2024675
+Gender: F
+Age: 22
+CNIC: 69689-6035940-2
+Program: BES
+Section: J
+Account Password: 1675
+Contact: +923139618886
+Emergency Contact: +923489679687
+Hostel: 
+Room Number: 
+---
+Name: MUHAMMAD DANIYAL CHISHTY
+Reg: 2024699
+Gender: M
+Age: 22
+CNIC: 50925-8088175-0
+Program: BES
+Section: J
+Account Password: 1699
+Contact: +923806171586
+Emergency Contact: +923445834849
+Hostel: 
+Room Number: 
+---
