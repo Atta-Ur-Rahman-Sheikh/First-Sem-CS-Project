@@ -92,35 +92,94 @@ void ReadArray(string students[][750], int &maleStudents, int &femaleStudents, i
     studentFile.close();
 }
 
-int main()
+int DisplayLoginChoice()
 {
-    // Black background with yellow text
-    cout << "\033[40m\033[1;33m\t=-=-=-=-=-=-=-=-=-=-=-=\n\t*  HOSTEL MANAGEMENT  *\n\t=-=-=-=-=-=-=-=-=-=-=-=\033[0m\n";
-
     int choice;
     while (true)
     {
-        cout << "\nSelect an Option:\n\n";
-        cout << " 1. Option 1\n";
-        cout << " 2. Option 2\n";
-        cout << " 3. Option 3\n";
-        cout << "\nInput (1 - 3):  ";
+        cout << "\nSelect an option:\n\n";
+        cout << " 1. Student login\n";
+        cout << " 2. Admin login\n";
+        cout << "\nInput (1 - 2):  ";
         cin >> choice;
 
-        if (choice < 1 || choice > 3)
+        if (choice < 1 || choice > 2)
         {
-            cout << "\nInvalid input, please try again.\n";
+            cout << "\033[31m\nInvalid input, please try again.\n\033[0m";
         }
         else
         {
-            break; 
+            return choice;
         }
     }
+}
+
+int LoginAccount(int choice, string *students, int maxStudents)
+{
+
+    if (choice == 1)
+    {
+        string regNo, password;
+        cout << "\nEnter Registration Number: ";
+        cin >> regNo;
+        for (int i = 0; i < maxStudents; i++)
+        {
+            if (*(students + 1 * maxStudents + i) == regNo)
+            {
+                cout << "Enter Password: ";
+                cin >> password;
+                if (*(students + 7 * maxStudents + i) == password)
+                {
+                    return StringToInt(regNo);
+                }
+                else
+                {
+                    cout << "\033[31m\nInvalid password, please try again.\n\033[0m";
+                    LoginAccount(choice, students, maxStudents);
+                }
+            }
+        }
+        cout << "\033[31m\nInvalid registration number, please try again.\n\033[0m";
+        LoginAccount(choice, students, maxStudents);
+    }
+    else if (choice == 2)
+    {
+        cout << "\n[ADMIN LOGIN]\n";
+    }
+}
+
+int DispayFeatures()
+{
+    int choice;
+    while (true)
+    {
+        cout << "\nSelect an option:\n\n";
+        cout << " 1. Student login\n";
+        cout << " 2. Admin login\n";
+        cout << "\nInput (1 - 2):  ";
+        cin >> choice;
+
+        if (choice < 1 || choice > 2)
+        {
+            cout << "\033[31m\nInvalid input, please try again.\n\033[0m";
+        }
+        else
+        {
+            return choice;
+        }
+    }
+}
+
+int main()
+{
+    cout << "\033[40m\033[1;33m\t=-=-=-=-=-=-=-=-=-=-=-=\n\t|  HOSTEL MANAGEMENT  |\n\t=-=-=-=-=-=-=-=-=-=-=-=\033[0m\n";
 
     int maleStudents = 0, femaleStudents = 0, totalStudents = 0;
     const int maxStudents = 750;
     string students[12][maxStudents];
     ReadArray(students, maleStudents, femaleStudents, totalStudents);
+    int currentAccount = LoginAccount(DisplayLoginChoice(), (string *)students, maxStudents);
+    int p = DispayFeatures();
 
     // [0 = Name] [1 = Reg] [2 = Gender] [3 = Age] [4 = CNIC] [5 = Program] [6 = Section]
     // [7 = Password] [8 = Contact] [9 = Emergency Contact] [10 = Hostel] [11 = Room Number]
