@@ -23,6 +23,7 @@ void DisplayAdminFeatures(string *, int, int&);
 
 void AdminChangePassword(string *, int, int&);
 void AdminAddStudent(string *, int, int&);
+void AdminComplainManagement(string *, int, int&);
 
 string adminMasterKey = "8888";
 
@@ -635,6 +636,8 @@ void DisplayAdminFeatures(string *students, int maxStudents, int &totalStudents)
     case 2:
         AdminAddStudent(students, maxStudents, &totalStudents);
         break;
+    case 5:
+        AdminComplainManagement(students, maxStudents, &totalStudents);
     default:
         break;
     }
@@ -663,5 +666,10 @@ void AdminChangePassword(string *students, int maxStudents, int &totalStudents)
 
 void AdminAddStudent(string *students, int maxStudents, int &totalStudents)
 {
-   
+
+}
+
+void AdminComplainManagement(string *students, int maxStudents, int &totalStudents)
+{
+    
 }
