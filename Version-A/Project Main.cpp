@@ -59,8 +59,10 @@ int main()
     {
         DisplayStudentFeatures((string *)students, maxStudents, currentAccount);
     }
+
     // [0 = Name] [1 = Reg] [2 = Gender] [3 = Age] [4 = CNIC] [5 = Program] [6 = Section]
     // [7 = Password] [8 = Contact] [9 = Emergency Contact] [10 = Hostel] [11 = Room Number]
+
     return 0;
 }
 
@@ -510,9 +512,15 @@ void StudentChangePassword(string *students, int maxStudents, int currentAccount
 
 void StudentRoomTransferRequest(string *students, int maxStudents, int currentAccount)
 {
-    cout << "\n\n\033[40m\033[1;33mROOM TRANSFER REQUEST: \033[0m\n\n";
+    cout << "\n\033[40m\033[1;33mROOM TRANSFER REQUEST: \033[0m\n\n";
 
-    // CODE
+    string reg;
+    string request = *(students + 1 * maxStudents + currentAccount) + " wants to swap rooms with you.";
+    cout << "Enter registration number of the student you want to swap rooms with: ";
+    cin >> reg;
+    ofstream file("notification.txt", ios::app);
+    file<<reg<<" "<<request<<"\n";
+    file.close();
 
     cout << "\nPress Enter to return to Main Menu.";
     cin.ignore();
@@ -522,10 +530,36 @@ void StudentRoomTransferRequest(string *students, int maxStudents, int currentAc
 
 void StudentParcelAlerts(string *students, int maxStudents, int currentAccount)
 {
-    cout << "\n\n\033[40m\033[1;33mPARCEL ALERTS: \033[0m\n\n";
+    cout << "\n\033[40m\033[1;33mPARCEL ALERTS: \033[0m\n\n";
 
-    // CODE
+    string reg = *(students + 1 * maxStudents + currentAccount);
+    string file_user, complain;
+    fstream file("parasal.txt", ios::in);
 
+    if (!file.is_open())
+    {
+        cout << "Error: The file is not loaded." << endl;
+        return;
+    }
+    int found = 0;
+    while (file.good())
+    {
+        file >> file_user;
+        if (file_user == reg)
+        {
+            getline(file, complain);
+            cout << complain << endl;
+            found = found + 1;
+        }
+        getline(file, complain);
+    }
+
+    if (found == 0)
+    {
+        cout << "\033[32mNo Parcels.\033[0m" << endl;
+    }
+
+    file.close();
     cout << "\nPress Enter to return to Main Menu.";
     cin.ignore();
     cin.get();
