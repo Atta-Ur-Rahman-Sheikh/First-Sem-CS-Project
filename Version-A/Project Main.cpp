@@ -19,11 +19,11 @@ void StudentParcelAlerts(string *, int, int);
 void StudentNotifications(string *, int, int);
 void StudentReadsAdminAnnouncements(string *, int, int);
 void StudentComplainTracker(string *, int, int);
-void DisplayAdminFeatures(string *, int, int&);
+void DisplayAdminFeatures(string *, int, int &);
 
-void AdminChangePassword(string *, int, int&);
-void AdminAddStudent(string *, int, int&);
-void AdminComplainManagement(string *, int, int&);
+void AdminChangePassword(string *, int, int &);
+void AdminAddStudent(string *, int, int &);
+void AdminComplainManagement(string *, int, int &);
 
 string adminMasterKey = "8888";
 
@@ -585,10 +585,67 @@ void StudentReadsAdminAnnouncements(string *students, int maxStudents, int curre
 
 void StudentComplainTracker(string *students, int maxStudents, int currentAccount)
 {
-    cout << "\n\n\033[40m\033[1;33mCOMPLAIN TRACKER: \033[0m\n\n";
+    int choice;
+    do
+    {
+        cout << "1: Track your old Complaint\n";
+        cout << "2: Submit new Complaint\n";
+        cout << "3: Exit\n";
+        cin >> choice;
+        string reg = *(students + 1 * maxStudents + currentAccount);
+        if (choice == 1)
+        {
+            cout << "\n\n\033[40m\033[1;33mCOMPLAIN TRACKER: \033[0m\n\n";
+            string file_user, complain;
+            fstream file("complaint.txt", ios::in);
 
-    // CODE
+            if (!file.is_open())
+            {
+                cout << "Error: The file is not loaded." << endl;
+                return;
+            }
+            int found = 0;
+            while (file.good())
+            {
+                file >> file_user;
+                if (file_user == reg)
+                {
+                    getline(file, complain);
+                    cout << "Your pending complaint: " << complain << endl;
+                    found = found + 1;
+                }
+                getline(file, complain);
+            }
 
+            if (found == 0)
+            {
+                cout << "No pending complaints found for user: " << reg << endl;
+            }
+
+            file.close();
+        }
+        else if (choice == 2)
+        {
+            cout << "\n\n\033[40m\033[1;33mNEW COMPLAINT Submit: \033[0m\n\n";
+            string complain;
+            ofstream file("complaint.txt", ios::app);
+            if (!file.is_open())
+            {
+                cout << "Error the file is not loaded" << endl;
+                return;
+            }
+            cout << "Enter your Complain:\n";
+            cin.ignore();
+            getline(cin, complain);
+            cin.ignore();
+            file << reg << " " << complain << "\n";
+            file.close();
+            cin.ignore();
+            cin.get();
+        }
+        else if (choice == 3)
+            break;
+    } while (true);
     cout << "\nPress Enter to return to Main Menu.";
     cin.ignore();
     cin.get();
@@ -634,10 +691,10 @@ void DisplayAdminFeatures(string *students, int maxStudents, int &totalStudents)
         AdminChangePassword(students, maxStudents, totalStudents);
         break;
     case 2:
-        AdminAddStudent(students, maxStudents, &totalStudents);
+        AdminAddStudent(students, maxStudents, totalStudents);
         break;
     case 5:
-        AdminComplainManagement(students, maxStudents, &totalStudents);
+        AdminComplainManagement(students, maxStudents, totalStudents);
     default:
         break;
     }
@@ -666,10 +723,8 @@ void AdminChangePassword(string *students, int maxStudents, int &totalStudents)
 
 void AdminAddStudent(string *students, int maxStudents, int &totalStudents)
 {
-
 }
 
 void AdminComplainManagement(string *students, int maxStudents, int &totalStudents)
 {
-    
 }
