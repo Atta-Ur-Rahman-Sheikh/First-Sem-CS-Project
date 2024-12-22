@@ -22,10 +22,16 @@ void StudentComplainTracker(string *, int, int);
 void DisplayAdminFeatures(string *, int, int &);
 
 void AdminChangePassword(string *, int, int &);
-void AdminAddStudent(string *, int, int &);
 void AdminComplainManagement(string *, int, int &);
+void AdminNotifications(string *, int, int &);
+void AdminAnnouncements(string *, int, int &);
+void AdminRoomSwapRequests(string *, int, int &);
+void AdminAddStudent(string *, int, int &);
+void SearchStudent(string *, int, int &);
+void GenerateReport(string *, int, int &, int, int);
 
 string adminMasterKey = "8888";
+int maleStudents = 0, femaleStudents = 0;
 
 int main()
 {
@@ -33,7 +39,7 @@ int main()
     system("");
     cout << "\033[40m\033[1;33m\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\n\t|  GIK HOSTEL MANAGEMENT  |\n\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\033[0m\n";
 
-    int maleStudents = 0, femaleStudents = 0, totalStudents = 0;
+    int totalStudents = 0;
     const int maxStudents = 800;
     string students[12][maxStudents];
     ReadArray(students, maleStudents, femaleStudents, totalStudents);
@@ -53,14 +59,8 @@ int main()
     {
         DisplayStudentFeatures((string *)students, maxStudents, currentAccount);
     }
-
     // [0 = Name] [1 = Reg] [2 = Gender] [3 = Age] [4 = CNIC] [5 = Program] [6 = Section]
     // [7 = Password] [8 = Contact] [9 = Emergency Contact] [10 = Hostel] [11 = Room Number]
-
-    // cout << "\nTotal Students: " << totalStudents << endl;
-    // cout << "Male Students: " << maleStudents << endl;
-    // cout << "Female Students: " << femaleStudents << endl;
-
     return 0;
 }
 
@@ -303,7 +303,7 @@ int LoginAccount(int choice, string *students, int maxStudents)
             }
             else
             {
-                cout << "\033[31m\nInvalid password, please try again.\n\n\033[0m";
+                cout << "\033[31m\nInvalid password, please try again.\n\033[0m";
             }
 
         } while (true);
@@ -319,7 +319,7 @@ void DisplayStudentFeatures(string *students, int maxStudents, int currentAccoun
     string name = "\033[1;36m" + *(students + 0 * maxStudents + currentAccount) + "\033[0m";
     // cout << "\033[1;36mCYAN\033[0m\n";
     cout << "\nWelcome, " << name << "! Explore the features below to manage your hostel life easily and efficiently.\n";
-
+    int totalStudents = 697;
     int choice;
     while (true)
     {
@@ -375,7 +375,18 @@ void DisplayStudentFeatures(string *students, int maxStudents, int currentAccoun
         break;
     case 9:
         int currentAccount = LoginAccount(DisplayLoginChoice(), (string *)students, maxStudents);
-        DisplayStudentFeatures((string *)students, maxStudents, currentAccount);
+        if (currentAccount == -100)
+        {
+            break;
+        }
+        else if (currentAccount == -5)
+        {
+            DisplayAdminFeatures((string *)students, maxStudents, totalStudents);
+        }
+        else
+        {
+            DisplayStudentFeatures((string *)students, maxStudents, currentAccount);
+        }
         break;
     }
 }
@@ -523,28 +534,35 @@ void StudentParcelAlerts(string *students, int maxStudents, int currentAccount)
 
 void StudentNotifications(string *students, int maxStudents, int currentAccount)
 {
-    string notifications[10];
-    int numNotifications = 0;
-
-    // Placeholder Notifications for testing
-    notifications[numNotifications++] = "\033[32m [22-12-24 10:00 AM]\033[0m Your parcel has arrived and is received by Hostel Warden.";
-    notifications[numNotifications++] = "\033[32m [22-12-24 11:15 AM]\033[0m You have a room swap request from another student. Contact the Hostel Warden for more information.";
-    notifications[numNotifications++] = "\033[32m [22-12-24 06:45 PM]\033[0m Your fee for internet service is due by the end of the week.";
-
+    string reg = *(students + 1 * maxStudents + currentAccount);
     cout << "\n\033[40m\033[1;33mNOTIFICATIONS: \033[0m\n\n";
+    string file_user, complain;
+    fstream file("notification.txt", ios::in);
 
-    if (numNotifications == 0)
+    if (!file.is_open())
     {
-        cout << "\nNo new notifications.\n";
+        cout << "Error: The file is not loaded." << endl;
+        return;
     }
-    else
+    int found = 0;
+    while (file.good())
     {
-        for (int i = 0; i < numNotifications; ++i)
+        file >> file_user;
+        if (file_user == reg)
         {
-            cout << notifications[i] << endl;
+            getline(file, complain);
+            cout << complain << endl;
+            found = found + 1;
         }
+        getline(file, complain);
     }
 
+    if (found == 0)
+    {
+        cout << "\033[32mNo Notifications.\033[0m" << endl;
+    }
+
+    file.close();
     cout << "\nPress Enter to return to Main Menu.";
     cin.ignore();
     cin.get();
@@ -554,29 +572,35 @@ void StudentNotifications(string *students, int maxStudents, int currentAccount)
 void StudentReadsAdminAnnouncements(string *students, int maxStudents, int currentAccount)
 {
 
-    string announcements[10];
-    int numAnnouncements = 0;
+    cout << "\n\033[40m\033[1;33mCOMPLAINT MANAGEMENT: \033[0m\n";
 
-    announcements[numAnnouncements++] = "\033[32m [22-12-24 10:00 AM]\033[0m Laundry will be available from 9 AM to 6 PM every Saturday.";
-    announcements[numAnnouncements++] = "\033[32m [22-12-24 11:15 AM]\033[0m Hot water will be available from 6 AM to 9 AM.";
-    announcements[numAnnouncements++] = "\033[32m [22-12-24 06:45 PM]\033[0m There will be a scheduled electricity outage on 24th December from 2 PM to 4 PM.";
-    announcements[numAnnouncements++] = "\033[32m [22-12-25 08:00 AM]\033[0m Hostel maintenance will be carried out on the 30th of December.";
-    announcements[numAnnouncements++] = "\033[32m [22-12-25 09:00 AM]\033[0m Reminder: All hostel fees must be paid by the end of the month to avoid late fees.";
+    string announcements;
+    fstream file("announcements.txt", ios::in);
 
-    cout << "\n\033[40m\033[1;33mADMIN ANNOUNCEMENTS: \033[0m\n\n";
-
-    if (numAnnouncements == 0)
+    if (!file.is_open())
     {
-        cout << "No new announcements.\n";
+        cout << "Error: The file is not loaded." << endl;
+        return;
     }
-    else
+
+    int found = 0;
+    cout << "\033[1;36m" << endl;
+
+    while (getline(file, announcements))
     {
-        for (int i = 0; i < numAnnouncements; ++i)
+        if (!announcements.empty())
         {
-            cout << announcements[i] << endl;
+            cout << announcements << endl;
+            found++;
         }
     }
+    cout << "\033[0m";
+    if (found == 0)
+    {
+        cout << "\033[0m\033[32m\n No Announcement.\n\033[0m" << endl;
+    }
 
+    file.close();
     cout << "\nPress Enter to return to Main Menu.";
     cin.ignore();
     cin.get();
@@ -588,14 +612,17 @@ void StudentComplainTracker(string *students, int maxStudents, int currentAccoun
     int choice;
     do
     {
-        cout << "1: Track your old Complaint\n";
-        cout << "2: Submit new Complaint\n";
-        cout << "3: Exit\n";
+        cout << "\n\033[40m\033[1;33mCOMPLAINT MANAGER: \033[0m\n\n";
+
+        cout << " 1: Track your old Complaint\n";
+        cout << " 2: Submit new Complaint\n";
+        cout << " 3: Exit\n";
+        cout << "\nInput (1 - 3): ";
         cin >> choice;
         string reg = *(students + 1 * maxStudents + currentAccount);
         if (choice == 1)
         {
-            cout << "\n\n\033[40m\033[1;33mCOMPLAIN TRACKER: \033[0m\n\n";
+            cout << "\n\n\033[40m\033[1;33mCOMPLAINT TRACKING: \033[0m\n\n";
             string file_user, complain;
             fstream file("complaint.txt", ios::in);
 
@@ -611,7 +638,7 @@ void StudentComplainTracker(string *students, int maxStudents, int currentAccoun
                 if (file_user == reg)
                 {
                     getline(file, complain);
-                    cout << "Your pending complaint: " << complain << endl;
+                    cout << "Pending Complaint: \033[1;36m" << complain << "\033[0m" << endl;
                     found = found + 1;
                 }
                 getline(file, complain);
@@ -619,14 +646,14 @@ void StudentComplainTracker(string *students, int maxStudents, int currentAccoun
 
             if (found == 0)
             {
-                cout << "No pending complaints found for user: " << reg << endl;
+                cout << "\033[32mNo pending complaints.\033[0m" << endl;
             }
 
             file.close();
         }
         else if (choice == 2)
         {
-            cout << "\n\n\033[40m\033[1;33mNEW COMPLAINT Submit: \033[0m\n\n";
+            cout << "\n\033[40m\033[1;33mNEW COMPLAINT: \033[0m\n\n";
             string complain;
             ofstream file("complaint.txt", ios::app);
             if (!file.is_open())
@@ -634,21 +661,15 @@ void StudentComplainTracker(string *students, int maxStudents, int currentAccoun
                 cout << "Error the file is not loaded" << endl;
                 return;
             }
-            cout << "Enter your Complain:\n";
+            cout << "Enter Complaint: ";
             cin.ignore();
             getline(cin, complain);
-            cin.ignore();
             file << reg << " " << complain << "\n";
             file.close();
-            cin.ignore();
-            cin.get();
         }
         else if (choice == 3)
             break;
     } while (true);
-    cout << "\nPress Enter to return to Main Menu.";
-    cin.ignore();
-    cin.get();
     DisplayStudentFeatures((string *)students, maxStudents, currentAccount);
 }
 
@@ -693,9 +714,38 @@ void DisplayAdminFeatures(string *students, int maxStudents, int &totalStudents)
     case 2:
         AdminAddStudent(students, maxStudents, totalStudents);
         break;
+    case 3:
+        SearchStudent(students, maxStudents, totalStudents);
+        break;
+    case 4:
+        AdminRoomSwapRequests(students, maxStudents, totalStudents);
+        break;
     case 5:
         AdminComplainManagement(students, maxStudents, totalStudents);
-    default:
+        break;
+    case 6:
+        AdminNotifications(students, maxStudents, totalStudents);
+        break;
+    case 7:
+        AdminAnnouncements(students, maxStudents, totalStudents);
+        break;
+    case 8:
+        GenerateReport(students, maxStudents, totalStudents, maleStudents, femaleStudents);
+        break;
+    case 9:
+        int currentAccount = LoginAccount(DisplayLoginChoice(), (string *)students, maxStudents);
+        if (currentAccount == -100)
+        {
+            break;
+        }
+        else if (currentAccount == -5)
+        {
+            DisplayAdminFeatures((string *)students, maxStudents, totalStudents);
+        }
+        else
+        {
+            DisplayStudentFeatures((string *)students, maxStudents, currentAccount);
+        }
         break;
     }
 }
@@ -723,8 +773,245 @@ void AdminChangePassword(string *students, int maxStudents, int &totalStudents)
 
 void AdminAddStudent(string *students, int maxStudents, int &totalStudents)
 {
+    cout << "\n\033[40m\033[1;33mADD STUDENT: \033[0m\n";
+
+    bool cond;
+    fstream studentFile;
+    string regNo, name, gender, age, program, section, accountPassword, contact, emergencyContact, cnic;
+    accountPassword = "1";
+    do
+    {
+        cond = true;
+        cout << "\nName of new student (ONLY BLOCK LETTERS!) : ";
+        cin.ignore();
+        getline(cin, name);
+        for (int i = 0; i < name.length(); i++)
+        {
+            if ((name[i] < 65 || name[i] > 90) && name[i] != 32)
+            {
+                cout << "\nBLOCK LETTERS ONLY!!" << endl;
+                cond = false;
+                break;
+            }
+        }
+        if (cond == false)
+            continue;
+        cout << "Enter Reg No of new student: ";
+        cin >> regNo;
+        for (int i = 0; i < maxStudents; i++)
+        {
+            if (regNo == *(students + 1 * maxStudents + i))
+            {
+                cout << "\nThis Registration number already exists" << endl;
+                cond = false;
+                break;
+            }
+        }
+        if (cond == false)
+            continue;
+        ;
+        cout << "Gender of new student (M/F) : ";
+        cin >> gender;
+        if (gender != "M" && gender != "F")
+        {
+            cout << "\nInvalid Entry!!" << endl;
+            cond = false;
+            continue;
+        }
+        cout << "Age of student: ";
+        cin >> age;
+        cnic = "55889-3735446-9";
+        cout << "Program of student: ";
+        cin >> program;
+        cout << "Section student: ";
+        cin >> section;
+        if ((section[0] < 65 || section[0] > 90))
+        {
+            cout << "\nBLOCK LETTERS ONLY!!" << endl;
+            cond = false;
+            continue;
+        }
+        for (int i = 0; i < regNo.length(); i++)
+        {
+            if (i < 3)
+            {
+                accountPassword += regNo[i];
+            }
+        }
+        contact = "+923535267049";
+        emergencyContact = "+923535267049";
+        string data[12] = {regNo, name, gender, age, program, section, accountPassword, contact, emergencyContact, cnic, "Empty", "Empty"};
+        for (int j = 0; j < 12; j++)
+        {
+            *(students + j * maxStudents + (totalStudents + 1)) = data[j];
+        }
+    } while (cond == false);
+    studentFile.open("Student_Data.txt", ios::app);
+    studentFile << "Name: " << name << endl;
+    studentFile << "Reg No: " << regNo << endl;
+    studentFile << "Gender: " << gender << endl;
+    studentFile << "Program: " << program << endl;
+    studentFile << "Section: " << section << endl;
+    studentFile << "Age :" << age << endl;
+    studentFile << "Account Password :" << accountPassword << endl;
+    studentFile << "Contact: " << contact << endl;
+    studentFile << "Emergency Contact: " << emergencyContact << endl;
+    studentFile << "CNIC: " << cnic << endl;
+    studentFile << "Hostel: " << cnic << endl;
+    studentFile << "Room: " << cnic << endl;
+    studentFile << "---" << endl; //
+    studentFile.close();
+
+    totalStudents += 1;
+
+    cout << "\nPress Enter to return to Main Menu.";
+    cin.ignore();
+    cin.get();
+    DisplayAdminFeatures(students, maxStudents, totalStudents);
 }
 
 void AdminComplainManagement(string *students, int maxStudents, int &totalStudents)
 {
+    cout << "\n\033[40m\033[1;33mCOMPLAINT MANAGEMENT: \033[0m\n";
+
+    string complain;
+    fstream file("complaint.txt", ios::in);
+
+    if (!file.is_open())
+    {
+        cout << "Error: The file is not loaded." << endl;
+        return;
+    }
+
+    int found = 0;
+    cout << "\nPending complaints:\n\033[1;36m" << endl;
+
+    while (getline(file, complain))
+    {
+        if (!complain.empty())
+        {
+            cout << complain << endl;
+            found++;
+        }
+    }
+    cout << "\033[0m";
+    if (found == 0)
+    {
+        cout << "\033[0m\033[32m\nNo pending complaints found for the user.\n\033[0m" << endl;
+    }
+
+    file.close();
+    cout << "\nPress Enter to return to Main Menu.";
+    cin.ignore();
+    cin.get();
+    DisplayAdminFeatures(students, maxStudents, totalStudents);
+}
+
+void AdminNotifications(string *students, int maxStudents, int &totalStudents)
+{
+    cout << "\n\033[40m\033[1;33mNEW NOTIFICATION \033[0m\n\n";
+    string complain;
+    string reg;
+    cout << "Enter you Rsgister No: ";
+    cin.ignore();
+    getline(cin, reg);
+    ofstream file("notification.txt", ios::app);
+    if (!file.is_open())
+    {
+        cout << "Error the file is not loaded" << endl;
+        return;
+    }
+    cout << "Enter your Notification: ";
+    getline(cin, complain);
+    file << reg << " " << complain << "\n";
+    file.close();
+    cout << "\nPress Enter to return to Main Menu.";
+    cin.get();
+    DisplayAdminFeatures(students, maxStudents, totalStudents);
+}
+
+void AdminRoomSwapRequests(string *students, int maxStudents, int &totalStudents)
+{
+}
+
+void AdminAnnouncements(string *students, int maxStudents, int &totalStudents)
+{
+    cout << "\n\033[40m\033[1;33mANNOUNCEMENT: \033[0m\n\n";
+    string announcement;
+    ofstream file("announcements.txt", ios::app);
+    if (!file.is_open())
+    {
+        cout << "Error the file is not loaded" << endl;
+        return;
+    }
+    cout << "Enter your Announcement: ";
+    cin.ignore();
+    getline(cin, announcement);
+    file << announcement << "\n";
+    file.close();
+    DisplayAdminFeatures(students, maxStudents, totalStudents);
+}
+
+void GenerateReport(string *students, int maxStudents, int &totalStudents, int maleStudents, int femaleStudents)
+{
+    cout << "\n\033[40m\033[1;33mREPORT: \033[0m\n";
+
+    int hostelEleven = 0, hostelTwelve = 0, maxCapacity = 325;
+    cout << "\n Total Number of Students are: \033[1;36m" << totalStudents << "\033[0m" << endl;
+    cout << " Number of Male Students are: \033[1;36m" << maleStudents << "\033[0m" << endl;
+    cout << " Number of Female Students are: \033[1;36m" << femaleStudents << "\033[0m" << endl;
+    cout << " Maximum Hostel Capacity: \033[1;36m" << maxStudents << "\033[0m" << endl;
+    for (int i = 0; i < totalStudents; i++)
+    {
+        if (*(students + 10 * maxStudents + i) == "H11")
+        {
+            hostelEleven += 1;
+        }
+        else if (*(students + 10 * maxStudents + i) == "H12")
+        {
+            hostelTwelve += 1;
+        }
+    }
+    cout << " Hostel 11 Maximum Capacity: \033[1;36m" << maxCapacity << "\033[0m" << endl;
+    cout << " No. of Students in Hotel 11: \033[1;36m" << hostelEleven << "\033[0m" << endl;
+    cout << " Hostel 12 Maximum Capacity: \033[1;36m" << maxCapacity << "\033[0m" << endl;
+    cout << " No. of Students in Hotel 12: \033[1;36m" << hostelTwelve << "\033[0m" << endl;
+
+    cout << "\nPress Enter to return to Main Menu.";
+    cin.ignore();
+    cin.get();
+    DisplayAdminFeatures(students, maxStudents, totalStudents);
+}
+
+void SearchStudent(string *students, int maxStudents, int &totalStudents)
+{
+    string data[12] = {"Name: ", "Reg: ", "Gender: ", "Age: ", "CNIC: ", "Program: ", "Section: ", "Account Password: ", "Contact: ", "Emergency Contact: ", "Hostel: ", "Room: "};
+    int option, index;
+    bool display = false;
+    string regNo, roomNumber;
+    int i;
+    cout << "\nEnter Registration Number: ";
+    cin >> regNo;
+    for (i = 0; i < totalStudents; i++)
+    {
+        if (*(students + 1 * maxStudents + i) == regNo)
+        {
+            cout << "\n\033[40m\033[1;33mDETAILS: \033[0m"
+                 << endl;
+            for (int j = 0; j < 12; j++)
+            {
+                cout << endl
+                     << data[j] << "\033[1;36m" << *(students + j * maxStudents + i) << "\033[0m";
+            }
+            break;
+        }
+        else if (i >= totalStudents - 1)
+        {
+            cout << "\nNo student found with matching registration number!!";
+        }
+    }
+    cout << "\n\nPress Enter to return to Main Menu.";
+    cin.ignore();
+    cin.get();
+    DisplayAdminFeatures(students, maxStudents, totalStudents);
 }

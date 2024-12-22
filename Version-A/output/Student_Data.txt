@@ -9059,3 +9059,16 @@ Emergency Contact: +923445834849
 Hostel: 
 Room Number: 
 ---
+Name: TALAL 
+Reg No: 2024999
+Gender: M
+Program: AI
+Section: S
+Age :13
+Account Password :1202
+Contact: +923535267049
+Emergency Contact: +923535267049
+CNIC: 55889-3735446-9
+Hostel: 55889-3735446-9
+Room: 55889-3735446-9
+---
