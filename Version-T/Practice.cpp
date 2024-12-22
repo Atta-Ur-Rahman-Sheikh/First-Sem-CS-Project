@@ -3,67 +3,161 @@
 #include <sstream>
 using namespace std;
 
-void addStudent(){
+void addStudent(string studentInfo[700][12]){
+    bool cond;
+    fstream studentData;
     string regNo, name, gender, program, section, accountPassword, contact,  emergencyContact, cnic;
     int age;
-    std::cout<<"Name of new student (ONLY BLOCK LETTERS!) : ";
-    std::cin>>name;
-    std::cout<<"Enter Reg No of new student:";
-    std::cin>>regNo;
-    std::cout<<"Gender of new student: ";
-    std::cin>>gender;
+    accountPassword = "1";
+    do{
+        cond = true;
+        std::cout<<"\nName of new student (ONLY BLOCK LETTERS!) : ";
+        cin>>name;
+        for(int i=0;i<name.length();i++){
+            if((name[i] < 65 || name[i] > 90)){
+                cout<<"\nBLOCK LETTERS ONLY!!"<<endl;
+                cond = false;
+                break;
+            }
+        }
+        if (cond ==false) continue;
+        std::cout<<"\nEnter Reg No of new student: ";
+        std::cin>>regNo;
+        for(int i=0;i<700;i++){
+            if(regNo == studentInfo[i][1]){
+                cout<<"\nThis Registration number already exists"<<endl;
+                cond = false;
+                break;
+            }
+        }
+        if (cond==false) continue;;
+        std::cout<<"\nGender of new student (M/F) : ";
+        std::cin>>gender;
+        if(gender != "M" && gender !="F"){
+            cout<<"\nInvalid Entry!!"<<endl;
+            cond = false;
+            continue;
+        }
+        std::cout<<"\nAge of student: ";
+        std::cin>>age;
+        cnic = "55889-3735446-9";
+        std::cout<<"\nProgram of student: ";
+        std::cin>>program;
+        std::cout<<"\nSection student: ";
+        std::cin>>section;
+        if((section[0] < 65 || section[0] > 90)){
+                cout<<"\nBLOCK LETTERS ONLY!!"<<endl;
+                cond = false;
+                continue;
+        }
+        for(int i=0;i<regNo.length();i++){
+            if(i<3){
+                accountPassword += regNo[i];
+            }
+        }
+        contact = "+923535267049";
+        emergencyContact = "+923535267049";
+    }while(cond==false);
+    
+    studentData.open("E:/HACKING/CS-101 Semester Project/First-Sem-CS-Project/Version-T/studentData.txt", ios::app);
+    studentData << "\nName:" << name << endl;
+    studentData << "Reg No:" << regNo << endl;
+    studentData << "Gender:" << gender << endl;
+    studentData << "Program:" << program << endl;
+    studentData << "Section:" << section << endl;
+    studentData << "Age:" << age << endl;
+    studentData << "Account Password:" << accountPassword << endl;
+    studentData << "Contact:" << contact << endl;
+    studentData << "Emergency Contact:" << emergencyContact << endl;
+    studentData << "CNIC:" << cnic << endl;
+    studentData << "---" << endl; // 
+    studentData.close();
+
 };
 
-void adminFunctionality(string *admin, int i){
+void adminFunctionality(string *admin, int i, string studentInfo[700][12]){
+    bool exit = false;
     int option;
     std::cout<<"Welcome" << *(admin + i * 3 +1)<<" ! Choose an option: "<<endl;
-    std::cout<<"1. Add a student"<<endl<< "2. Remove a student"<<endl<< "3. Parcel of a student";
-    std::cin>>option;
-    switch (option)
+    do
     {
-    case 1:
-        addStudent();
-        break;
+        std::cout<<"1. Add a student"<<endl<< "2. Remove a student"<<endl<< "3. Parcel of a student"<<endl<<"4. Exit"<<endl;
+        std::cin>>option;
+        switch (option)
+        {
+        case 1:
+            addStudent(studentInfo);
+            break;
+        case 2:
+            break;
+        case 3:
+            break;
+        case 4:
+            exit = true;
+            break;
+        
+        default:
+            break;
+        }
+    } while (exit == false);
     
-    default:
-        break;
-    }
     
 }
 
-void adminLogin(string* admin, int sizeOfAdminArr){
-    std::cout<<sizeOfAdminArr;
+void adminLogin(string* admin, int sizeOfAdminArr, string studentInfo[700][12]){
+    bool cond = true;
     string name,id,auth_id;
-    std::cout<<"Enter Your Employee ID: ";
-    std::cin>>id;
-    std::cout<<"Enter  Authorization ID: ";
-    std::cin>>auth_id;
-    for(int i=0;i<sizeOfAdminArr;i++){
-        if((id == *(admin + i * 3 + 0))  && (auth_id == *(admin + i * 3 + 2))){
-            adminFunctionality((string *)admin, i);
-            // break;
+    do {
+        std::cout<<"\nEnter Your Employee ID: ";
+        std::cin>>id;
+        for(int i=0;i<sizeOfAdminArr;i++){
+            if((id == *(admin + i * 3 + 0))){
+                std::cout<<"Enter  Authorization ID: ";
+                std::cin>>auth_id;
+                if((auth_id == *(admin + i * 3 + 2))){
+                    adminFunctionality((string *)admin, i, studentInfo);
+                } else{
+                    std::cout<<"Wrong Authorization ID!!"<<endl;
+                    cond = false;
+                    break;
+                }
+            }
+            else if (i>= sizeOfAdminArr-1){
+                std::cout<<"Wrong ID!!"<<endl;
+                cond = false;
+                break;
+            }
         }
-        else if(i>=sizeOfAdminArr){
-            std::cout<<"NO baby"<<i<<endl;
-        }
-    }
+    } while (cond ==false);
+    
+   
 
 }
 
-void autoRoomAllocation(string studentInfo[700][12], string *hostel, int maxCapacity){
+void autoRoomAllocation(string studentInfo[700][12], string *hostel, string hostelsInfo[3][3], int maxCapacity){
     int i=0;
     while(i<maxCapacity*2){
-        *(hostel + i + 0) = studentInfo[i][0];
-        *(hostel + i + 1) = studentInfo[i+1][0];
-        i+=2;
+        if(i>maxCapacity){
+            hostelsInfo[1][0] = "Twelve";
         }
- for (int i = 0; i < maxCapacity; i++) { // maxCapacity is number of rooms, so divide by 2
-         cout<<"\nMembers of room "<<i+1<<"are :\n";
-        for (int j = 0; j < 2; j++) {
-            cout << *(hostel + i * 2 + j) << endl; // Print both students in the room
+        else{
+            hostelsInfo[0][0] = "Eleven";
         }
-    }
-
+        if((studentInfo[i][2] =="M") && (studentInfo[i+1][2]=="M")){
+            *(hostel + i + 0) = studentInfo[i][0];
+            *(hostel + i + 1) = studentInfo[i+1][0];
+        }
+        else if((studentInfo[i][2] =="F") && (studentInfo[i+1][2]=="F")){
+            cout<<studentInfo[i][2]<<endl<<studentInfo[i+1][2]<<endl;
+        }
+            i+=2;
+        }
+//  for (int i = 0; i < maxCapacity; i++) { // maxCapacity is number of rooms, so divide by 2
+//          cout<<"\nMembers of room "<<i+1<<"are :\n";
+//         for (int j = 0; j < 2; j++) {
+//             cout << *(hostel + i * 2 + j) << endl; // Print both students in the room
+//         }
+//     }
 }
 void hostelMenu(string name, int index, string roomate, string studentInfo[700][12]){
     string labels[12] = {"Name: ", "Registration Number: ", "Gender: ", "Age: ", "Cnic: ", "Program: ",  "Section: ", "Account Password: ", "Contact: ", "Emergency Contact: ", "Hostel: ", "Room: "};
@@ -165,7 +259,7 @@ void login(string studentInfo[700][12], int sizeOfArr){
 int main(){
     int index = 0, sizeOfArr=0, sizeOfAdminArr=0, option, maxHostelCapacity=250;
     fstream studentData, adminData;
-    string line, studentInfo[700][12], hostelsInfo[3][2], hostelEleven[maxHostelCapacity][2];
+    string line, studentInfo[700][12], hostelsInfo[3][3], hostelEleven[maxHostelCapacity][2];
     studentData.open("E:/HACKING/CS-101 Semester Project/First-Sem-CS-Project/Version-T/studentData.txt", ios::in);
     while(getline(studentData,line)){
         if(line=="---"){
@@ -201,7 +295,9 @@ int main(){
     studentData.close();
     index = 0;
 
-    autoRoomAllocation(studentInfo, (string *)hostelEleven, maxHostelCapacity);
+    autoRoomAllocation(studentInfo, (string *)hostelEleven, hostelsInfo, maxHostelCapacity);
+    cout<<hostelsInfo[0][0]<<endl;
+    cout<<hostelsInfo[1][0]<<endl;
     std::cout<<"Select an option: "<<endl;
     std::cout<<"1. Student Login"<<endl<<"2. Admin Login"<<endl;
     std::cout<<"\nEnter option number: ";
@@ -231,7 +327,7 @@ int main(){
             i++;
         }
         adminData.close();
-        adminLogin((string*)admin, sizeOfAdminArr);
+        adminLogin((string*)admin, sizeOfAdminArr, studentInfo);
     }
     return 0;
 }
