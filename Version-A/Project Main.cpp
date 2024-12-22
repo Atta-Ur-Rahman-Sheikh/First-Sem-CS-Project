@@ -632,8 +632,8 @@ void DisplayAdminFeatures(string *students, int maxStudents, int totalStudents)
     case 1:
         AdminChangePassword(students, maxStudents, totalStudents);
         break;
-        case 2:
-        
+    case 2:
+        AdminAddStudent();
     
     default:
         break;
