@@ -19,16 +19,17 @@ void StudentParcelAlerts(string *, int, int);
 void StudentNotifications(string *, int, int);
 void StudentReadsAdminAnnouncements(string *, int, int);
 void StudentComplainTracker(string *, int, int);
-
 void DisplayAdminFeatures(string *, int, int);
+
+void AdminChangePassword(string *, int, int);
+
 
 string adminMasterKey = "8888";
 
 int main()
 {
-
     // ADMIN MASTER KEY: 8888
-
+    system("");
     cout << "\033[40m\033[1;33m\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\n\t|  GIK HOSTEL MANAGEMENT  |\n\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\033[0m\n";
 
     int maleStudents = 0, femaleStudents = 0, totalStudents = 0;
@@ -629,48 +630,33 @@ void DisplayAdminFeatures(string *students, int maxStudents, int totalStudents)
     switch (choice)
     {
     case 1:
-        cout << "\n\n\033[40m\033[1;33mCHANGE PASSWORD: \033[0m\n\n";
-        string newPass;
-        cout << "\n Enter New Passwaord";
-        cin >> newPass;
-        if (newPass.empty())
-        {
-            cout << "\033[31mPassword cannot be empty.\033[0m\n";
-        }
-        else
-        {
-            adminMasterKey = newPass;
-            cout << "\033[32m\nPassword changed successfully!\033[0m\n";
-        }
-        cout << "\nPress Enter to return to Main Menu.";
-        cin.ignore();
-        cin.get();
-        DisplayAdminFeatures(students, maxStudents, totalStudents);
+        AdminChangePassword(students, maxStudents, totalStudents);
         break;
-        // case 2:
-        //     DisplayStudentHostelOverview((string *)students, maxStudents, currentAccount);
-        //     break;
-        // case 3:
-        //     StudentChangePassword((string *)students, maxStudents, currentAccount);
-        //     break;
-        // case 4:
-        //     StudentRoomTransferRequest((string *)students, maxStudents, currentAccount);
-        //     break;
-        // case 5:
-        //     StudentParcelAlerts((string *)students, maxStudents, currentAccount);
-        //     break;
-        // case 6:
-        //     StudentNotifications((string *)students, maxStudents, currentAccount);
-        //     break;
-        // case 7:
-        //     StudentReadsAdminAnnouncements((string *)students, maxStudents, currentAccount);
-        //     break;
-        // case 8:
-        //     StudentComplainTracker((string *)students, maxStudents, currentAccount);
-        //     break;
-        // case 9:
-        //     int currentAccount = LoginAccount(DisplayLoginChoice(), (string *)students, maxStudents);
-        //     DisplayStudentFeatures((string *)students, maxStudents, currentAccount);
-        //     break;}
+        case 2:
+        
+    
+    default:
+        break;
     }
 }
+void AdminChangePassword(string *students, int maxStudents, int totalStudents)
+{
+    cout << "\n\033[40m\033[1;33mCHANGE PASSWORD: \033[0m\n";
+    string newPass;
+    cout << "\nEnter New Passwaord: ";
+    cin >> newPass;
+    if (newPass.empty())
+    {
+        cout << "\033[31mPassword cannot be empty.\033[0m\n";
+    }
+    else
+    {
+        adminMasterKey = newPass;
+        cout << "\033[32m\nPassword changed successfully!\033[0m\n";
+    }
+    cout << "\nPress Enter to return to Main Menu.";
+    cin.ignore();
+    cin.get();
+    DisplayAdminFeatures(students, maxStudents, totalStudents);
+}
+
