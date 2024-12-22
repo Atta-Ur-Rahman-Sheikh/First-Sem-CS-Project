@@ -7085,7 +7085,7 @@ Room Number:
 ---
 Name: MARYUM NADEEM
 Reg: 2024285
-Gender: M
+Gender: F
 Age: 22
 CNIC: 50219-7659540-4
 Program: MGS

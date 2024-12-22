@@ -4948,8 +4948,8 @@ Section: G
 Account Password: 1152
 Contact: +923889812653
 Emergency Contact: +923636665810
-Hostel: H11
-Room Number: 164
+Hostel: H12
+Room Number: 1
 ---
 Name: FATIMA REHMAN
 Reg: 2024177
@@ -4974,8 +4974,8 @@ Section: G
 Account Password: 1213
 Contact: +923684797128
 Emergency Contact: +923568709161
-Hostel: H11
-Room Number: 164
+Hostel: H12
+Room Number: 1
 ---
 Name: HASNAIN ZIA WAZIR
 Reg: 2024222
@@ -4987,8 +4987,8 @@ Section: G
 Account Password: 1222
 Contact: +923482497972
 Emergency Contact: +923999382576
-Hostel: H11
-Room Number: 165
+Hostel: H12
+Room Number: 2
 ---
 Name: IBRAHIM MALHI
 Reg: 2024241
@@ -5000,8 +5000,8 @@ Section: G
 Account Password: 1241
 Contact: +923851812385
 Emergency Contact: +923696629968
-Hostel: H11
-Room Number: 165
+Hostel: H12
+Room Number: 2
 ---
 Name: IRAB ZARA
 Reg: 2024244
@@ -5026,8 +5026,8 @@ Section: G
 Account Password: 1247
 Contact: +923896622576
 Emergency Contact: +923930602822
-Hostel: H11
-Room Number: 166
+Hostel: H12
+Room Number: 3
 ---
 Name: MALIK ABDULLAH
 Reg: 2024275
@@ -5039,8 +5039,8 @@ Section: G
 Account Password: 1275
 Contact: +923344647461
 Emergency Contact: +923722577268
-Hostel: H11
-Room Number: 166
+Hostel: H12
+Room Number: 3
 ---
 Name: MIRZA KHIZAR BAIG
 Reg: 2024294
@@ -5052,8 +5052,8 @@ Section: G
 Account Password: 1294
 Contact: +923875360491
 Emergency Contact: +923100633561
-Hostel: H11
-Room Number: 167
+Hostel: H12
+Room Number: 4
 ---
 Name: MUHAMMAD ABDULLAH
 Reg: 2024321
@@ -5065,8 +5065,8 @@ Section: G
 Account Password: 1321
 Contact: +923541840771
 Emergency Contact: +923362436536
-Hostel: H11
-Room Number: 167
+Hostel: H12
+Room Number: 4
 ---
 Name: MUHAMMAD ABDULLAH KALEEM
 Reg: 2024326
@@ -5078,8 +5078,8 @@ Section: G
 Account Password: 1326
 Contact: +923518719485
 Emergency Contact: +923788217874
-Hostel: H11
-Room Number: 168
+Hostel: H12
+Room Number: 5
 ---
 Name: MUHAMMAD AWAB ABDULLAH
 Reg: 2024358
@@ -5091,8 +5091,8 @@ Section: G
 Account Password: 1358
 Contact: +923673043843
 Emergency Contact: +923639067021
-Hostel: H11
-Room Number: 168
+Hostel: H12
+Room Number: 5
 ---
 Name: MUHAMMAD GHAZALI KHAN
 Reg: 2024380
@@ -5104,8 +5104,8 @@ Section: G
 Account Password: 1380
 Contact: +923588784784
 Emergency Contact: +923217471465
-Hostel: H11
-Room Number: 169
+Hostel: H12
+Room Number: 6
 ---
 Name: MUHAMMAD HARIS ZAFAR
 Reg: 2024396
@@ -5117,8 +5117,8 @@ Section: G
 Account Password: 1396
 Contact: +923717393791
 Emergency Contact: +923633201021
-Hostel: H11
-Room Number: 169
+Hostel: H12
+Room Number: 6
 ---
 Name: MUHAMMAD IBRAHIM GULZAR
 Reg: 2024409
@@ -5130,8 +5130,8 @@ Section: G
 Account Password: 1409
 Contact: +923478980796
 Emergency Contact: +923319870629
-Hostel: H11
-Room Number: 170
+Hostel: H12
+Room Number: 7
 ---
 Name: MUHAMMAD NAQI AFAQ
 Reg: 2024433
@@ -5143,8 +5143,8 @@ Section: G
 Account Password: 1433
 Contact: +923235196575
 Emergency Contact: +923911477322
-Hostel: H11
-Room Number: 170
+Hostel: H12
+Room Number: 7
 ---
 Name: MUHAMMAD SAAD
 Reg: 2024444
@@ -5156,8 +5156,8 @@ Section: G
 Account Password: 1444
 Contact: +923103715619
 Emergency Contact: +923294795516
-Hostel: H11
-Room Number: 171
+Hostel: H12
+Room Number: 8
 ---
 Name: MUHAMMAD SAAD
 Reg: 2024445
@@ -5169,8 +5169,8 @@ Section: G
 Account Password: 1445
 Contact: +923239874530
 Emergency Contact: +923306176720
-Hostel: H11
-Room Number: 171
+Hostel: H12
+Room Number: 8
 ---
 Name: Umer Wali
 Reg: 2023736
@@ -5182,8 +5182,8 @@ Section: G
 Account Password: 1736
 Contact: +923898887376
 Emergency Contact: +923837190922
-Hostel: H11
-Room Number: 172
+Hostel: H12
+Room Number: 9
 ---
 Name: MUHAMMAD SHAREQ USMAN
 Reg: 2024465
@@ -5195,8 +5195,8 @@ Section: G
 Account Password: 1465
 Contact: +923631506263
 Emergency Contact: +923234944211
-Hostel: H11
-Room Number: 172
+Hostel: H12
+Room Number: 9
 ---
 Name: MUHAMMAD SULEMAN JAVED MALIK
 Reg: 2024472
@@ -5208,8 +5208,8 @@ Section: G
 Account Password: 1472
 Contact: +923100021705
 Emergency Contact: +923643082247
-Hostel: H11
-Room Number: 173
+Hostel: H12
+Room Number: 10
 ---
 Name: MUHAMMAD UMAR
 Reg: 2024480
@@ -5221,8 +5221,8 @@ Section: G
 Account Password: 1480
 Contact: +923177458903
 Emergency Contact: +923999190944
-Hostel: H11
-Room Number: 173
+Hostel: H12
+Room Number: 10
 ---
 Name: MUHAMMAD UMAR ASLAM
 Reg: 2024481
@@ -5234,8 +5234,8 @@ Section: G
 Account Password: 1481
 Contact: +923137061651
 Emergency Contact: +923286061169
-Hostel: H11
-Room Number: 174
+Hostel: H12
+Room Number: 11
 ---
 Name: OMER IMRAN SIDDIQUI
 Reg: 2024523
@@ -5247,8 +5247,8 @@ Section: G
 Account Password: 1523
 Contact: +923663268014
 Emergency Contact: +923788836372
-Hostel: H11
-Room Number: 174
+Hostel: H12
+Room Number: 11
 ---
 Name: REYAN KASHIF
 Reg: 2024538
@@ -5260,8 +5260,8 @@ Section: G
 Account Password: 1538
 Contact: +923876182256
 Emergency Contact: +923493960501
-Hostel: H11
-Room Number: 175
+Hostel: H12
+Room Number: 12
 ---
 Name: SAMAND KHAN
 Reg: 2024560
@@ -5273,8 +5273,8 @@ Section: G
 Account Password: 1560
 Contact: +923490619561
 Emergency Contact: +923207758898
-Hostel: H11
-Room Number: 175
+Hostel: H12
+Room Number: 12
 ---
 Name: SOHAIB BIN TAUSIF
 Reg: 2024595
@@ -5286,8 +5286,8 @@ Section: G
 Account Password: 1595
 Contact: +923519438364
 Emergency Contact: +923431183221
-Hostel: H11
-Room Number: 176
+Hostel: H12
+Room Number: 13
 ---
 Name: SYED MOHAMMAD EBRAHIM
 Reg: 2024610
@@ -5299,8 +5299,8 @@ Section: G
 Account Password: 1610
 Contact: +923536694796
 Emergency Contact: +923974654120
-Hostel: H11
-Room Number: 176
+Hostel: H12
+Room Number: 13
 ---
 Name: ASJID SAMAD
 Reg: 2024119
@@ -5312,8 +5312,8 @@ Section: G
 Account Password: 1119
 Contact: +923141585172
 Emergency Contact: +923567058427
-Hostel: H11
-Room Number: 177
+Hostel: H12
+Room Number: 14
 ---
 Name: SYEDA MAHEEN KAZMI
 Reg: 2024627
@@ -5338,8 +5338,8 @@ Section: G
 Account Password: 1653
 Contact: +923127549843
 Emergency Contact: +923686279308
-Hostel: H11
-Room Number: 177
+Hostel: H12
+Room Number: 14
 ---
 Name: MUHAMMAD SAIM
 Reg: 2024453
@@ -5351,8 +5351,8 @@ Section: G
 Account Password: 1453
 Contact: +923293290563
 Emergency Contact: +923978621949
-Hostel: H11
-Room Number: 178
+Hostel: H12
+Room Number: 15
 ---
 Name: WALWAL KHAN AFRIDI
 Reg: 2024661
@@ -5364,8 +5364,8 @@ Section: G
 Account Password: 1661
 Contact: +923368316968
 Emergency Contact: +923178780222
-Hostel: H11
-Room Number: 178
+Hostel: H12
+Room Number: 15
 ---
 Name: WARDA GUL
 Reg: 2024663
@@ -5390,8 +5390,8 @@ Section: G
 Account Password: 1666
 Contact: +923918316088
 Emergency Contact: +923559060133
-Hostel: H11
-Room Number: 179
+Hostel: H12
+Room Number: 16
 ---
 Name: ZAINAB HASHMI
 Reg: 2024674
@@ -5416,8 +5416,8 @@ Section: G
 Account Password: 1014
 Contact: +923229813823
 Emergency Contact: +923719672493
-Hostel: H11
-Room Number: 179
+Hostel: H12
+Room Number: 16
 ---
 Name: ABDUL REHMAN ISHAQUE
 Reg: 2024028
@@ -5429,8 +5429,8 @@ Section: G
 Account Password: 1028
 Contact: +923318906981
 Emergency Contact: +923551893470
-Hostel: H11
-Room Number: 180
+Hostel: H12
+Room Number: 17
 ---
 Name: ABDULLAH KHAN
 Reg: 2024040
@@ -5442,8 +5442,8 @@ Section: G
 Account Password: 1040
 Contact: +923284230262
 Emergency Contact: +923726362775
-Hostel: H11
-Room Number: 180
+Hostel: H12
+Room Number: 17
 ---
 Name: ABDUS SALAM
 Reg: 2024052
@@ -5455,8 +5455,8 @@ Section: G
 Account Password: 1052
 Contact: +923246652004
 Emergency Contact: +923831767023
-Hostel: H11
-Room Number: 181
+Hostel: H12
+Room Number: 18
 ---
 Name: ABEER IHSAN
 Reg: 2024053
@@ -5468,8 +5468,8 @@ Section: G
 Account Password: 1053
 Contact: +923660493305
 Emergency Contact: +923864499242
-Hostel: H11
-Room Number: 181
+Hostel: H12
+Room Number: 18
 ---
 Name: AHSAN ALI SHAIKH
 Reg: 2024071
@@ -5481,8 +5481,8 @@ Section: G
 Account Password: 1071
 Contact: +923323413490
 Emergency Contact: +923688966531
-Hostel: H11
-Room Number: 182
+Hostel: H12
+Room Number: 19
 ---
 Name: AIZA HUMAYUN
 Reg: 2024076
@@ -5520,8 +5520,8 @@ Section: G
 Account Password: 1108
 Contact: +923100965855
 Emergency Contact: +923565032760
-Hostel: H11
-Room Number: 182
+Hostel: H12
+Room Number: 19
 ---
 Name: AQIB FAISAL
 Reg: 2024109
@@ -5533,8 +5533,8 @@ Section: G
 Account Password: 1109
 Contact: +923363293550
 Emergency Contact: +923156003186
-Hostel: H11
-Room Number: 183
+Hostel: H12
+Room Number: 20
 ---
 Name: AREEJ ARIF
 Reg: 2024113
@@ -5559,8 +5559,8 @@ Section: G
 Account Password: 1705
 Contact: +923219942622
 Emergency Contact: +923499386335
-Hostel: H11
-Room Number: 183
+Hostel: H12
+Room Number: 20
 ---
 Name: ASAD KHAN
 Reg: 2024117
@@ -5572,8 +5572,8 @@ Section: G
 Account Password: 1117
 Contact: +923620523469
 Emergency Contact: +923803330428
-Hostel: H11
-Room Number: 184
+Hostel: H12
+Room Number: 21
 ---
 Name: AYESHA KHALID
 Reg: 2024127
@@ -5598,8 +5598,8 @@ Section: G
 Account Password: 1138
 Contact: +923819538591
 Emergency Contact: +923742208247
-Hostel: H11
-Room Number: 184
+Hostel: H12
+Room Number: 21
 ---
 Name: HAAD MAJEED CHAUDHARY
 Reg: 2024188
@@ -5611,8 +5611,8 @@ Section: G
 Account Password: 1188
 Contact: +923592654106
 Emergency Contact: +923851349343
-Hostel: H11
-Room Number: 185
+Hostel: H12
+Room Number: 22
 ---
 Name: HAMZA ALI KHAN
 Reg: 2024205
@@ -5624,8 +5624,8 @@ Section: G
 Account Password: 1205
 Contact: +923328980406
 Emergency Contact: +923621434586
-Hostel: H11
-Room Number: 185
+Hostel: H12
+Room Number: 22
 ---
 Name: HAMZA IJAZ
 Reg: 2024207
@@ -5637,8 +5637,8 @@ Section: G
 Account Password: 1207
 Contact: +923994473425
 Emergency Contact: +923301228507
-Hostel: H11
-Room Number: 186
+Hostel: H12
+Room Number: 23
 ---
 Name: HAREEM AHMAD
 Reg: 2024217
@@ -5650,8 +5650,8 @@ Section: G
 Account Password: 1217
 Contact: +923590658165
 Emergency Contact: +923269376825
-Hostel: H11
-Room Number: 186
+Hostel: H12
+Room Number: 23
 ---
 Name: HARIS AFRIDI
 Reg: 2024218
@@ -5663,8 +5663,8 @@ Section: G
 Account Password: 1218
 Contact: +923846213048
 Emergency Contact: +923415831219
-Hostel: H11
-Room Number: 187
+Hostel: H12
+Room Number: 24
 ---
 Name: IRTZA
 Reg: 2024246
@@ -5676,8 +5676,8 @@ Section: G
 Account Password: 1246
 Contact: +923840388711
 Emergency Contact: +923386859178
-Hostel: H11
-Room Number: 187
+Hostel: H12
+Room Number: 24
 ---
 Name: MAIDA FATIMA
 Reg: 2024269
@@ -5702,8 +5702,8 @@ Section: G
 Account Password: 1272
 Contact: +923712954680
 Emergency Contact: +923108993818
-Hostel: H11
-Room Number: 188
+Hostel: H12
+Room Number: 25
 ---
 Name: MIAN RABIA ILYAS
 Reg: 2024289
@@ -5715,8 +5715,8 @@ Section: G
 Account Password: 1289
 Contact: +923538804020
 Emergency Contact: +923786766886
-Hostel: H11
-Room Number: 188
+Hostel: H12
+Room Number: 25
 ---
 Name: MOHIT KUMAR
 Reg: 2024306
@@ -5728,8 +5728,8 @@ Section: G
 Account Password: 1306
 Contact: +923950357350
 Emergency Contact: +923365405091
-Hostel: H11
-Room Number: 189
+Hostel: H12
+Room Number: 26
 ---
 Name: MUHAMMAD AHSAN NASEER
 Reg: 2024314
@@ -5741,8 +5741,8 @@ Section: G
 Account Password: 1314
 Contact: +923200720957
 Emergency Contact: +923235164251
-Hostel: H11
-Room Number: 189
+Hostel: H12
+Room Number: 26
 ---
 Name: MUHAMMAD DANYAL RAHEEL
 Reg: 2024374
@@ -5754,8 +5754,8 @@ Section: G
 Account Password: 1374
 Contact: +923281138175
 Emergency Contact: +923110229187
-Hostel: H11
-Room Number: 190
+Hostel: H12
+Room Number: 27
 ---
 Name: MUHAMMAD HADI
 Reg: 2024382
@@ -5767,8 +5767,8 @@ Section: G
 Account Password: 1382
 Contact: +923794502317
 Emergency Contact: +923252111724
-Hostel: H11
-Room Number: 190
+Hostel: H12
+Room Number: 27
 ---
 Name: MUHAMMAD HAMDOON
 Reg: 2024387
@@ -5780,8 +5780,8 @@ Section: G
 Account Password: 1387
 Contact: +923215132539
 Emergency Contact: +923327490949
-Hostel: H11
-Room Number: 191
+Hostel: H12
+Room Number: 28
 ---
 Name: MUHAMMAD HAMZA FAROOQ
 Reg: 2024390
@@ -5793,8 +5793,8 @@ Section: G
 Account Password: 1390
 Contact: +923603418871
 Emergency Contact: +923882930683
-Hostel: H11
-Room Number: 191
+Hostel: H12
+Room Number: 28
 ---
 Name: MUHAMMAD KHUZAIM
 Reg: 2024421
@@ -5806,8 +5806,8 @@ Section: G
 Account Password: 1421
 Contact: +923197282188
 Emergency Contact: +923709539970
-Hostel: H11
-Room Number: 192
+Hostel: H12
+Room Number: 29
 ---
 Name: MUHAMMAD MUDASSAR SHAHBAZ
 Reg: 2024425
@@ -5819,8 +5819,8 @@ Section: G
 Account Password: 1425
 Contact: +923245150683
 Emergency Contact: +923953621008
-Hostel: H11
-Room Number: 192
+Hostel: H12
+Room Number: 29
 ---
 Name: MUHAMMAD MUSAB
 Reg: 2024429
@@ -5832,8 +5832,8 @@ Section: G
 Account Password: 1429
 Contact: +923906839961
 Emergency Contact: +923949676003
-Hostel: H11
-Room Number: 193
+Hostel: H12
+Room Number: 30
 ---
 Name: MUHAMMAD RAYYAN BUTT
 Reg: 2024439
@@ -5845,8 +5845,8 @@ Section: G
 Account Password: 1439
 Contact: +923296476198
 Emergency Contact: +923410507934
-Hostel: H11
-Room Number: 193
+Hostel: H12
+Room Number: 30
 ---
 Name: MUHAMMAD SAAD MAHMOOD
 Reg: 2024448
@@ -5858,8 +5858,8 @@ Section: G
 Account Password: 1448
 Contact: +923272317702
 Emergency Contact: +923952854247
-Hostel: H11
-Room Number: 194
+Hostel: H12
+Room Number: 31
 ---
 Name: MUHAMMAD ZEESHAN NASIM
 Reg: 2024495
@@ -5871,8 +5871,8 @@ Section: G
 Account Password: 1495
 Contact: +923619821639
 Emergency Contact: +923589744444
-Hostel: H11
-Room Number: 194
+Hostel: H12
+Room Number: 31
 ---
 Name: NABIHA NASIR
 Reg: 2024514
@@ -5884,8 +5884,8 @@ Section: G
 Account Password: 1514
 Contact: +923917286055
 Emergency Contact: +923281925785
-Hostel: H11
-Room Number: 195
+Hostel: H12
+Room Number: 32
 ---
 Name: NAIK ALAM
 Reg: 2024515
@@ -5897,8 +5897,8 @@ Section: G
 Account Password: 1515
 Contact: +923895390766
 Emergency Contact: +923803569876
-Hostel: H11
-Room Number: 195
+Hostel: H12
+Room Number: 32
 ---
 Name: SEHRISH NOOR
 Reg: 2024569
@@ -5923,8 +5923,8 @@ Section: G
 Account Password: 1572
 Contact: +923817461699
 Emergency Contact: +923449108561
-Hostel: H11
-Room Number: 196
+Hostel: H12
+Room Number: 33
 ---
 Name: SHAHMEER ABDULLAH
 Reg: 2024576
@@ -5936,8 +5936,8 @@ Section: G
 Account Password: 1576
 Contact: +923849238109
 Emergency Contact: +923545352997
-Hostel: H11
-Room Number: 196
+Hostel: H12
+Room Number: 33
 ---
 Name: SHEIKH NABEEL
 Reg: 2024588
@@ -5949,8 +5949,8 @@ Section: G
 Account Password: 1588
 Contact: +923237075856
 Emergency Contact: +923224061407
-Hostel: H11
-Room Number: 197
+Hostel: H12
+Room Number: 34
 ---
 Name: SHOAIB HUSSAIN IQBAL
 Reg: 2024591
@@ -5962,8 +5962,8 @@ Section: G
 Account Password: 1591
 Contact: +923140557839
 Emergency Contact: +923472803529
-Hostel: H11
-Room Number: 197
+Hostel: H12
+Room Number: 34
 ---
 Name: SYED MOIN UD DIN SHAH GILLANI
 Reg: 2024612
@@ -5975,8 +5975,8 @@ Section: G
 Account Password: 1612
 Contact: +923634386089
 Emergency Contact: +923215187904
-Hostel: H11
-Room Number: 198
+Hostel: H12
+Room Number: 35
 ---
 Name: SYED MUHAMMAD DANIYAL ALI
 Reg: 2024618
@@ -5988,8 +5988,8 @@ Section: G
 Account Password: 1618
 Contact: +923467593787
 Emergency Contact: +923964293105
-Hostel: H11
-Room Number: 198
+Hostel: H12
+Room Number: 35
 ---
 Name: TOOBA HUSSAIN
 Reg: 2024639
@@ -6014,8 +6014,8 @@ Section: G
 Account Password: 1646
 Contact: +923947759829
 Emergency Contact: +923828578262
-Hostel: H11
-Room Number: 199
+Hostel: H12
+Room Number: 36
 ---
 Name: UNNAS SOHAIL
 Reg: 2024648
@@ -6027,8 +6027,8 @@ Section: G
 Account Password: 1648
 Contact: +923213911598
 Emergency Contact: +923940280468
-Hostel: H11
-Room Number: 199
+Hostel: H12
+Room Number: 36
 ---
 Name: USMAN MUSAWAR
 Reg: 2024655
@@ -6040,8 +6040,8 @@ Section: G
 Account Password: 1655
 Contact: +923120862045
 Emergency Contact: +923503614327
-Hostel: H11
-Room Number: 200
+Hostel: H12
+Room Number: 37
 ---
 Name: YAHYA KHALID
 Reg: 2024664
@@ -6053,8 +6053,8 @@ Section: G
 Account Password: 1664
 Contact: +923435912748
 Emergency Contact: +923875881733
-Hostel: H11
-Room Number: 200
+Hostel: H12
+Room Number: 37
 ---
 Name: ZUHAIB AKHTAR
 Reg: 2024691
@@ -6066,8 +6066,8 @@ Section: G
 Account Password: 1691
 Contact: +923136581505
 Emergency Contact: +923487568562
-Hostel: H11
-Room Number: 201
+Hostel: H12
+Room Number: 38
 ---
 Name: MUHAMMAD ANAS SHER BHATTI
 Reg: 2024694
@@ -6079,8 +6079,8 @@ Section: G
 Account Password: 1694
 Contact: +923135111812
 Emergency Contact: +923653063937
-Hostel: H11
-Room Number: 201
+Hostel: H12
+Room Number: 38
 ---
 Name: AAFEEN SHAKEEL GILANI
 Reg: 2024001
@@ -6092,8 +6092,8 @@ Section: H
 Account Password: 1001
 Contact: +923136045333
 Emergency Contact: +923133236803
-Hostel: H11
-Room Number: 202
+Hostel: H12
+Room Number: 39
 ---
 Name: ABBAS ALAMGIR
 Reg: 2024004
@@ -6105,8 +6105,8 @@ Section: H
 Account Password: 1004
 Contact: +923251788788
 Emergency Contact: +923982265762
-Hostel: H11
-Room Number: 202
+Hostel: H12
+Room Number: 39
 ---
 Name: ABDUL RAUF
 Reg: 2024020
@@ -6118,8 +6118,8 @@ Section: H
 Account Password: 1020
 Contact: +923271428576
 Emergency Contact: +923499923132
-Hostel: H11
-Room Number: 203
+Hostel: H12
+Room Number: 40
 ---
 Name: ABDUL REHMAN
 Reg: 2024025
@@ -6131,8 +6131,8 @@ Section: H
 Account Password: 1025
 Contact: +923807129948
 Emergency Contact: +923868854142
-Hostel: H11
-Room Number: 203
+Hostel: H12
+Room Number: 40
 ---
 Name: ABDULLAH
 Reg: 2024033
@@ -6144,8 +6144,8 @@ Section: H
 Account Password: 1033
 Contact: +923833197883
 Emergency Contact: +923579985886
-Hostel: H11
-Room Number: 204
+Hostel: H12
+Room Number: 41
 ---
 Name: ABDULLAH FAWAD KHAN
 Reg: 2024038
@@ -6157,8 +6157,8 @@ Section: H
 Account Password: 1038
 Contact: +923131371945
 Emergency Contact: +923279375063
-Hostel: H11
-Room Number: 204
+Hostel: H12
+Room Number: 41
 ---
 Name: AHMED ABDUL REHMAN KHAN
 Reg: 2024066
@@ -6170,8 +6170,8 @@ Section: H
 Account Password: 1066
 Contact: +923440943308
 Emergency Contact: +923255049965
-Hostel: H11
-Room Number: 205
+Hostel: H12
+Room Number: 42
 ---
 Name: AISHA NOOR
 Reg: 2024075
@@ -6196,8 +6196,8 @@ Section: H
 Account Password: 1080
 Contact: +923904287270
 Emergency Contact: +923301323779
-Hostel: H11
-Room Number: 205
+Hostel: H12
+Room Number: 42
 ---
 Name: ANOUSHA RAHIM
 Reg: 2024106
@@ -6209,8 +6209,8 @@ Section: H
 Account Password: 1106
 Contact: +923168504971
 Emergency Contact: +923843006810
-Hostel: H11
-Room Number: 206
+Hostel: H12
+Room Number: 43
 ---
 Name: ASAAD ARFAN MIANA
 Reg: 2024115
@@ -6222,8 +6222,8 @@ Section: H
 Account Password: 1115
 Contact: +923355825269
 Emergency Contact: +923431075286
-Hostel: H11
-Room Number: 206
+Hostel: H12
+Room Number: 43
 ---
 Name: DEEPAK KUMAR
 Reg: 2024149
@@ -6235,8 +6235,8 @@ Section: H
 Account Password: 1149
 Contact: +923439673347
 Emergency Contact: +923526412123
-Hostel: H11
-Room Number: 207
+Hostel: H12
+Room Number: 44
 ---
 Name: FASEEH AHMED ANSARI
 Reg: 2024172
@@ -6248,8 +6248,8 @@ Section: H
 Account Password: 1172
 Contact: +923568074646
 Emergency Contact: +923173856769
-Hostel: H11
-Room Number: 207
+Hostel: H12
+Room Number: 44
 ---
 Name: HAFIZ WAQAR AHMAD
 Reg: 2024191
@@ -6261,8 +6261,8 @@ Section: H
 Account Password: 1191
 Contact: +923727772429
 Emergency Contact: +923286438113
-Hostel: H11
-Room Number: 208
+Hostel: H12
+Room Number: 45
 ---
 Name: HAMNA QAMAR
 Reg: 2024198
@@ -6287,8 +6287,8 @@ Section: H
 Account Password: 1203
 Contact: +923686617351
 Emergency Contact: +923532540024
-Hostel: H11
-Room Number: 208
+Hostel: H12
+Room Number: 45
 ---
 Name: HAMZA ALI
 Reg: 2024204
@@ -6300,8 +6300,8 @@ Section: H
 Account Password: 1204
 Contact: +923167818062
 Emergency Contact: +923824901143
-Hostel: H11
-Room Number: 209
+Hostel: H12
+Room Number: 46
 ---
 Name: HAMZA KHAN
 Reg: 2024208
@@ -6313,8 +6313,8 @@ Section: H
 Account Password: 1208
 Contact: +923861273411
 Emergency Contact: +923764809517
-Hostel: H11
-Room Number: 209
+Hostel: H12
+Room Number: 46
 ---
 Name: HAMZA MUBASHER
 Reg: 2024209
@@ -6326,8 +6326,8 @@ Section: H
 Account Password: 1209
 Contact: +923681719630
 Emergency Contact: +923722014330
-Hostel: H11
-Room Number: 210
+Hostel: H12
+Room Number: 47
 ---
 Name: HASNAT NAWAZ
 Reg: 2024223
@@ -6339,8 +6339,8 @@ Section: H
 Account Password: 1223
 Contact: +923686724773
 Emergency Contact: +923446151267
-Hostel: H11
-Room Number: 210
+Hostel: H12
+Room Number: 47
 ---
 Name: HOORIA MUBASHAR DAR
 Reg: 2024232
@@ -6365,8 +6365,8 @@ Section: H
 Account Password: 1234
 Contact: +923925658381
 Emergency Contact: +923924776435
-Hostel: H11
-Room Number: 211
+Hostel: H12
+Room Number: 48
 ---
 Name: HUZAIFA SALEH
 Reg: 2024235
@@ -6378,8 +6378,8 @@ Section: H
 Account Password: 1235
 Contact: +923141726699
 Emergency Contact: +923254931002
-Hostel: H11
-Room Number: 211
+Hostel: H12
+Room Number: 48
 ---
 Name: JAVERIA ZAHID
 Reg: 2024250
@@ -6391,8 +6391,8 @@ Section: H
 Account Password: 1250
 Contact: +923613207952
 Emergency Contact: +923677353774
-Hostel: H11
-Room Number: 212
+Hostel: H12
+Room Number: 49
 ---
 Name: JAZIB SHAHID
 Reg: 2024251
@@ -6404,8 +6404,8 @@ Section: H
 Account Password: 1251
 Contact: +923444362207
 Emergency Contact: +923744373123
-Hostel: H11
-Room Number: 212
+Hostel: H12
+Room Number: 49
 ---
 Name: LAIBA BATOOL
 Reg: 2024261
@@ -6443,8 +6443,8 @@ Section: H
 Account Password: 1297
 Contact: +923788958722
 Emergency Contact: +923547914896
-Hostel: H11
-Room Number: 213
+Hostel: H12
+Room Number: 50
 ---
 Name: MOHAMMAD HASSAAN
 Reg: 2024302
@@ -6456,8 +6456,8 @@ Section: H
 Account Password: 1302
 Contact: +923290475226
 Emergency Contact: +923256366255
-Hostel: H11
-Room Number: 213
+Hostel: H12
+Room Number: 50
 ---
 Name: MOHAMMAD KHAN GHAFOOR
 Reg: 2024303
@@ -6469,8 +6469,8 @@ Section: H
 Account Password: 1303
 Contact: +923821680222
 Emergency Contact: +923857682621
-Hostel: H11
-Room Number: 214
+Hostel: H12
+Room Number: 51
 ---
 Name: MOIZ ALI
 Reg: 2024308
@@ -6482,8 +6482,8 @@ Section: H
 Account Password: 1308
 Contact: +923722794727
 Emergency Contact: +923123515744
-Hostel: H11
-Room Number: 214
+Hostel: H12
+Room Number: 51
 ---
 Name: MUHAMMAD AHMAD
 Reg: 2024335
@@ -6495,8 +6495,8 @@ Section: H
 Account Password: 1335
 Contact: +923522818867
 Emergency Contact: +923696703309
-Hostel: H11
-Room Number: 215
+Hostel: H12
+Room Number: 52
 ---
 Name: MUHAMMAD ASFAR JAVED
 Reg: 2024356
@@ -6508,8 +6508,8 @@ Section: H
 Account Password: 1356
 Contact: +923915790041
 Emergency Contact: +923698790706
-Hostel: H11
-Room Number: 215
+Hostel: H12
+Room Number: 52
 ---
 Name: MUHAMMAD BILAL SHAIKH
 Reg: 2023802
@@ -6521,8 +6521,8 @@ Section: H
 Account Password: 1802
 Contact: +923165262351
 Emergency Contact: +923922685318
-Hostel: H11
-Room Number: 216
+Hostel: H12
+Room Number: 53
 ---
 Name: MUHAMMAD DANISH
 Reg: 2024372
@@ -6534,8 +6534,8 @@ Section: H
 Account Password: 1372
 Contact: +923882706207
 Emergency Contact: +923664306371
-Hostel: H11
-Room Number: 216
+Hostel: H12
+Room Number: 53
 ---
 Name: MUHAMMAD HAIDER ALI
 Reg: 2024385
@@ -6547,8 +6547,8 @@ Section: H
 Account Password: 1385
 Contact: +923532363004
 Emergency Contact: +923489171880
-Hostel: H11
-Room Number: 217
+Hostel: H12
+Room Number: 54
 ---
 Name: MUHAMMAD HANZLA TARIQ
 Reg: 2024394
@@ -6560,8 +6560,8 @@ Section: H
 Account Password: 1394
 Contact: +923205156881
 Emergency Contact: +923714035878
-Hostel: H11
-Room Number: 217
+Hostel: H12
+Room Number: 54
 ---
 Name: MUHAMMAD HASSAN ASIF
 Reg: 2024399
@@ -6573,8 +6573,8 @@ Section: H
 Account Password: 1399
 Contact: +923345105808
 Emergency Contact: +923542896587
-Hostel: H11
-Room Number: 218
+Hostel: H12
+Room Number: 55
 ---
 Name: MUHAMMAD HUSNAIN
 Reg: 2024404
@@ -6586,8 +6586,8 @@ Section: H
 Account Password: 1404
 Contact: +923832802928
 Emergency Contact: +923825813962
-Hostel: H11
-Room Number: 218
+Hostel: H12
+Room Number: 55
 ---
 Name: MUHAMMAD QASIM ASGHAR
 Reg: 2024437
@@ -6599,8 +6599,8 @@ Section: H
 Account Password: 1437
 Contact: +923454980059
 Emergency Contact: +923978449499
-Hostel: H11
-Room Number: 219
+Hostel: H12
+Room Number: 56
 ---
 Name: MUHAMMAD SAAD IJAZ
 Reg: 2024447
@@ -6612,8 +6612,8 @@ Section: H
 Account Password: 1447
 Contact: +923696911538
 Emergency Contact: +923579860085
-Hostel: H11
-Room Number: 219
+Hostel: H12
+Room Number: 56
 ---
 Name: MUHAMMAD SALMAN JAVED
 Reg: 2024454
@@ -6625,8 +6625,8 @@ Section: H
 Account Password: 1454
 Contact: +923364074337
 Emergency Contact: +923273224879
-Hostel: H11
-Room Number: 220
+Hostel: H12
+Room Number: 57
 ---
 Name: MUHAMMAD YOUSAF REHMAN
 Reg: 2024490
@@ -6638,8 +6638,8 @@ Section: H
 Account Password: 1490
 Contact: +923221554736
 Emergency Contact: +923555958776
-Hostel: H11
-Room Number: 220
+Hostel: H12
+Room Number: 57
 ---
 Name: MUHAMMAD ZAID
 Reg: 2024491
@@ -6651,8 +6651,8 @@ Section: H
 Account Password: 1491
 Contact: +923231274768
 Emergency Contact: +923822938577
-Hostel: H11
-Room Number: 221
+Hostel: H12
+Room Number: 58
 ---
 Name: MUNTAHA AHMED ANSARI
 Reg: 2024502
@@ -6664,8 +6664,8 @@ Section: H
 Account Password: 1502
 Contact: +923334354672
 Emergency Contact: +923452010451
-Hostel: H11
-Room Number: 221
+Hostel: H12
+Room Number: 58
 ---
 Name: RAJA HAMZA SIKANDAR
 Reg: 2024532
@@ -6677,8 +6677,8 @@ Section: H
 Account Password: 1532
 Contact: +923953368514
 Emergency Contact: +923299950023
-Hostel: H11
-Room Number: 222
+Hostel: H12
+Room Number: 59
 ---
 Name: RAYYAN ARIF
 Reg: 2024536
@@ -6690,8 +6690,8 @@ Section: H
 Account Password: 1536
 Contact: +923596407007
 Emergency Contact: +923913804179
-Hostel: H11
-Room Number: 222
+Hostel: H12
+Room Number: 59
 ---
 Name: SHEHERYAR KHAN
 Reg: 2024586
@@ -6703,8 +6703,8 @@ Section: H
 Account Password: 1586
 Contact: +923738991089
 Emergency Contact: +923823183856
-Hostel: H11
-Room Number: 223
+Hostel: H12
+Room Number: 60
 ---
 Name: SHIHAM RAZA HUSSAMI
 Reg: 2024590
@@ -6716,8 +6716,8 @@ Section: H
 Account Password: 1590
 Contact: +923895405067
 Emergency Contact: +923698363501
-Hostel: H11
-Room Number: 223
+Hostel: H12
+Room Number: 60
 ---
 Name: SOHAIL SHAHZAD
 Reg: 2024597
@@ -6729,8 +6729,8 @@ Section: H
 Account Password: 1597
 Contact: +923367787956
 Emergency Contact: +923311501080
-Hostel: H11
-Room Number: 224
+Hostel: H12
+Room Number: 61
 ---
 Name: SYED AHSAN ALI SHAH
 Reg: 2024604
@@ -6742,8 +6742,8 @@ Section: H
 Account Password: 1604
 Contact: +923837223958
 Emergency Contact: +923737771425
-Hostel: H11
-Room Number: 224
+Hostel: H12
+Room Number: 61
 ---
 Name: SYED RAYYAN HASAN
 Reg: 2024621
@@ -6755,8 +6755,8 @@ Section: H
 Account Password: 1621
 Contact: +923279169716
 Emergency Contact: +923286334782
-Hostel: H11
-Room Number: 225
+Hostel: H12
+Room Number: 62
 ---
 Name: SYEDA FATIMA TU ZAHRA
 Reg: 2024625
@@ -6781,8 +6781,8 @@ Section: H
 Account Password: 1641
 Contact: +923303514329
 Emergency Contact: +923853153140
-Hostel: H11
-Room Number: 225
+Hostel: H12
+Room Number: 62
 ---
 Name: WAJEHA UMER
 Reg: 2024659
@@ -6794,8 +6794,8 @@ Section: H
 Account Password: 1659
 Contact: +923201981759
 Emergency Contact: +923202382310
-Hostel: H11
-Room Number: 226
+Hostel: H12
+Room Number: 63
 ---
 Name: ZAIN UL ABIDEEN TUFAIL
 Reg: 2024671
@@ -6807,8 +6807,8 @@ Section: H
 Account Password: 1671
 Contact: +923472277415
 Emergency Contact: +923782862803
-Hostel: H11
-Room Number: 226
+Hostel: H12
+Room Number: 63
 ---
 Name: ZEESHAN ALI
 Reg: 2024686
@@ -6820,8 +6820,8 @@ Section: H
 Account Password: 1686
 Contact: +923540975326
 Emergency Contact: +923900013099
-Hostel: H11
-Room Number: 227
+Hostel: H12
+Room Number: 64
 ---
 Name: ABDUL SAMAD
 Reg: 2024029
@@ -6833,8 +6833,8 @@ Section: H
 Account Password: 1029
 Contact: +923543440454
 Emergency Contact: +923221084247
-Hostel: H11
-Room Number: 227
+Hostel: H12
+Room Number: 64
 ---
 Name: ABDULLAH UZAIR
 Reg: 2024046
@@ -6846,8 +6846,8 @@ Section: H
 Account Password: 1046
 Contact: +923214991891
 Emergency Contact: +923580402568
-Hostel: H11
-Room Number: 228
+Hostel: H12
+Room Number: 65
 ---
 Name: ADEENA NAVEED
 Reg: 2024056
@@ -6859,8 +6859,8 @@ Section: H
 Account Password: 1056
 Contact: +923116666526
 Emergency Contact: +923381315661
-Hostel: H11
-Room Number: 228
+Hostel: H12
+Room Number: 65
 ---
 Name: AFRA MASOOD KHAN
 Reg: 2024059
@@ -6872,8 +6872,8 @@ Section: H
 Account Password: 1059
 Contact: +923431990514
 Emergency Contact: +923527523010
-Hostel: H11
-Room Number: 229
+Hostel: H12
+Room Number: 66
 ---
 Name: AHMAD MUMTAZ ARAIN
 Reg: 2024064
@@ -6885,8 +6885,8 @@ Section: H
 Account Password: 1064
 Contact: +923597379489
 Emergency Contact: +923843300646
-Hostel: H11
-Room Number: 229
+Hostel: H12
+Room Number: 66
 ---
 Name: AHMAD REHMAN
 Reg: 2024065
@@ -6898,8 +6898,8 @@ Section: H
 Account Password: 1065
 Contact: +923955980659
 Emergency Contact: +923119245363
-Hostel: H11
-Room Number: 230
+Hostel: H12
+Room Number: 67
 ---
 Name: ALI HASHIR
 Reg: 2024087
@@ -6911,8 +6911,8 @@ Section: H
 Account Password: 1087
 Contact: +923398885837
 Emergency Contact: +923332844066
-Hostel: H11
-Room Number: 230
+Hostel: H12
+Room Number: 67
 ---
 Name: ALI QASIM
 Reg: 2024091
@@ -6924,8 +6924,8 @@ Section: H
 Account Password: 1091
 Contact: +923786791741
 Emergency Contact: +923624565306
-Hostel: H11
-Room Number: 231
+Hostel: H12
+Room Number: 68
 ---
 Name: ALISHBA HAIDER
 Reg: 2024093
@@ -6937,8 +6937,8 @@ Section: H
 Account Password: 1093
 Contact: +923889778781
 Emergency Contact: +923598749118
-Hostel: H11
-Room Number: 231
+Hostel: H12
+Room Number: 68
 ---
 Name: AMAL WASIM
 Reg: 2024097
@@ -6950,8 +6950,8 @@ Section: H
 Account Password: 1097
 Contact: +923378615858
 Emergency Contact: +923242972976
-Hostel: H11
-Room Number: 232
+Hostel: H12
+Room Number: 69
 ---
 Name: AMNA NADEEM KHAN
 Reg: 2024102
@@ -6976,8 +6976,8 @@ Section: H
 Account Password: 1131
 Contact: +923250229387
 Emergency Contact: +923694963129
-Hostel: H11
-Room Number: 232
+Hostel: H12
+Room Number: 69
 ---
 Name: AYZA YOUSAFZAI
 Reg: 2024132
@@ -6989,8 +6989,8 @@ Section: H
 Account Password: 1132
 Contact: +923418440473
 Emergency Contact: +923566322021
-Hostel: H11
-Room Number: 233
+Hostel: H12
+Room Number: 70
 ---
 Name: FAHIM UD DIN
 Reg: 2024164
@@ -7002,8 +7002,8 @@ Section: H
 Account Password: 1164
 Contact: +923246887819
 Emergency Contact: +923569666858
-Hostel: H11
-Room Number: 233
+Hostel: H12
+Room Number: 70
 ---
 Name: FARAH TASHRIF
 Reg: 2024169
@@ -7015,8 +7015,8 @@ Section: H
 Account Password: 1169
 Contact: +923331468214
 Emergency Contact: +923399680161
-Hostel: H11
-Room Number: 234
+Hostel: H12
+Room Number: 71
 ---
 Name: HAIDER SHAH
 Reg: 2024193
@@ -7028,8 +7028,8 @@ Section: H
 Account Password: 1193
 Contact: +923218932708
 Emergency Contact: +923151201478
-Hostel: H11
-Room Number: 234
+Hostel: H12
+Room Number: 71
 ---
 Name: HAMMAD KHAN
 Reg: 2024197
@@ -7041,8 +7041,8 @@ Section: H
 Account Password: 1197
 Contact: +923997286626
 Emergency Contact: +923538633113
-Hostel: H11
-Room Number: 235
+Hostel: H12
+Room Number: 72
 ---
 Name: HANNAH SARAH
 Reg: 2024216
@@ -7067,8 +7067,8 @@ Section: H
 Account Password: 1239
 Contact: +923602678229
 Emergency Contact: +923604639191
-Hostel: H11
-Room Number: 235
+Hostel: H12
+Room Number: 72
 ---
 Name: IHTISHAM KHAN
 Reg: 2024242
@@ -7080,12 +7080,12 @@ Section: H
 Account Password: 1242
 Contact: +923380993657
 Emergency Contact: +923176387225
-Hostel: H11
-Room Number: 236
+Hostel: H12
+Room Number: 73
 ---
 Name: MARYUM NADEEM
 Reg: 2024285
-Gender: M
+Gender: F
 Age: 22
 CNIC: 50219-7659540-4
 Program: MGS
@@ -7093,8 +7093,8 @@ Section: H
 Account Password: 1285
 Contact: +923554790752
 Emergency Contact: +923912301494
-Hostel: H11
-Room Number: 236
+Hostel: GH
+Room Number: 37
 ---
 Name: Muhammad Saad
 Reg: 2024724
@@ -7106,8 +7106,8 @@ Section: H
 Account Password: 1724
 Contact: +923660265838
 Emergency Contact: +923981526324
-Hostel: H11
-Room Number: 237
+Hostel: H12
+Room Number: 73
 ---
 Name: MINAHIL JAWED QAZI
 Reg: 2024291
@@ -7119,8 +7119,8 @@ Section: H
 Account Password: 1291
 Contact: +923176114271
 Emergency Contact: +923292294252
-Hostel: H11
-Room Number: 237
+Hostel: H12
+Room Number: 74
 ---
 Name: MUHAMMAD ARSLAN JAVED
 Reg: 2024354
@@ -7132,8 +7132,8 @@ Section: H
 Account Password: 1354
 Contact: +923403833130
 Emergency Contact: +923686365728
-Hostel: H11
-Room Number: 238
+Hostel: H12
+Room Number: 74
 ---
 Name: MUHAMMAD AYYAN ALAM
 Reg: 2024362
@@ -7145,8 +7145,8 @@ Section: H
 Account Password: 1362
 Contact: +923220479283
 Emergency Contact: +923867382103
-Hostel: H11
-Room Number: 238
+Hostel: H12
+Room Number: 75
 ---
 Name: MUHAMMAD DAWOOD SHAHID
 Reg: 2024375
@@ -7158,8 +7158,8 @@ Section: H
 Account Password: 1375
 Contact: +923233598976
 Emergency Contact: +923480274300
-Hostel: H11
-Room Number: 239
+Hostel: H12
+Room Number: 75
 ---
 Name: MUHAMMAD IBRAHIM HASSAN
 Reg: 2024410
@@ -7171,8 +7171,8 @@ Section: H
 Account Password: 1410
 Contact: +923742887809
 Emergency Contact: +923911909602
-Hostel: H11
-Room Number: 239
+Hostel: H12
+Room Number: 76
 ---
 Name: Noor UL AIN
 Reg: 2024713
@@ -7185,7 +7185,7 @@ Account Password: 1713
 Contact: +923441048162
 Emergency Contact: +923842612461
 Hostel: GH
-Room Number: 37
+Room Number: 38
 ---
 Name: MUHAMMAD IBRAHIM KHAN
 Reg: 2024411
@@ -7197,8 +7197,8 @@ Section: H
 Account Password: 1411
 Contact: +923975628806
 Emergency Contact: +923714051146
-Hostel: H11
-Room Number: 240
+Hostel: H12
+Room Number: 76
 ---
 Name: MUHAMMAD JUNAID
 Reg: 2024418
@@ -7210,8 +7210,8 @@ Section: H
 Account Password: 1418
 Contact: +923873133664
 Emergency Contact: +923955498490
-Hostel: H11
-Room Number: 240
+Hostel: H12
+Room Number: 77
 ---
 Name: MUHAMMAD OWAIS KHAN
 Reg: 2024436
@@ -7223,8 +7223,8 @@ Section: H
 Account Password: 1436
 Contact: +923386174979
 Emergency Contact: +923420520277
-Hostel: H11
-Room Number: 241
+Hostel: H12
+Room Number: 77
 ---
 Name: MUHAMMAD SAAD ALI
 Reg: 2024446
@@ -7236,8 +7236,8 @@ Section: H
 Account Password: 1446
 Contact: +923345651714
 Emergency Contact: +923313941308
-Hostel: H11
-Room Number: 241
+Hostel: H12
+Room Number: 78
 ---
 Name: MUHAMMAD SHEHERYAR KHAN
 Reg: 2024466
@@ -7249,8 +7249,8 @@ Section: H
 Account Password: 1466
 Contact: +923973235645
 Emergency Contact: +923826419704
-Hostel: H11
-Room Number: 242
+Hostel: H12
+Room Number: 78
 ---
 Name: MUHAMMAD USAMA
 Reg: 2024485
@@ -7262,8 +7262,8 @@ Section: H
 Account Password: 1485
 Contact: +923395281352
 Emergency Contact: +923720049330
-Hostel: H11
-Room Number: 242
+Hostel: H12
+Room Number: 79
 ---
 Name: MUSA AZAM
 Reg: 2024505
@@ -7275,8 +7275,8 @@ Section: H
 Account Password: 1505
 Contact: +923501386306
 Emergency Contact: +923671177451
-Hostel: H11
-Room Number: 243
+Hostel: H12
+Room Number: 79
 ---
 Name: SAAD ARSAL SALEEMI
 Reg: 2024544
@@ -7288,8 +7288,8 @@ Section: H
 Account Password: 1544
 Contact: +923630296353
 Emergency Contact: +923519719017
-Hostel: H11
-Room Number: 243
+Hostel: H12
+Room Number: 80
 ---
 Name: Muhammad Hanzla Saif
 Reg: 2024718
@@ -7301,8 +7301,8 @@ Section: H
 Account Password: 1718
 Contact: +923151993506
 Emergency Contact: +923308414913
-Hostel: H11
-Room Number: 244
+Hostel: H12
+Room Number: 80
 ---
 Name: SANWEED EJAZ
 Reg: 2024563
@@ -7314,8 +7314,8 @@ Section: H
 Account Password: 1563
 Contact: +923354497369
 Emergency Contact: +923529258313
-Hostel: H11
-Room Number: 244
+Hostel: H12
+Room Number: 81
 ---
 Name: SARA KHAN
 Reg: 2024565
@@ -7340,8 +7340,8 @@ Section: H
 Account Password: 1578
 Contact: +923389203273
 Emergency Contact: +923863604616
-Hostel: H11
-Room Number: 245
+Hostel: H12
+Room Number: 81
 ---
 Name: SIKANDAR MUNIR
 Reg: 2024593
@@ -7353,8 +7353,8 @@ Section: H
 Account Password: 1593
 Contact: +923441310913
 Emergency Contact: +923328571055
-Hostel: H11
-Room Number: 245
+Hostel: H12
+Room Number: 82
 ---
 Name: TAIMOOR SALEEM KHAN LODHI
 Reg: 2024632
@@ -7366,8 +7366,8 @@ Section: H
 Account Password: 1632
 Contact: +923417303270
 Emergency Contact: +923869512069
-Hostel: H11
-Room Number: 246
+Hostel: H12
+Room Number: 82
 ---
 Name: WALEED AHMED
 Reg: 2024660
@@ -7379,8 +7379,8 @@ Section: H
 Account Password: 1660
 Contact: +923395119465
 Emergency Contact: +923988835062
-Hostel: H11
-Room Number: 246
+Hostel: H12
+Room Number: 83
 ---
 Name: ZAINAB NAVEED
 Reg: 2024676
@@ -7393,7 +7393,7 @@ Account Password: 1676
 Contact: +923333903072
 Emergency Contact: +923688727438
 Hostel: GH
-Room Number: 38
+Room Number: 39
 ---
 Name: ZAVIBA ADEEL
 Reg: 2024684
@@ -7405,8 +7405,8 @@ Section: H
 Account Password: 1684
 Contact: +923399260959
 Emergency Contact: +923381325751
-Hostel: H11
-Room Number: 247
+Hostel: H12
+Room Number: 83
 ---
 Name: ZOYA JADOON
 Reg: 2024690
@@ -7431,8 +7431,8 @@ Section: H
 Account Password: 1695
 Contact: +923841861048
 Emergency Contact: +923331605955
-Hostel: H11
-Room Number: 247
+Hostel: H12
+Room Number: 84
 ---
 Name: Syeda Urshia Baharat Aziz
 Reg: 2024714
@@ -7445,7 +7445,7 @@ Account Password: 1714
 Contact: +923514188378
 Emergency Contact: +923299642561
 Hostel: GH
-Room Number: 39
+Room Number: 40
 ---
 Name: Sikander Ali
 Reg: 2024720
@@ -7457,8 +7457,8 @@ Section: H
 Account Password: 1720
 Contact: +923427717291
 Emergency Contact: +923708322095
-Hostel: H11
-Room Number: 248
+Hostel: H12
+Room Number: 84
 ---
 Name: DANIYAL KHAN
 Reg: 2024696
@@ -7470,8 +7470,8 @@ Section: H
 Account Password: 1696
 Contact: +923369825360
 Emergency Contact: +923451534887
-Hostel: H11
-Room Number: 248
+Hostel: H12
+Room Number: 85
 ---
 Name: MUHAMMAD JUNAID MALIK
 Reg: 2024697
@@ -7483,8 +7483,8 @@ Section: H
 Account Password: 1697
 Contact: +923380643035
 Emergency Contact: +923690835109
-Hostel: H11
-Room Number: 249
+Hostel: H12
+Room Number: 85
 ---
 Name: ABDUL MUQEET
 Reg: 2024016
@@ -7496,8 +7496,8 @@ Section: I
 Account Password: 1016
 Contact: +923946569502
 Emergency Contact: +923152617897
-Hostel: H11
-Room Number: 249
+Hostel: H12
+Room Number: 86
 ---
 Name: ABDUL REHMAN
 Reg: 2024022
@@ -7509,8 +7509,8 @@ Section: I
 Account Password: 1022
 Contact: +923831560994
 Emergency Contact: +923537953068
-Hostel: H11
-Room Number: 250
+Hostel: H12
+Room Number: 86
 ---
 Name: ADNAN HUNZAI
 Reg: 2024057
@@ -7522,8 +7522,8 @@ Section: I
 Account Password: 1057
 Contact: +923752181638
 Emergency Contact: +923524800870
-Hostel: H11
-Room Number: 250
+Hostel: H12
+Room Number: 87
 ---
 Name: AFNAN RAUF
 Reg: 2024058
@@ -7535,8 +7535,8 @@ Section: I
 Account Password: 1058
 Contact: +923713670121
 Emergency Contact: +923412561627
-Hostel: H11
-Room Number: 251
+Hostel: H12
+Room Number: 87
 ---
 Name: AHMER MURTAZA
 Reg: 2024070
@@ -7548,8 +7548,8 @@ Section: I
 Account Password: 1070
 Contact: +923529033769
 Emergency Contact: +923961578449
-Hostel: H11
-Room Number: 251
+Hostel: H12
+Room Number: 88
 ---
 Name: ALEENA RIZWAN
 Reg: 2024082
@@ -7574,8 +7574,8 @@ Section: I
 Account Password: 1083
 Contact: +923619051706
 Emergency Contact: +923497941063
-Hostel: H11
-Room Number: 252
+Hostel: H12
+Room Number: 88
 ---
 Name: ALI TARIQ
 Reg: 2024092
@@ -7587,8 +7587,8 @@ Section: I
 Account Password: 1092
 Contact: +923224073804
 Emergency Contact: +923572262302
-Hostel: H11
-Room Number: 252
+Hostel: H12
+Room Number: 89
 ---
 Name: AREEBA REHMAN
 Reg: 2024112
@@ -7600,8 +7600,8 @@ Section: I
 Account Password: 1112
 Contact: +923694752606
 Emergency Contact: +923120996122
-Hostel: H11
-Room Number: 253
+Hostel: H12
+Room Number: 89
 ---
 Name: BASIM AMAN MALIK
 Reg: 2024139
@@ -7613,8 +7613,8 @@ Section: I
 Account Password: 1139
 Contact: +923766522618
 Emergency Contact: +923360262348
-Hostel: H11
-Room Number: 253
+Hostel: H12
+Room Number: 90
 ---
 Name: AAIMA RIZWAN
 Reg: 2024002
@@ -7626,8 +7626,8 @@ Section: I
 Account Password: 1002
 Contact: +923471893692
 Emergency Contact: +923462898715
-Hostel: H11
-Room Number: 254
+Hostel: H12
+Room Number: 90
 ---
 Name: ESHA FATIMA
 Reg: 2024159
@@ -7640,7 +7640,7 @@ Account Password: 1159
 Contact: +923192160272
 Emergency Contact: +923944101110
 Hostel: GH
-Room Number: 40
+Room Number: 41
 ---
 Name: ESHMAL AYAZ
 Reg: 2024162
@@ -7652,8 +7652,8 @@ Section: I
 Account Password: 1162
 Contact: +923708690449
 Emergency Contact: +923172063219
-Hostel: H11
-Room Number: 254
+Hostel: H12
+Room Number: 91
 ---
 Name: FATIMA TABASUM
 Reg: 2024178
@@ -7679,7 +7679,7 @@ Account Password: 1179
 Contact: +923723274288
 Emergency Contact: +923652552824
 Hostel: GH
-Room Number: 41
+Room Number: 42
 ---
 Name: HALAR AHMED
 Reg: 2024194
@@ -7691,8 +7691,8 @@ Section: I
 Account Password: 1194
 Contact: +923270513091
 Emergency Contact: +923102642821
-Hostel: H11
-Room Number: 255
+Hostel: H12
+Room Number: 91
 ---
 Name: HAMNAH FAHAD
 Reg: 2024200
@@ -7717,8 +7717,8 @@ Section: I
 Account Password: 1274
 Contact: +923890419206
 Emergency Contact: +923380848434
-Hostel: H11
-Room Number: 255
+Hostel: H12
+Room Number: 92
 ---
 Name: MIAN ABDUL KABEER
 Reg: 2024288
@@ -7730,8 +7730,8 @@ Section: I
 Account Password: 1288
 Contact: +923133143785
 Emergency Contact: +923596513504
-Hostel: H11
-Room Number: 256
+Hostel: H12
+Room Number: 92
 ---
 Name: MOHAMMAD ALI
 Reg: 2024300
@@ -7743,8 +7743,8 @@ Section: I
 Account Password: 1300
 Contact: +923299103731
 Emergency Contact: +923519305627
-Hostel: H11
-Room Number: 256
+Hostel: H12
+Room Number: 93
 ---
 Name: MOMIN TAJ
 Reg: 2024309
@@ -7756,8 +7756,8 @@ Section: I
 Account Password: 1309
 Contact: +923498986591
 Emergency Contact: +923254444837
-Hostel: H11
-Room Number: 257
+Hostel: H12
+Room Number: 93
 ---
 Name: MUHAMMAD ABDULLAH
 Reg: 2024320
@@ -7769,8 +7769,8 @@ Section: I
 Account Password: 1320
 Contact: +923809867970
 Emergency Contact: +923644496130
-Hostel: H11
-Room Number: 257
+Hostel: H12
+Room Number: 94
 ---
 Name: MUHAMMAD AHMAD DANIAL
 Reg: 2024336
@@ -7782,8 +7782,8 @@ Section: I
 Account Password: 1336
 Contact: +923328216655
 Emergency Contact: +923770125140
-Hostel: H11
-Room Number: 258
+Hostel: H12
+Room Number: 94
 ---
 Name: MUHAMMAD AHMAD RASHID
 Reg: 2024337
@@ -7795,8 +7795,8 @@ Section: I
 Account Password: 1337
 Contact: +923776446999
 Emergency Contact: +923837891942
-Hostel: H11
-Room Number: 258
+Hostel: H12
+Room Number: 95
 ---
 Name: MUHAMMAD ARHAM ATIF
 Reg: 2024352
@@ -7808,8 +7808,8 @@ Section: I
 Account Password: 1352
 Contact: +923348106907
 Emergency Contact: +923248182441
-Hostel: H11
-Room Number: 259
+Hostel: H12
+Room Number: 95
 ---
 Name: MUHAMMAD BILAL YASIN
 Reg: 2024367
@@ -7821,8 +7821,8 @@ Section: I
 Account Password: 1367
 Contact: +923776758934
 Emergency Contact: +923485091769
-Hostel: H11
-Room Number: 259
+Hostel: H12
+Room Number: 96
 ---
 Name: MUHAMMAD FAHAD REHMAN
 Reg: 2024377
@@ -7834,8 +7834,8 @@ Section: I
 Account Password: 1377
 Contact: +923543683252
 Emergency Contact: +923852635267
-Hostel: H11
-Room Number: 260
+Hostel: H12
+Room Number: 96
 ---
 Name: MUHAMMAD HAMZAH HAMAD
 Reg: 2024393
@@ -7847,8 +7847,8 @@ Section: I
 Account Password: 1393
 Contact: +923821251288
 Emergency Contact: +923324960262
-Hostel: H11
-Room Number: 260
+Hostel: H12
+Room Number: 97
 ---
 Name: MUHAMMAD HUNZLA
 Reg: 2024403
@@ -7860,8 +7860,8 @@ Section: I
 Account Password: 1403
 Contact: +923257951962
 Emergency Contact: +923168578727
-Hostel: H11
-Room Number: 261
+Hostel: H12
+Room Number: 97
 ---
 Name: MUHAMMAD IBRAHIM SOHAIL
 Reg: 2024412
@@ -7873,8 +7873,8 @@ Section: I
 Account Password: 1412
 Contact: +923839807802
 Emergency Contact: +923251371544
-Hostel: H11
-Room Number: 261
+Hostel: H12
+Room Number: 98
 ---
 Name: MUHAMMAD JAFFER KHAN
 Reg: 2024417
@@ -7886,8 +7886,8 @@ Section: I
 Account Password: 1417
 Contact: +923752620422
 Emergency Contact: +923799644867
-Hostel: H11
-Room Number: 262
+Hostel: H12
+Room Number: 98
 ---
 Name: MUHAMMAD ROHAAN JAMSHAID
 Reg: 2024442
@@ -7899,8 +7899,8 @@ Section: I
 Account Password: 1442
 Contact: +923413428837
 Emergency Contact: +923856153996
-Hostel: H11
-Room Number: 262
+Hostel: H12
+Room Number: 99
 ---
 Name: MUHAMMAD SAIF ALI
 Reg: 2024451
@@ -7912,8 +7912,8 @@ Section: I
 Account Password: 1451
 Contact: +923878918401
 Emergency Contact: +923365522856
-Hostel: H11
-Room Number: 263
+Hostel: H12
+Room Number: 99
 ---
 Name: MUNAWWAR WAHAB
 Reg: 2024501
@@ -7925,8 +7925,8 @@ Section: I
 Account Password: 1501
 Contact: +923822599797
 Emergency Contact: +923111999758
-Hostel: H11
-Room Number: 263
+Hostel: H12
+Room Number: 100
 ---
 Name: NEESA JAWAD KHAWAJA
 Reg: 2024517
@@ -7938,8 +7938,8 @@ Section: I
 Account Password: 1517
 Contact: +923369674709
 Emergency Contact: +923776420165
-Hostel: H11
-Room Number: 264
+Hostel: H12
+Room Number: 100
 ---
 Name: SAADIA ASGHAR
 Reg: 2024550
@@ -7951,8 +7951,8 @@ Section: I
 Account Password: 1550
 Contact: +923648526017
 Emergency Contact: +923405851675
-Hostel: H11
-Room Number: 264
+Hostel: H12
+Room Number: 101
 ---
 Name: SARA FAYSAL
 Reg: 2024564
@@ -7965,7 +7965,7 @@ Account Password: 1564
 Contact: +923567542673
 Emergency Contact: +923505306911
 Hostel: GH
-Room Number: 42
+Room Number: 43
 ---
 Name: SARDAR HASSAAN AHMED
 Reg: 2024566
@@ -7977,8 +7977,8 @@ Section: I
 Account Password: 1566
 Contact: +923676093795
 Emergency Contact: +923663778645
-Hostel: H11
-Room Number: 265
+Hostel: H12
+Room Number: 101
 ---
 Name: SHAJIA ALI ANWAR
 Reg: 2024579
@@ -7990,8 +7990,8 @@ Section: I
 Account Password: 1579
 Contact: +923841399168
 Emergency Contact: +923933424956
-Hostel: H11
-Room Number: 265
+Hostel: H12
+Room Number: 102
 ---
 Name: SHARJEEL ELLAHI CHAUDHRY
 Reg: 2024582
@@ -8003,8 +8003,8 @@ Section: I
 Account Password: 1582
 Contact: +923809968441
 Emergency Contact: +923299757647
-Hostel: H11
-Room Number: 266
+Hostel: H12
+Room Number: 102
 ---
 Name: SHARMEEN SHAHID
 Reg: 2024583
@@ -8016,8 +8016,8 @@ Section: I
 Account Password: 1583
 Contact: +923733421042
 Emergency Contact: +923409605765
-Hostel: H11
-Room Number: 266
+Hostel: H12
+Room Number: 103
 ---
 Name: SOHAIL KARIM
 Reg: 2024596
@@ -8029,8 +8029,8 @@ Section: I
 Account Password: 1596
 Contact: +923644090317
 Emergency Contact: +923837484265
-Hostel: H11
-Room Number: 267
+Hostel: H12
+Room Number: 103
 ---
 Name: SYEDA DANIA ALI NAQVI
 Reg: 2024624
@@ -8055,8 +8055,8 @@ Section: I
 Account Password: 1630
 Contact: +923691181529
 Emergency Contact: +923919950524
-Hostel: H11
-Room Number: 267
+Hostel: H12
+Room Number: 104
 ---
 Name: TALAL TARIQ
 Reg: 2024633
@@ -8068,8 +8068,8 @@ Section: I
 Account Password: 1633
 Contact: +923470405437
 Emergency Contact: +923696031384
-Hostel: H11
-Room Number: 268
+Hostel: H12
+Room Number: 104
 ---
 Name: TASSAWAR HUSSAIN
 Reg: 2024636
@@ -8081,8 +8081,8 @@ Section: I
 Account Password: 1636
 Contact: +923295647574
 Emergency Contact: +923622345053
-Hostel: H11
-Room Number: 268
+Hostel: H12
+Room Number: 105
 ---
 Name: TEHREEM KHAN
 Reg: 2024637
@@ -8094,8 +8094,8 @@ Section: I
 Account Password: 1637
 Contact: +923847476919
 Emergency Contact: +923646146122
-Hostel: H11
-Room Number: 269
+Hostel: H12
+Room Number: 105
 ---
 Name: UMAR ABDULLAH
 Reg: 2024644
@@ -8107,8 +8107,8 @@ Section: I
 Account Password: 1644
 Contact: +923699015051
 Emergency Contact: +923922349734
-Hostel: H11
-Room Number: 269
+Hostel: H12
+Room Number: 106
 ---
 Name: USAMA MEHMOOD
 Reg: 2024652
@@ -8120,8 +8120,8 @@ Section: I
 Account Password: 1652
 Contact: +923116052690
 Emergency Contact: +923670832449
-Hostel: H11
-Room Number: 270
+Hostel: H12
+Room Number: 106
 ---
 Name: WAHAJ SAJID
 Reg: 2024657
@@ -8133,8 +8133,8 @@ Section: I
 Account Password: 1657
 Contact: +923651890816
 Emergency Contact: +923997252749
-Hostel: H11
-Room Number: 270
+Hostel: H12
+Room Number: 107
 ---
 Name: ZAINAB AWAIS
 Reg: 2024672
@@ -8147,7 +8147,7 @@ Account Password: 1672
 Contact: +923881465011
 Emergency Contact: +923613745899
 Hostel: GH
-Room Number: 43
+Room Number: 44
 ---
 Name: ZAINAB BINT E NAEEM
 Reg: 2024673
@@ -8173,7 +8173,7 @@ Account Password: 1677
 Contact: +923321302422
 Emergency Contact: +923565358845
 Hostel: GH
-Room Number: 44
+Room Number: 45
 ---
 Name: ZAKARYA AHMAD
 Reg: 2024678
@@ -8185,8 +8185,8 @@ Section: I
 Account Password: 1678
 Contact: +923421061349
 Emergency Contact: +923594856428
-Hostel: H11
-Room Number: 271
+Hostel: H12
+Room Number: 107
 ---
 Name: ABDAAL NAZAR
 Reg: 2024006
@@ -8198,8 +8198,8 @@ Section: J
 Account Password: 1006
 Contact: +923912636738
 Emergency Contact: +923275763119
-Hostel: H11
-Room Number: 271
+Hostel: H12
+Room Number: 108
 ---
 Name: ABDULLAH AHSAN
 Reg: 2024034
@@ -8211,8 +8211,8 @@ Section: J
 Account Password: 1034
 Contact: +923400328261
 Emergency Contact: +923857535439
-Hostel: H11
-Room Number: 272
+Hostel: H12
+Room Number: 108
 ---
 Name: AGHA SALAAT UL BARI
 Reg: 2024060
@@ -8224,8 +8224,8 @@ Section: J
 Account Password: 1060
 Contact: +923612622953
 Emergency Contact: +923700423734
-Hostel: H11
-Room Number: 272
+Hostel: H12
+Room Number: 109
 ---
 Name: AHAD SOHAIL
 Reg: 2024061
@@ -8237,8 +8237,8 @@ Section: J
 Account Password: 1061
 Contact: +923292324821
 Emergency Contact: +923269592793
-Hostel: H11
-Room Number: 273
+Hostel: H12
+Room Number: 109
 ---
 Name: AIZAZ RAFIQUE
 Reg: 2024079
@@ -8263,8 +8263,8 @@ Section: J
 Account Password: 1086
 Contact: +923172449516
 Emergency Contact: +923782869758
-Hostel: H11
-Room Number: 273
+Hostel: H12
+Room Number: 110
 ---
 Name: AMNA MALIK
 Reg: 2024101
@@ -8277,7 +8277,7 @@ Account Password: 1101
 Contact: +923305578583
 Emergency Contact: +923606284179
 Hostel: GH
-Room Number: 45
+Room Number: 46
 ---
 Name: ATEEB AHMED
 Reg: 2024120
@@ -8289,8 +8289,8 @@ Section: J
 Account Password: 1120
 Contact: +923875165696
 Emergency Contact: +923947138116
-Hostel: H11
-Room Number: 274
+Hostel: H12
+Room Number: 110
 ---
 Name: DANIYAL AHMED
 Reg: 2024146
@@ -8302,8 +8302,8 @@ Section: J
 Account Password: 1146
 Contact: +923133573826
 Emergency Contact: +923826051766
-Hostel: H11
-Room Number: 274
+Hostel: H12
+Room Number: 111
 ---
 Name: FARZEEN FATIMA
 Reg: 2024171
@@ -8328,8 +8328,8 @@ Section: J
 Account Password: 1190
 Contact: +923234066146
 Emergency Contact: +923828239835
-Hostel: H11
-Room Number: 275
+Hostel: H12
+Room Number: 111
 ---
 Name: HANNAAN RASHID
 Reg: 2024215
@@ -8341,8 +8341,8 @@ Section: J
 Account Password: 1215
 Contact: +923889405387
 Emergency Contact: +923280076329
-Hostel: H11
-Room Number: 275
+Hostel: H12
+Room Number: 112
 ---
 Name: IRTAZA SHAHBAZ
 Reg: 2024245
@@ -8354,8 +8354,8 @@ Section: J
 Account Password: 1245
 Contact: +923603724894
 Emergency Contact: +923860054798
-Hostel: H11
-Room Number: 276
+Hostel: H12
+Room Number: 112
 ---
 Name: MUHAMMAD ABDULAH
 Reg: 2024318
@@ -8367,8 +8367,8 @@ Section: J
 Account Password: 1318
 Contact: +923412823780
 Emergency Contact: +923309869961
-Hostel: H11
-Room Number: 276
+Hostel: H12
+Room Number: 113
 ---
 Name: MUHAMMAD ABDULLAH SALEEM
 Reg: 2024329
@@ -8380,8 +8380,8 @@ Section: J
 Account Password: 1329
 Contact: +923691120836
 Emergency Contact: +923990101686
-Hostel: H11
-Room Number: 277
+Hostel: H12
+Room Number: 113
 ---
 Name: MUHAMMAD ABU BAKAR
 Reg: 2024332
@@ -8393,8 +8393,8 @@ Section: J
 Account Password: 1332
 Contact: +923746037876
 Emergency Contact: +923948824157
-Hostel: H11
-Room Number: 277
+Hostel: H12
+Room Number: 114
 ---
 Name: MUHAMMAD ALI
 Reg: 2024342
@@ -8406,8 +8406,8 @@ Section: J
 Account Password: 1342
 Contact: +923435522843
 Emergency Contact: +923716224114
-Hostel: H11
-Room Number: 278
+Hostel: H12
+Room Number: 114
 ---
 Name: MUHAMMAD ALI ABBASI
 Reg: 2024343
@@ -8419,8 +8419,8 @@ Section: J
 Account Password: 1343
 Contact: +923238262083
 Emergency Contact: +923670581585
-Hostel: H11
-Room Number: 278
+Hostel: H12
+Room Number: 115
 ---
 Name: MUHAMMAD ANZAR MUBASHIR
 Reg: 2024351
@@ -8432,8 +8432,8 @@ Section: J
 Account Password: 1351
 Contact: +923135486678
 Emergency Contact: +923495103663
-Hostel: H11
-Room Number: 279
+Hostel: H12
+Room Number: 115
 ---
 Name: MUHAMMAD AYAAN ASAD
 Reg: 2024359
@@ -8445,8 +8445,8 @@ Section: J
 Account Password: 1359
 Contact: +923641503517
 Emergency Contact: +923222408285
-Hostel: H11
-Room Number: 279
+Hostel: H12
+Room Number: 116
 ---
 Name: MUHAMMAD HAIDER
 Reg: 2024384
@@ -8458,8 +8458,8 @@ Section: J
 Account Password: 1384
 Contact: +923867307629
 Emergency Contact: +923558178529
-Hostel: H11
-Room Number: 280
+Hostel: H12
+Room Number: 116
 ---
 Name: MUHAMMAD HAIDER ANSARI
 Reg: 2024386
@@ -8471,8 +8471,8 @@ Section: J
 Account Password: 1386
 Contact: +923627326751
 Emergency Contact: +923323546778
-Hostel: H11
-Room Number: 280
+Hostel: H12
+Room Number: 117
 ---
 Name: MUHAMMAD HUSNAIN JATOI
 Reg: 2024405
@@ -8484,8 +8484,8 @@ Section: J
 Account Password: 1405
 Contact: +923464348804
 Emergency Contact: +923215351171
-Hostel: H11
-Room Number: 281
+Hostel: H12
+Room Number: 117
 ---
 Name: MUHAMMAD MUSA
 Reg: 2024428
@@ -8497,8 +8497,8 @@ Section: J
 Account Password: 1428
 Contact: +923338389106
 Emergency Contact: +923768102081
-Hostel: H11
-Room Number: 281
+Hostel: H12
+Room Number: 118
 ---
 Name: MUHAMMAD NAFAY BIN VAQAS
 Reg: 2024432
@@ -8510,8 +8510,8 @@ Section: J
 Account Password: 1432
 Contact: +923863091145
 Emergency Contact: +923945743629
-Hostel: H11
-Room Number: 282
+Hostel: H12
+Room Number: 118
 ---
 Name: MUHAMMAD SAMEED TARIQ
 Reg: 2024455
@@ -8523,8 +8523,8 @@ Section: J
 Account Password: 1455
 Contact: +923971066880
 Emergency Contact: +923919256335
-Hostel: H11
-Room Number: 282
+Hostel: H12
+Room Number: 119
 ---
 Name: MUHAMMAD SUDAIS
 Reg: 2024469
@@ -8536,8 +8536,8 @@ Section: J
 Account Password: 1469
 Contact: +923134855251
 Emergency Contact: +923274954109
-Hostel: H11
-Room Number: 283
+Hostel: H12
+Room Number: 119
 ---
 Name: MUHAMMAD TAHA
 Reg: 2024474
@@ -8549,8 +8549,8 @@ Section: J
 Account Password: 1474
 Contact: +923744333179
 Emergency Contact: +923908536863
-Hostel: H11
-Room Number: 283
+Hostel: H12
+Room Number: 120
 ---
 Name: MUHAMMAD ZAKRIA KHAN
 Reg: 2024493
@@ -8562,8 +8562,8 @@ Section: J
 Account Password: 1493
 Contact: +923157187003
 Emergency Contact: +923237260246
-Hostel: H11
-Room Number: 284
+Hostel: H12
+Room Number: 120
 ---
 Name: MUHAMMAD ZORAIZ HUSNAIN
 Reg: 2024498
@@ -8575,8 +8575,8 @@ Section: J
 Account Password: 1498
 Contact: +923742734849
 Emergency Contact: +923733135823
-Hostel: H11
-Room Number: 284
+Hostel: H12
+Room Number: 121
 ---
 Name: RAHAM DIL
 Reg: 2024529
@@ -8588,8 +8588,8 @@ Section: J
 Account Password: 1529
 Contact: +923856540526
 Emergency Contact: +923357123648
-Hostel: H11
-Room Number: 285
+Hostel: H12
+Room Number: 121
 ---
 Name: SADIA AHMAD
 Reg: 2024553
@@ -8601,8 +8601,8 @@ Section: J
 Account Password: 1553
 Contact: +923410787086
 Emergency Contact: +923933822237
-Hostel: H11
-Room Number: 285
+Hostel: H12
+Room Number: 122
 ---
 Name: SHAYAN RIZWAN YAZDANIE
 Reg: 2024585
@@ -8614,8 +8614,8 @@ Section: J
 Account Password: 1585
 Contact: +923796043656
 Emergency Contact: +923634556504
-Hostel: H11
-Room Number: 286
+Hostel: H12
+Room Number: 122
 ---
 Name: SYED MUHAMMAD ALI HASSAN
 Reg: 2024616
@@ -8627,8 +8627,8 @@ Section: J
 Account Password: 1616
 Contact: +923271505475
 Emergency Contact: +923436885723
-Hostel: H11
-Room Number: 286
+Hostel: H12
+Room Number: 123
 ---
 Name: SYED ZAIN ALI SHAH BOKHARY
 Reg: 2024623
@@ -8640,8 +8640,8 @@ Section: J
 Account Password: 1623
 Contact: +923801632704
 Emergency Contact: +923924754285
-Hostel: H11
-Room Number: 287
+Hostel: H12
+Room Number: 123
 ---
 Name: UMER FAISAL
 Reg: 2024647
@@ -8653,8 +8653,8 @@ Section: J
 Account Password: 1647
 Contact: +923462460386
 Emergency Contact: +923368513203
-Hostel: H11
-Room Number: 287
+Hostel: H12
+Room Number: 124
 ---
 Name: WARDA
 Reg: 2024662
@@ -8667,7 +8667,7 @@ Account Password: 1662
 Contact: +923115463947
 Emergency Contact: +923496828250
 Hostel: GH
-Room Number: 46
+Room Number: 47
 ---
 Name: ZAHRA ALIABBAS MARIWALA
 Reg: 2024668
@@ -8692,8 +8692,8 @@ Section: J
 Account Password: 1722
 Contact: +923492856325
 Emergency Contact: +923790852782
-Hostel: H11
-Room Number: 288
+Hostel: H12
+Room Number: 124
 ---
 Name: AHMED SHAHAN
 Reg: 2024068
@@ -8705,8 +8705,8 @@ Section: J
 Account Password: 1068
 Contact: +923517926756
 Emergency Contact: +923572688999
-Hostel: H11
-Room Number: 288
+Hostel: H12
+Room Number: 125
 ---
 Name: ALYSHAAN RASHEED HUNZAI
 Reg: 2024095
@@ -8718,8 +8718,8 @@ Section: J
 Account Password: 1095
 Contact: +923946660124
 Emergency Contact: +923128640624
-Hostel: H11
-Room Number: 289
+Hostel: H12
+Room Number: 125
 ---
 Name: AMAIL
 Reg: 2024096
@@ -8731,8 +8731,8 @@ Section: J
 Account Password: 1096
 Contact: +923393544669
 Emergency Contact: +923635406415
-Hostel: H11
-Room Number: 289
+Hostel: H12
+Room Number: 126
 ---
 Name: AMNA ATIF
 Reg: 2024100
@@ -8745,7 +8745,7 @@ Account Password: 1100
 Contact: +923952287952
 Emergency Contact: +923119798826
 Hostel: GH
-Room Number: 47
+Room Number: 48
 ---
 Name: ANNAS SOHAIL
 Reg: 2024105
@@ -8757,8 +8757,8 @@ Section: J
 Account Password: 1105
 Contact: +923392612868
 Emergency Contact: +923608828640
-Hostel: H11
-Room Number: 290
+Hostel: H12
+Room Number: 126
 ---
 Name: ANUM SHAHZADI
 Reg: 2024107
@@ -8784,7 +8784,7 @@ Account Password: 1145
 Contact: +923121182047
 Emergency Contact: +923396623289
 Hostel: GH
-Room Number: 48
+Room Number: 49
 ---
 Name: ESHAAL BINT SHAHAB
 Reg: 2024160
@@ -8809,8 +8809,8 @@ Section: J
 Account Password: 1163
 Contact: +923314521181
 Emergency Contact: +923855322796
-Hostel: H11
-Room Number: 290
+Hostel: H12
+Room Number: 127
 ---
 Name: KHADEEJA SULTAN
 Reg: 2023273
@@ -8823,7 +8823,7 @@ Account Password: 1273
 Contact: +923984010273
 Emergency Contact: +923943883364
 Hostel: GH
-Room Number: 49
+Room Number: 50
 ---
 Name: FATIMA ALI
 Reg: 2024173
@@ -8848,8 +8848,8 @@ Section: J
 Account Password: 1186
 Contact: +923436908963
 Emergency Contact: +923508440868
-Hostel: H11
-Room Number: 291
+Hostel: H12
+Room Number: 127
 ---
 Name: IBRAHIM
 Reg: 2024236
@@ -8861,8 +8861,8 @@ Section: J
 Account Password: 1236
 Contact: +923767485633
 Emergency Contact: +923328387119
-Hostel: H11
-Room Number: 291
+Hostel: H12
+Room Number: 128
 ---
 Name: KINZA MUZZAFAR
 Reg: 2024258
@@ -8874,8 +8874,8 @@ Section: J
 Account Password: 1258
 Contact: +923122514311
 Emergency Contact: +923730448849
-Hostel: H11
-Room Number: 292
+Hostel: H12
+Room Number: 128
 ---
 Name: MAHAM FAISAL
 Reg: 2024267
@@ -8887,8 +8887,8 @@ Section: J
 Account Password: 1267
 Contact: +923127775433
 Emergency Contact: +923406917277
-Hostel: H11
-Room Number: 292
+Hostel: H12
+Room Number: 129
 ---
 Name: MANZOOR AHMED
 Reg: 2024279
@@ -8900,8 +8900,8 @@ Section: J
 Account Password: 1279
 Contact: +923402531407
 Emergency Contact: +923976348442
-Hostel: H11
-Room Number: 293
+Hostel: H12
+Room Number: 129
 ---
 Name: MUDASIR AKBAR
 Reg: 2024311
@@ -8913,8 +8913,8 @@ Section: J
 Account Password: 1311
 Contact: +923287787761
 Emergency Contact: +923831039952
-Hostel: H11
-Room Number: 293
+Hostel: H12
+Room Number: 130
 ---
 Name: MUHAMMAD ATIF TAYMUR
 Reg: 2024357
@@ -8926,8 +8926,8 @@ Section: J
 Account Password: 1357
 Contact: +923805667176
 Emergency Contact: +923478866021
-Hostel: H11
-Room Number: 294
+Hostel: H12
+Room Number: 130
 ---
 Name: MUHAMMAD HASSAAN ANEES
 Reg: 2024398
@@ -8939,8 +8939,8 @@ Section: J
 Account Password: 1398
 Contact: +923661843046
 Emergency Contact: +923536865605
-Hostel: H11
-Room Number: 294
+Hostel: H12
+Room Number: 131
 ---
 Name: MUHAMMAD RAHIM IRFAN
 Reg: 2024438
@@ -8952,8 +8952,8 @@ Section: J
 Account Password: 1438
 Contact: +923429668205
 Emergency Contact: +923667265514
-Hostel: H11
-Room Number: 295
+Hostel: H12
+Room Number: 131
 ---
 Name: MUHAMMAD SUDAIS KHAN
 Reg: 2024471
@@ -8965,8 +8965,8 @@ Section: J
 Account Password: 1471
 Contact: +923209625868
 Emergency Contact: +923899898906
-Hostel: H11
-Room Number: 295
+Hostel: H12
+Room Number: 132
 ---
 Name: MUJEEB AHMAD KHAN
 Reg: 2024499
@@ -8978,8 +8978,8 @@ Section: J
 Account Password: 1499
 Contact: +923207279680
 Emergency Contact: +923444121119
-Hostel: H11
-Room Number: 296
+Hostel: H12
+Room Number: 132
 ---
 Name: SUDAIS AHMAD KHAN
 Reg: 2024599
@@ -8991,8 +8991,8 @@ Section: J
 Account Password: 1599
 Contact: +923240719304
 Emergency Contact: +923207194827
-Hostel: H11
-Room Number: 296
+Hostel: H12
+Room Number: 133
 ---
 Name: SYED HASSAN NAQVI
 Reg: 2024609
@@ -9004,8 +9004,8 @@ Section: J
 Account Password: 1609
 Contact: +923654041473
 Emergency Contact: +923288977917
-Hostel: H11
-Room Number: 297
+Hostel: H12
+Room Number: 133
 ---
 Name: SYEDA MARIA BUKHARI
 Reg: 2024628
@@ -9018,7 +9018,7 @@ Account Password: 1628
 Contact: +923522723084
 Emergency Contact: +923557697879
 Hostel: GH
-Room Number: 50
+Room Number: 51
 ---
 Name: TAHA RASOOL
 Reg: 2024631
@@ -9030,8 +9030,8 @@ Section: J
 Account Password: 1631
 Contact: +923684197490
 Emergency Contact: +923148051426
-Hostel: H11
-Room Number: 297
+Hostel: H12
+Room Number: 134
 ---
 Name: ZAINAB HASSAN
 Reg: 2024675
@@ -9056,6 +9056,6 @@ Section: J
 Account Password: 1699
 Contact: +923806171586
 Emergency Contact: +923445834849
-Hostel: H11
-Room Number: 298
+Hostel: H12
+Room Number: 134
 ---
