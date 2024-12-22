@@ -6344,7 +6344,7 @@ Room Number:
 ---
 Name:HOORIA MUBASHAR DAR
 Reg:2024232
-Gender:M
+Gender:F
 Age:19
 CNIC:34064-6328363-1
 Program:BCS
