@@ -158,7 +158,7 @@ void ReadArray(string students[][800], int &maleStudents, int &femaleStudents, i
     studentFile.close();
 }
 
-void AllotHostels(string students[][800], int &totalStudents)
+void AllotHostels(string students[][800], int totalStudents)
 {
     const int maleHostelCapacity = 650;
     const int femaleHostelCapacity = 150;
@@ -639,6 +639,7 @@ void DisplayAdminFeatures(string *students, int maxStudents, int &totalStudents)
         break;
     }
 }
+
 void AdminChangePassword(string *students, int maxStudents, int &totalStudents)
 {
     cout << "\n\033[40m\033[1;33mCHANGE PASSWORD: \033[0m\n";
@@ -660,41 +661,7 @@ void AdminChangePassword(string *students, int maxStudents, int &totalStudents)
     DisplayAdminFeatures(students, maxStudents, totalStudents);
 }
 
-#include <iostream>
-#include <string>
-using namespace std;
-
 void AdminAddStudent(string *students, int maxStudents, int &totalStudents)
 {
-    if (totalStudents >= maxStudents)
-    {
-        cout << "\033[1;31mError: The student database is full. Cannot add more students.\033[0m\n";
-        return;
-    }
-
-    string studentName;
-    string studentRegNo;
-
-    cout << "\033[1;34mEnter the student's name: \033[0m";
-    cin.ignore();  // To clear the buffer
-    getline(cin, studentName);
-
-    cout << "\033[1;34mEnter the student's registration number: \033[0m";
-    cin >> studentRegNo;
-
-    // Check if the student already exists
-    for (int i = 0; i < totalStudents; i++)
-    {
-        if (students[i] == studentRegNo)
-        {
-            cout << "\033[1;31mError: A student with this registration number already exists.\033[0m\n";
-            return;
-        }
-    }
-
-    // Add student to the database
-    students[totalStudents] = studentName + " - " + studentRegNo;
-    totalStudents++;
-
-    cout << "\033[32mStudent added successfully! Total students: " << totalStudents << "\033[0m\n";
+   
 }
