@@ -1,0 +1,156 @@
+admin
+(@Ma123456)
+3330108522889
+Athar Guftar
+OFFICE Accdamic block
+G 12
+1st floor
+AGE 25
+Help line :033312131111
+-----------------------
+-----------------------
+-----------------------
+u2024286
+(@Ma123456)
+123456
+Mazhar Guftar
+Hostel 12
+F 12
+1st floor
+Facilty Ai
+Phone no 03000501111
+Warden name : Bilal 
+Warden Phone :033312131111
+-----------------------
+u2024285
+12345678
+123456
+Talal Iqbal
+Hostel 11
+B 12
+Ground floor
+Facilty CS
+Phone no 03000501111
+Warden name : Hassan 
+Warden Phone :033312131112
+-----------------------
+u2024284
+12345678
+123456
+Atta Rahman
+Hostel 12
+F 06
+1st floor
+Facilty Ai
+Phone no 03000501111
+Warden name : Bilal 
+Warden Phone :033312131111
+-----------------------
+u2023286
+12345678
+123456
+Mazhar Guftar
+Hostel 10
+F 12
+1st floor
+Facilty Ai
+Phone no 03000501111
+Warden name : Qasim 
+Warden Phone :033312131113
+-----------------------
+u2023285
+12345678
+123456
+Talal Iqbal
+Hostel 09
+B 12
+Ground floor
+Facilty CS
+Phone no 03000501111
+Warden name : Umar
+Warden Phone :033312131114
+-----------------------
+u2023284
+12345678
+123456
+Atta Rahman
+Hostel 12
+F 06
+1st floor
+Facilty Ai
+Phone no 03000501111
+Warden name : Qasim 
+Warden Phone :033312131113
+-----------------------
+u2022286
+12345678
+123456
+Mazhar Guftar
+Hostel 08
+F 12
+1st floor
+Facilty Ai
+Phone no 03000501111
+Warden name : Saad
+Warden Phone :033312131115
+-----------------------
+u2022285
+Talal iqbql
+123456
+Talal Iqbal
+Hostel 07
+B 12
+Ground floor
+Facilty CS
+Phone no 03000501111
+Warden name : Ali
+Warden Phone :033312131116
+-----------------------
+u2022284
+12345678
+123456
+Atta Rahman
+Hostel 08
+F 06
+1st floor
+Facilty Ai
+Phone no 03000501111
+Warden name : Saad
+Warden Phone :033312131115
+-----------------------
+u2021286
+12345678
+123456
+Mazhar Guftar
+Hostel 06
+F 12
+1st floor
+Facilty Ai
+Phone no 03000501111
+Warden name : Ali
+Warden Phone :033312131116
+-----------------------
+u2021285
+12345678
+123456
+Talal Iqbal
+Hostel 05
+B 12
+Ground floor
+Facilty CS
+Phone no 03000501111
+Warden name : Ali
+Warden Phone :033312131116
+-----------------------
+u2021284
+12345678
+123456
+Atta Rahman
+Hostel 06
+F 06
+1st floor
+Facilty Ai
+Phone no 03000501111
+Warden name : Ali
+Warden Phone :033312131116
+-----------------------
