@@ -12,6 +12,13 @@ int StringToInt(string str)
     return n;
 }
 
+string IntToString(int n)
+{
+    stringstream ss;
+    ss << n;
+    return ss.str();
+}
+
 void ReadArray(string students[][800], int &maleStudents, int &femaleStudents, int &totalStudents)
 {
     ifstream studentFile("Student_Data.txt");
@@ -113,10 +120,18 @@ void AllotHostels(string students[][800], int totalStudents)
         {
             if (maleCount < maleHostelCapacity)
             {
-                string hostel = (maleCount < 325 * roomCapacity) ? "H11" : "H12";
+                string hostel;
+                if (maleCount < 325 * roomCapacity)
+                {
+                    hostel = "H11";
+                }
+                else
+                {
+                    hostel = "H12";
+                }
                 int roomNumber = (maleCount / roomCapacity) % 325 + 1;
                 students[10][i] = hostel;
-                students[11][i] = to_string(roomNumber);
+                students[11][i] = IntToString(roomNumber);
                 maleCount++;
             }
             else
@@ -129,7 +144,7 @@ void AllotHostels(string students[][800], int totalStudents)
             if (femaleCount < femaleHostelCapacity)
             {
                 students[10][i] = "GH";
-                students[11][i] = to_string(femaleCount / roomCapacity + 1);
+                students[11][i] = IntToString(femaleCount / roomCapacity + 1);
                 femaleCount++;
             }
             else
@@ -137,8 +152,6 @@ void AllotHostels(string students[][800], int totalStudents)
                 cerr << "\033[31m\nNo available rooms for female students.\n\033[0m";
             }
         }
-
-        // Write updated data to the file
         studentFile << "Name: " << students[0][i] << "\n";
         studentFile << "Reg: " << students[1][i] << "\n";
         studentFile << "Gender: " << students[2][i] << "\n";
@@ -155,7 +168,7 @@ void AllotHostels(string students[][800], int totalStudents)
     }
 
     studentFile.close();
-    cout << "\033[32mHostel allocation completed successfully!\033[0m\n";
+    cout << "\033[32m\nHostel allocation completed successfully!\033[0m\n";
 }
 
 int DisplayLoginChoice()
@@ -166,7 +179,7 @@ int DisplayLoginChoice()
         cout << "\nSelect an option:\n\n\033[40m\033[1;33m";
         cout << " 1. Student login\n";
         cout << " 2. Admin login\033[0m\n";
-        cout << "\nInput (1 - 2):  ";
+        cout << "\nInput (1 - 2): ";
         cin >> choice;
 
         if (choice < 1 || choice > 2)
@@ -222,6 +235,11 @@ int LoginAccount(int choice, string *students, int maxStudents)
 
 void DisplayStudentProfile(string *students, int maxStudents, int currentAccount)
 {
+    string name = "\033[1;36m" + *(students + 0 * maxStudents + currentAccount) + "\033[0m";
+    cout << "This is your profile, "<<name<<".\n";
+    cout << "If there is an error or you need to update your info, contact the IT Department for assistance." ;
+
+    cout "MY PROFILE"
 }
 
 void DispayStudentFeatures(string *students, int maxStudents, int currentAccount)
@@ -266,8 +284,39 @@ void DispayStudentFeatures(string *students, int maxStudents, int currentAccount
     }
 }
 
+void printColors()
+{
+    cout << "\033[1;30mBLACK\033[0m\n";
+    cout << "\033[1;31mRED\033[0m\n";
+    cout << "\033[1;32mGREEN\033[0m\n";
+    cout << "\033[1;33mYELLOW\033[0m\n";
+    cout << "\033[1;34mBLUE\033[0m\n";
+    cout << "\033[1;35mMAGENTA\033[0m\n";
+    cout << "\033[1;36mCYAN\033[0m\n";
+    cout << "\033[1;37mWHITE\033[0m\n\n";
+
+    cout << "\033[40m\033[1;30mBLACK ON BLACK\033[0m\n";
+    cout << "\033[41m\033[1;31mRED ON RED\033[0m\n";
+    cout << "\033[42m\033[1;32mGREEN ON GREEN\033[0m\n";
+    cout << "\033[43m\033[1;33mYELLOW ON YELLOW\033[0m\n";
+    cout << "\033[44m\033[1;34mBLUE ON BLUE\033[0m\n";
+    cout << "\033[45m\033[1;35mMAGENTA ON MAGENTA\033[0m\n";
+    cout << "\033[46m\033[1;36mCYAN ON CYAN\033[0m\n";
+    cout << "\033[47m\033[1;37mWHITE ON WHITE\033[0m\n\n";
+
+    cout << "\033[100m\033[1;30mBLACK ON BRIGHT BLACK\033[0m\n";
+    cout << "\033[101m\033[1;31mRED ON BRIGHT RED\033[0m\n";
+    cout << "\033[102m\033[1;32mGREEN ON BRIGHT GREEN\033[0m\n";
+    cout << "\033[103m\033[1;33mYELLOW ON BRIGHT YELLOW\033[0m\n";
+    cout << "\033[104m\033[1;34mBLUE ON BRIGHT BLUE\033[0m\n";
+    cout << "\033[105m\033[1;35mMAGENTA ON BRIGHT MAGENTA\033[0m\n";
+    cout << "\033[106m\033[1;36mCYAN ON BRIGHT CYAN\033[0m\n";
+    cout << "\033[107m\033[1;37mWHITE ON BRIGHT WHITE\033[0m\n";
+}
+
 int main()
 {
+    printColors();
     cout << "\033[40m\033[1;33m\t=-=-=-=-=-=-=-=-=-=-=-=\n\t|  HOSTEL MANAGEMENT  |\n\t=-=-=-=-=-=-=-=-=-=-=-=\033[0m\n";
 
     // cout << "\033[1;32mGREEN\033[0m\n";
