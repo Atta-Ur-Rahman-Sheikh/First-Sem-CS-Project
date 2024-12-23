@@ -524,7 +524,7 @@ void StudentRoomTransferRequest(string *students, int maxStudents, int currentAc
     cout << "Enter registration number of the student you want to swap rooms with: ";
     cin >> reg;
     ofstream file("notification.txt", ios::app);
-    file << reg << " " << request << "\n";
+    file<<reg<<" "<<request<<"\n";
     file.close();
 
     cout << "\nPress Enter to return to Main Menu.";
@@ -953,7 +953,7 @@ void AdminComplainManagement(string *students, int maxStudents, int &totalStuden
 void AdminNotifications(string *students, int maxStudents, int &totalStudents)
 {
     cout << "\n\033[40m\033[1;33mNEW NOTIFICATION \033[0m\n\n";
-    string notification;
+    string complain;
     string reg;
     cout << "Enter you Rsgister No: ";
     cin.ignore();
@@ -965,8 +965,8 @@ void AdminNotifications(string *students, int maxStudents, int &totalStudents)
         return;
     }
     cout << "Enter your Notification: ";
-    getline(cin, notification);
-    file << reg << " " << notification << "\n";
+    getline(cin, complain);
+    file << reg << " " << complain << "\n";
     file.close();
     cout << "\nPress Enter to return to Main Menu.";
     cin.get();
@@ -978,7 +978,7 @@ void AdminRoomSwapRequests(string *students, int maxStudents, int &totalStudents
     string regNo1, regNo2;
     cout << "\n\033[40m\033[1;33mROOM SWAP REQUEST: \033[0m\n";
 
-    // Input registration numbers
+    // Get the registration numbers of the two students who want to swap rooms
     cout << "\nEnter Registration Number of the first student: ";
     cin >> regNo1;
     cout << "Enter Registration Number of the second student: ";
@@ -986,48 +986,92 @@ void AdminRoomSwapRequests(string *students, int maxStudents, int &totalStudents
 
     int student1Index = -1, student2Index = -1;
 
-    // Search for the indices of the students
+    // Find the indices of the two students in the data array
     for (int i = 0; i < totalStudents; i++)
     {
-        if (*(students + i * maxStudents) == regNo1)
+        if (*(students + 1 * maxStudents + i) == regNo1)
         {
             student1Index = i;
         }
-        if (*(students + i * maxStudents) == regNo2)
+        else if (*(students + 1 * maxStudents + i) == regNo2)
         {
             student2Index = i;
         }
 
-        // Exit the loop if both students are found
         if (student1Index != -1 && student2Index != -1)
-        {
             break;
-        }
     }
 
-    // Check if one or both students were not found
     if (student1Index == -1 || student2Index == -1)
     {
         cout << "\033[1;31mOne or both registration numbers not found. Returning to menu.\033[0m\n";
-        cin.ignore();
-        cin.get(); // Wait for user input before returning to menu
-        DisplayAdminFeatures(students, maxStudents, totalStudents);
-        return; // Exit the function
+        return;
     }
 
-    // Swap all data between the two students
-    for (int j = 0; j < maxStudents; j++)
+    // Swap the room data between the two students
+    string tempRoom = *(students + 10 * maxStudents + student1Index);  // Room of student 1
+    *(students + 10 * maxStudents + student1Index) = *(students + 10 * maxStudents + student2Index); // Room of student 2
+    *(students + 10 * maxStudents + student2Index) = tempRoom;  // Room of student 1 now in student 2
+
+    // Update the data in the text file
+    fstream file("Student_Data.txt", ios::in | ios::out);
+    if (!file.is_open())
     {
-        swap(*(students + student1Index * maxStudents + j), *(students + student2Index * maxStudents + j));
+        cout << "\033[1;31mError opening file.\033[0m\n";
+        return;
     }
 
-    // Display success message and return to menu
-    cout << "\033[32mRoom swap successful.\033[0m\n";
-    cout << "\nPress Enter to return to the Main Menu.";
-    cin.ignore();
+    string line;
+    string updatedData1, updatedData2;
+
+    // Find the student 1's and student 2's information and swap their room info
+    int count = 0;
+    while (getline(file, line))
+    {
+        if (line.find("Reg No: " + regNo1) != string::npos)
+        {
+            updatedData1 = line;
+            for (int i = 0; i < 10; i++)
+            {
+                getline(file, line);
+                if (i == 9)  // This is the Room line
+                {
+                    line = "Room: " + *(students + 10 * maxStudents + student2Index);
+                }
+                updatedData1 += "\n" + line;
+            }
+        }
+        else if (line.find("Reg No: " + regNo2) != string::npos)
+        {
+            updatedData2 = line;
+            for (int i = 0; i < 10; i++)
+            {
+                getline(file, line);
+                if (i == 9)  // This is the Room line
+                {
+                    line = "Room: " + *(students + 10 * maxStudents + student1Index);
+                }
+                updatedData2 += "\n" + line;
+            }
+        }
+        count++;
+    }
+
+    // Close the file and write the new data
+    file.clear();  // Clear EOF flag
+    file.seekg(0, ios::beg);  // Rewind the file pointer
+
+    // Rewriting the file with the swapped room information
+    ofstream outFile("Student_Data.txt", ios::trunc);
+    outFile << updatedData1 << "\n" << updatedData2;
+    outFile.close();
+
+    cout << "\n\033[32mRoom swap successful.\033[0m\n";
+    cout << "\nPress Enter to return to Main Menu.";
     cin.get();
     DisplayAdminFeatures(students, maxStudents, totalStudents);
 }
+
 
 void AdminAnnouncements(string *students, int maxStudents, int &totalStudents)
 {

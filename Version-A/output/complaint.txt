@@ -2,3 +2,4 @@
 2024476 No hot water.
 2024286 No electricity in Room F7.
 2024122 No Hot Water!
+2024122 No hot water in Hostel 12.
