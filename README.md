@@ -15,3 +15,13 @@ Add comments and instructions so other people can understand your work.
 Document your work as well.
 
 Other project details will be discussed in the Whatsapp group.
+
+Final Submission Roles:-
+Atta:
+Hostel and Room Allocation, Login System Student Features( Profile & Hostel Overview, ), Structure and Design, Aesthetics, Github Management, Menus, Error Handling,
+
+Talal:
+Research, Documentation, Admin Features ( Appending Student Data, Student Search, Report Generation, Change Password )
+
+Mazhar:
+Research, Room Swapping, File Handling ( Notifications & Announcements Mangement, Parcel Alerts, Complaints Management )
