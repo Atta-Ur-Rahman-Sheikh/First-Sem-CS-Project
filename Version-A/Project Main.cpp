@@ -6,10 +6,12 @@ using namespace std;
 
 int StringToInt(string);
 string IntToString(int);
+
 void ReadArray(string[][800], int &, int &, int &);
 void AllotHostels(string[][800], int);
 int DisplayLoginChoice();
 int LoginAccount(int, string *, int);
+
 void DisplayStudentFeatures(string *, int, int);
 void DisplayStudentProfile(string *, int, int);
 void DisplayStudentHostelOverview(string *, int, int);
@@ -19,8 +21,8 @@ void StudentParcelAlerts(string *, int, int);
 void StudentNotifications(string *, int, int);
 void StudentReadsAdminAnnouncements(string *, int, int);
 void StudentComplainTracker(string *, int, int);
-void DisplayAdminFeatures(string *, int, int &);
 
+void DisplayAdminFeatures(string *, int, int &);
 void AdminChangePassword(string *, int, int &);
 void AdminComplainManagement(string *, int, int &);
 void AdminNotifications(string *, int, int &);
@@ -36,6 +38,7 @@ int maleStudents = 0, femaleStudents = 0;
 int main()
 {
     // ADMIN MASTER KEY: 8888
+
     system("");
     cout << "\033[1;33m\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\n\t|  GIK HOSTEL MANAGEMENT  |\n\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\033[0m\n";
 
@@ -1008,7 +1011,6 @@ void AdminRoomSwapRequests(string *students, int maxStudents, int &totalStudents
         cin.ignore();
         cin.get();
         DisplayAdminFeatures(students, maxStudents, totalStudents);
-        return;
     }
 
     for (int j = 0; j < maxStudents; j++)
