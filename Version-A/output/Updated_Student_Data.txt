@@ -9048,14 +9048,14 @@ Room Number: 51
 ---
 Name: MUHAMMAD DANIYAL CHISHTY
 Reg: 2024699
-Gender: M
+Gender: F
 Age: 22
-CNIC: 50925-8088175-0
-Program: BES
-Section: J
+CNIC: 55889-3735446-9
+Program: BAI
+Section: Z
 Account Password: 1699
-Contact: +923806171586
-Emergency Contact: +923445834849
-Hostel: H12
-Room Number: 134
+Contact: +923535267049
+Emergency Contact: +923535267049
+Hostel: GH
+Room Number: 52
 ---

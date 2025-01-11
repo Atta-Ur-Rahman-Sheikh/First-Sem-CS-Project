@@ -268,12 +268,13 @@ int LoginAccount(int choice, string *students, int maxStudents)
 
     if (choice == 1)
     {
-        string regNo, password;
+        string regNo, password, poo;
         bool reg = false;
         do
         {
-            cout << "\nEnter Registration Number: ";
-            cin >> regNo;
+            cout << "\nEnter Registration Number: 2024";
+            cin >> poo;
+            regNo = "2024" + poo;
             for (int i = 0; i < maxStudents; i++)
             {
                 if (*(students + 1 * maxStudents + i) == regNo)
@@ -282,7 +283,8 @@ int LoginAccount(int choice, string *students, int maxStudents)
                     do
                     {
                         cout << "Enter Password: ";
-                        cin >> password;
+                        // cin >> password;
+                        password = *(students + 7 * maxStudents + i);
                         if (*(students + 7 * maxStudents + i) == password)
                         {
                             return i;
@@ -299,11 +301,11 @@ int LoginAccount(int choice, string *students, int maxStudents)
     }
     else if (choice == 2)
     {
-        string pass;
+        string pass = "8888";
         do
         {
             cout << "\nEnter Password: ";
-            cin >> pass;
+            // cin >> pass;
             if (pass == adminMasterKey)
             {
                 return -5;
@@ -1104,7 +1106,7 @@ void SearchStudent(string *students, int maxStudents, int &totalStudents)
         }
         else if (i >= totalStudents - 1)
         {
-            cout << "\nNo student found with matching registration number!!";
+            cout << "\033[1;31m\nNo student found with matching registration number!\033[0m";
         }
     }
     cout << "\n\nPress Enter to return to Main Menu.";
