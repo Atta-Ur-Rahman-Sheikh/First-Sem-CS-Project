@@ -26,7 +26,7 @@ This project will initially contain three foldes:
 1. Version-T (will be worked on ny Talal)
 2. Version-M (will be worked on by Mazhart)
 3. Version-A (will be worked on by Atta)
-4. FinalVersion-1
+4. FinalVersion-1 (will be worked on by Atta)
 
 Everyone will work on their assigned features of the project.
 Feature assignment will be done in the Whatsapp group.
