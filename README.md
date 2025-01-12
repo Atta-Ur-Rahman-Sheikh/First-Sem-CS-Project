@@ -1,6 +1,8 @@
 # First-Sem-CS-Project
 Hostel Management System
 
+**This project is a command-line application for managing hostel operations, including room allocation, fee management, complaints tracking, and student profiles. It was developed as part of my first-semester CS coursework.**
+
 This project will initially contain three foldes:
 
 1. Version-T (will be worked on ny Talal)
