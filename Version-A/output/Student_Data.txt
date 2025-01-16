@@ -9071,3 +9071,16 @@ CNIC: 55889-3735446-9
 Hostel: 55889-3735446-9
 Room: 55889-3735446-9
 ---
+Name: RANDO STUDENTO
+Reg No: 2024999
+Gender: F
+Program: BAI
+Section: F
+Age :256
+Account Password :1202
+Contact: +923535267049
+Emergency Contact: +923535267049
+CNIC: 55889-3735446-9
+Hostel: 55889-3735446-9
+Room: 55889-3735446-9
+---

@@ -9059,3 +9059,16 @@ Emergency Contact: +923535267049
 Hostel: GH
 Room Number: 52
 ---
+Name: RANDO STUDENTO
+Reg: 
+Gender: F
+Age: 
+CNIC: 55889-3735446-9
+Program: BAI
+Section: F
+Account Password: 
+Contact: +923535267049
+Emergency Contact: +923535267049
+Hostel: GH
+Room Number: 52
+---

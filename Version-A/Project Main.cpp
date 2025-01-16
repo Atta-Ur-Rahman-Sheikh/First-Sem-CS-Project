@@ -40,11 +40,12 @@ int main()
     // ADMIN MASTER KEY: 8888
 
     system("");
-    cout << "\033[1;33m\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\n\t|  GIK HOSTEL MANAGEMENT  |\n\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\033[0m\n";
+    cout << "\033[1;33m\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\n\t|  TALAL GANDU  |\n\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\033[0m\n";
 
     int totalStudents = 0;
     const int maxStudents = 800;
     string students[12][maxStudents];
+
     ReadArray(students, maleStudents, femaleStudents, totalStudents);
 
     AllotHostels(students, totalStudents);
@@ -53,23 +54,19 @@ int main()
     system("cls");
 
     if (currentAccount == -100)
-    {
         return 0;
-    }
     else if (currentAccount == -5)
-    {
         DisplayAdminFeatures((string *)students, maxStudents, totalStudents);
-    }
     else
-    {
         DisplayStudentFeatures((string *)students, maxStudents, currentAccount);
-    }
 
+    // Students Array Key
     // [0 = Name] [1 = Reg] [2 = Gender] [3 = Age] [4 = CNIC] [5 = Program] [6 = Section]
     // [7 = Password] [8 = Contact] [9 = Emergency Contact] [10 = Hostel] [11 = Room Number]
 
     return 0;
 }
+
 
 int StringToInt(string str)
 {
@@ -85,6 +82,8 @@ string IntToString(int n)
     ss << n;
     return ss.str();
 }
+
+
 
 void ReadArray(string students[][800], int &maleStudents, int &femaleStudents, int &totalStudents)
 {
@@ -322,6 +321,8 @@ int LoginAccount(int choice, string *students, int maxStudents)
         return -100;
     }
 }
+
+
 
 void DisplayStudentFeatures(string *students, int maxStudents, int currentAccount)
 {
@@ -716,6 +717,8 @@ void StudentComplainTracker(string *students, int maxStudents, int currentAccoun
     } while (true);
     DisplayStudentFeatures((string *)students, maxStudents, currentAccount);
 }
+
+
 
 void DisplayAdminFeatures(string *students, int maxStudents, int &totalStudents)
 {
