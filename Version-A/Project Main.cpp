@@ -40,7 +40,7 @@ int main()
     // ADMIN MASTER KEY: 8888
 
     system("");
-    cout << "\033[1;33m\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\n\t|  TALAL GANDU  |\n\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\033[0m\n";
+    cout << "\033[1;33m\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\n\t|  GIK HOSTEL MANAGEMENT  |\n\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\033[0m\n";
 
     int totalStudents = 0;
     const int maxStudents = 800;
