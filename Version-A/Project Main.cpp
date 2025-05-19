@@ -38,7 +38,6 @@ int maleStudents = 0, femaleStudents = 0;
 int main()
 {
     // ADMIN MASTER KEY: 8888
-
     system("");
     cout << "\033[1;33m\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\n\t|  GIK HOSTEL MANAGEMENT  |\n\t=-=-=-=-=-=-=-=-=-=-=-=-=-=\033[0m\n";
 
@@ -64,9 +63,9 @@ int main()
     // [0 = Name] [1 = Reg] [2 = Gender] [3 = Age] [4 = CNIC] [5 = Program] [6 = Section]
     // [7 = Password] [8 = Contact] [9 = Emergency Contact] [10 = Hostel] [11 = Room Number]
 
+    
     return 0;
 }
-
 
 int StringToInt(string str)
 {
@@ -82,8 +81,6 @@ string IntToString(int n)
     ss << n;
     return ss.str();
 }
-
-
 
 void ReadArray(string students[][800], int &maleStudents, int &femaleStudents, int &totalStudents)
 {
